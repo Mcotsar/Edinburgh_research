@@ -5,7 +5,7 @@ library("vegan")
 
 #load the data
 
-mydata = csv.file("mydata.csv", header= T, sep=";")
+mydata = read.csv("data.csv", header= T, sep=";")
 
 #names(mydata) to see the name of the variables
 
@@ -13,5 +13,5 @@ mydata = csv.file("mydata.csv", header= T, sep=";")
 mydata = subset(mydata, name %in% c("Baetica"))
 
 #select Baetica area and type Dressel 20
-mydata = subset(mydata, type %in% c("Dressel 20") & type %in% c("Dressel 20"))
+mydata = subset(mydata, name %in% c("Baetica") & type %in% c("Dressel 20"))
 
