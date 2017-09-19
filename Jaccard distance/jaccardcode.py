@@ -8,7 +8,7 @@ Created on Tue Sep 12 17:04:06 2017
 
 import csv, numpy
 
-stampFile = open('/home/mcotsar/Documents/Edinburgh_research/baeticadata.csv', "r")
+stampFile = open('baeticadata.csv', "r")
 #other option to open file '~/Documents/Edinburgh_research/data.csv'
 stamps = csv.reader(stampFile, delimiter = ";")
 
@@ -44,6 +44,15 @@ for stamp in stamps:
 print("num sites:",len(listSites))
 
 jaccard = numpy.zeros([len(listSites),len(listSites)])
+
+
+nameSites = open("sites.csv", "w")
+nameSites.write("id,name\n")
+print(listSites)
+for i in range(len(listSites)):
+    print(i,"site:",listSites[i])
+    nameSites.write(str(i)+","+listSites[i]+"\n")
+nameSites.close()
 
 for i in range(len(listSites)):
     for j in range(len(listSites)):
