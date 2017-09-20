@@ -1,1513 +1,1511 @@
-id;lat;long;type;site;code;name
-13630;-5.646083;37.471248;Dressel 20;Carmona;EPSF;Baetica
-38865;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-6721;-5.52751;37.658961;Dressel 20;Lora del Río;CHRYSANTI;Baetica
-13741;-5.52751;37.658961;Dressel 20;Lora del Río;LSR;Baetica
-12387;-5.082599;37.542203;Dressel 20;Écija;LAVRELIGERMANI;Baetica
-11509;-5.281208;37.700239;Dressel 20;Palma del Río;QIVTES;Baetica
-13098;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-38812;-5.082599;37.542203;Dressel 20;Écija;FELICIS;Baetica
-12536;-6.041843;37.433953;Dressel 20;Santiponce;DATSCOL;Baetica
-13713;-5.52751;37.658961;Dressel 20;Lora del Río;MEM;Baetica
-11062;-5.082599;37.542203;Dressel 20;Écija;GERM;Baetica
-7133;-5.52751;37.658961;Dressel 20;Lora del Río;LVALERITROPHIMI;Baetica
-11482;-5.281208;37.700239;Dressel 20;Palma del Río;CYALB;Baetica
-12531;-6.041843;37.433953;Dressel 20;Santiponce;MA;Baetica
-12379;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-11245;-5.281208;37.700239;Dressel 20;Palma del Río;ATP;Baetica
-912;-5.281208;37.700239;Dressel 20;Palma del Río;MCC;Baetica
-11265;-5.082599;37.542203;Dressel 20;Écija;LVALCHAE;Baetica
-28099;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-867;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-28359;-5.02037;37.810702;Dressel 20;Almodóvar del Río;LIBERALINI;Baetica
-10915;-5.082599;37.542203;Dressel 20;Écija;LIDFIT;Baetica
-41687;-5.52751;37.658961;Dressel 20;Lora del Río;LSSEX;Baetica
-11139;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-11666;-5.02037;37.810702;Dressel 20;Almodóvar del Río;IREO;Baetica
-33342;-5.52751;37.658961;Dressel 20;Lora del Río;APF;Baetica
-13587;-5.666942;37.615058;Dressel 20;Alcolea del Río;MFM;Baetica
-11129;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-38942;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-11384;-5.281208;37.700239;Dressel 20;Palma del Río;QSO;Baetica
-13707;-5.52751;37.658961;Dressel 20;Lora del Río;GANNIRVFINI;Baetica
-29360;-5.973167;37.382826;Dressel 20;Seville;QFR;Baetica
-21230;-5.34504;37.708919;Dressel 20;Peñaflor;LVPOS;Baetica
-6404;-5.75;37.733333;Dressel 20;Castillo de Mulva;LIVNIMELISSI;Baetica
-26884;-5.233333;37.833333;Dressel 20;Hornachuelos;SCALGAB;Baetica
-10854;-5.082599;37.542203;Dressel 20;Écija;FEL;Baetica
-11081;-5.52751;37.658961;Dressel 20;Lora del Río;LIT;Baetica
-11476;-5.281208;37.700239;Dressel 20;Palma del Río;CIALB;Baetica
-33344;-5.52751;37.658961;Dressel 20;Lora del Río;CMM;Baetica
-26461;-5.973167;37.382826;Dressel 20;Seville;CAMILIMELISSI;Baetica
-13445;-5.871389;37.549445;Dressel 20;Brenes;SQFSN;Baetica
-36984;-5.973167;37.382826;Dressel 20;Seville;CCR;Baetica
-11248;-5.281208;37.700239;Dressel 20;Palma del Río;QSYD;Baetica
-11621;-5.107258;37.802053;Dressel 20;Posadas;FEDOPP;Baetica
-13498;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-26716;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13722;-5.52751;37.658961;Dressel 20;Lora del Río;CONSFC;Baetica
-38917;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13133;-5.646083;37.471248;Dressel 20;Carmona;PRI;Baetica
-12896;-5.34504;37.708919;Dressel 20;Peñaflor;AF;Baetica
-41685;-5.52751;37.658961;Dressel 20;Lora del Río;LSSEX;Baetica
-930;-5.281208;37.700239;Dressel 20;Palma del Río;PCHO;Baetica
-7009;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-12535;-6.041843;37.433953;Dressel 20;Santiponce;STT;Baetica
-38839;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-26753;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-5562;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-41667;-5.52751;37.658961;Dressel 20;Lora del Río;CCRASSISEMNI;Baetica
-882;-5.233333;37.833333;Dressel 20;Hornachuelos;LFF;Baetica
-7121;-5.52751;37.658961;Dressel 20;Lora del Río;LSERLVPI;Baetica
-12239;-5.107258;37.802053;Dressel 20;Posadas;AEFCA;Baetica
-11638;-5.107258;37.802053;Dressel 20;Posadas;MAVR;Baetica
-12449;-5.281208;37.700239;Dressel 20;Palma del Río;CI;Baetica
-38859;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-41699;-5.082599;37.542203;Dressel 20;Écija;FCAV;Baetica
-12326;-5.082599;37.542203;Dressel 20;Écija;LFCS;Baetica
-38838;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12473;-5.52751;37.658961;Dressel 20;Lora del Río;FCRV;Baetica
-38805;-5.082599;37.542203;Dressel 20;Écija;ROMANI;Baetica
-38905;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-7005;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-12528;-6.041843;37.433953;Dressel 20;Santiponce;LIS;Baetica
-10902;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-9544;-5.666942;37.615058;Dressel 20;Alcolea del Río;MHA;Baetica
-28210;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11199;-5.52751;37.658961;Dressel 20;Lora del Río;AVBANB;Baetica
-12992;-5.666942;37.615058;Dressel 20;Alcolea del Río;STLA;Baetica
-7019;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-6664;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-11575;-5.107258;37.802053;Dressel 20;Posadas;DITR;Baetica
-13008;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12222;-5.09965;37.704938;Dressel 20;Fuente Palmera;CCNS;Baetica
-7200;-5.02037;37.810702;Dressel 20;Almodóvar del Río;THALI;Baetica
-11121;-5.52751;37.658961;Dressel 20;Lora del Río;LQS;Baetica
-9555;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-28048;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-41677;-5.52751;37.658961;Dressel 20;Lora del Río;IIAVRELHERACLAPATETFILFGRV;Baetica
-26717;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-12230;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-6823;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-38936;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-926;-5.281208;37.700239;Dressel 20;Palma del Río;SECVNDIINIA;Baetica
-11137;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-12486;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-10903;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-12534;-6.041843;37.433953;Dressel 20;Santiponce;LFC;Baetica
-12551;-6.054101;37.287661;Dressel 20;Coria del Río;LQS;Baetica
-6649;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-13623;-5.646083;37.471248;Dressel 20;Carmona;ME;Baetica
-10990;-5.871389;37.549445;Dressel 20;Brenes;VIR;Baetica
-844;-5.233333;37.833333;Dressel 20;Hornachuelos;MCCDFM;Baetica
-11335;-5.281208;37.700239;Dressel 20;Palma del Río;AVRELIHERACLAE;Baetica
-17701;-5.666942;37.615058;Dressel 20;Alcolea del Río;LGG;Baetica
-11285;-5.52751;37.658961;Dressel 20;Lora del Río;ATITTAE;Baetica
-13495;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-7029;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-26724;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-10887;-5.082599;37.542203;Dressel 20;Écija;LAVRELIGERMANI;Baetica
-29664;-5.871389;37.549445;Dressel 20;Brenes;VIRIII;Baetica
-26687;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-17754;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13663;-5.646083;37.471248;Dressel 20;Carmona;ENATENTA;Baetica
-13754;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-13733;-5.52751;37.658961;Dressel 20;Lora del Río;LAEQ;Baetica
-13543;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-10889;-5.082599;37.542203;Dressel 20;Écija;LA;Baetica
-12319;-5.082599;37.542203;Dressel 20;Écija;LAVRELIGERMANI;Baetica
-6974;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-12983;-5.666942;37.615058;Dressel 20;Alcolea del Río;MNRNNR;Baetica
-13626;-5.646083;37.471248;Dressel 20;Carmona;LER;Baetica
-28097;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-11773;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CARI;Baetica
-11817;-4.772748;37.89155;Dressel 20;Córdoba;AVFER;Baetica
-38787;-5.082599;37.542203;Dressel 20;Écija;GERMA;Baetica
-12233;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-12542;-6.041843;37.433953;Dressel 20;Santiponce;PPCAL;Baetica
-38884;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12881;-5.082599;37.542203;Dressel 20;Écija;FELICIS;Baetica
-10878;-5.082599;37.542203;Dressel 20;Écija;QFC;Baetica
-26750;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38921;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13442;-5.871389;37.549445;Dressel 20;Brenes;LFFV;Baetica
-12332;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-12356;-5.082599;37.542203;Dressel 20;Écija;LVAGER;Baetica
-11520;-5.233333;37.833333;Dressel 20;Hornachuelos;SAXE;Baetica
-38894;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-38883;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12906;-5.52751;37.658961;Dressel 20;Lora del Río;ST;Baetica
-26749;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-12899;-5.34504;37.708919;Dressel 20;Peñaflor;NIII;Baetica
-12980;-5.666942;37.615058;Dressel 20;Alcolea del Río;CANNIRVFINI;Baetica
-26638;-5.233333;37.833333;Dressel 20;Hornachuelos;PAH;Baetica
-28093;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-6892;-5.52751;37.658961;Dressel 20;Lora del Río;MMR;Baetica
-26674;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11150;-5.52751;37.658961;Dressel 20;Lora del Río;PSAENI;Baetica
-13195;-5.666942;37.615058;Dressel 20;Alcolea del Río;AV;Baetica
-12411;-5.082599;37.542203;Dressel 20;Écija;LAEL;Baetica
-13213;-5.666942;37.615058;Dressel 20;Alcolea del Río;PERSEV;Baetica
-12260;-5.107258;37.802053;Dressel 20;Posadas;IMPIGI;Baetica
-26743;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38826;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13059;-5.666942;37.615058;Dressel 20;Alcolea del Río;NPM;Baetica
-13101;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-13611;-5.646083;37.471248;Dressel 20;Carmona;LSPBO;Baetica
-11164;-5.52751;37.658961;Dressel 20;Lora del Río;HISPANI;Baetica
-13555;-5.666942;37.615058;Dressel 20;Alcolea del Río;MCS;Baetica
-6717;-5.52751;37.658961;Dressel 20;Lora del Río;VCLF;Baetica
-11417;-5.281208;37.700239;Dressel 20;Palma del Río;LVIBICHOMIS;Baetica
-12894;-5.34504;37.708919;Dressel 20;Peñaflor;OTVQTV;Baetica
-851;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38823;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-9549;-5.666942;37.615058;Dressel 20;Alcolea del Río;IIIMINICIOR;Baetica
-26735;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-41701;-5.082599;37.542203;Dressel 20;Écija;GCLK;Baetica
-12460;-5.281208;37.700239;Dressel 20;Palma del Río;MIFRPN;Baetica
-33323;-5.52751;37.658961;Dressel 20;Lora del Río;CONSFC;Baetica
-12403;-5.082599;37.542203;Dressel 20;Écija;LICC;Baetica
-12824;-5.281208;37.700239;Dressel 20;Palma del Río;RATT;Baetica
-12175;-5.233333;37.833333;Dressel 20;Hornachuelos;NARF;Baetica
-41663;-5.52751;37.658961;Dressel 20;Lora del Río;CCRASSISEMNI;Baetica
-10884;-5.082599;37.542203;Dressel 20;Écija;MIM;Baetica
-41695;-5.082599;37.542203;Dressel 20;Écija;FC;Baetica
-38925;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-11385;-5.281208;37.700239;Dressel 20;Palma del Río;DIN;Baetica
-6863;-5.52751;37.658961;Dressel 20;Lora del Río;BALF;Baetica
-26731;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38903;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13617;-5.646083;37.471248;Dressel 20;Carmona;LSPBO;Baetica
-38944;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-38872;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-861;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38911;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12527;-6.041843;37.433953;Dressel 20;Santiponce;PMOCVFIGEDO;Baetica
-13064;-5.666942;37.615058;Dressel 20;Alcolea del Río;CM;Baetica
-7024;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-38874;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12529;-6.041843;37.433953;Dressel 20;Santiponce;CAS;Baetica
-13236;-5.646083;37.471248;Dressel 20;Carmona;TFA;Baetica
-11182;-5.52751;37.658961;Dressel 20;Lora del Río;LSERLVPI;Baetica
-11091;-5.52751;37.658961;Dressel 20;Lora del Río;CAVE;Baetica
-13655;-5.646083;37.471248;Dressel 20;Carmona;LIT;Baetica
-41678;-5.52751;37.658961;Dressel 20;Lora del Río;IIAVRELHERACLAPATETFILFGRV;Baetica
-7028;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-6833;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-13011;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11779;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CMARISILVANI;Baetica
-6819;-5.52751;37.658961;Dressel 20;Lora del Río;POQHEHE;Baetica
-13203;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38861;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13202;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38966;-5.082599;37.542203;Dressel 20;Écija;CORBEL;Baetica
-11267;-5.082599;37.542203;Dressel 20;Écija;SVLAL;Baetica
-5576;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-885;-5.233333;37.833333;Dressel 20;Hornachuelos;LFLVC;Baetica
-12167;-5.02037;37.810702;Dressel 20;Almodóvar del Río;NICXIII;Baetica
-11913;-5.02037;37.810702;Dressel 20;Almodóvar del Río;VICIORN;Baetica
-12042;-5.02037;37.810702;Dressel 20;Almodóvar del Río;VICXII;Baetica
-38815;-5.082599;37.542203;Dressel 20;Écija;FELICIS;Baetica
-879;-5.233333;37.833333;Dressel 20;Hornachuelos;LFF;Baetica
-10883;-5.082599;37.542203;Dressel 20;Écija;MIM;Baetica
-12383;-5.082599;37.542203;Dressel 20;Écija;CEMT;Baetica
-12100;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CALP;Baetica
-864;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11839;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-13266;-5.107258;37.802053;Dressel 20;Posadas;PM;Baetica
-38891;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-29657;-5.871389;37.549445;Dressel 20;Brenes;VIRG;Baetica
-12969;-5.666942;37.615058;Dressel 20;Alcolea del Río;SALS;Baetica
-11263;-5.082599;37.542203;Dressel 20;Écija;LAL;Baetica
-13263;-5.107258;37.802053;Dressel 20;Posadas;OCA;Baetica
-26729;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11173;-5.52751;37.658961;Dressel 20;Lora del Río;NERV;Baetica
-6882;-5.52751;37.658961;Dressel 20;Lora del Río;PMH;Baetica
-12228;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-11171;-5.52751;37.658961;Dressel 20;Lora del Río;SIP;Baetica
-11349;-5.281208;37.700239;Dressel 20;Palma del Río;BELCI;Baetica
-11815;-5.02037;37.810702;Dressel 20;Almodóvar del Río;NICXIII;Baetica
-11274;-5.52751;37.658961;Dressel 20;Lora del Río;NER;Baetica
-12399;-5.082599;37.542203;Dressel 20;Écija;LIDFIT;Baetica
-913;-5.281208;37.700239;Dressel 20;Palma del Río;MCCDFM;Baetica
-28200;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12836;-5.281208;37.700239;Dressel 20;Palma del Río;QIC;Baetica
-12950;-5.52751;37.658961;Dressel 20;Lora del Río;CMM;Baetica
-13528;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12468;-5.281208;37.700239;Dressel 20;Palma del Río;AVRELIHERACLAE;Baetica
-11442;-5.281208;37.700239;Dressel 20;Palma del Río;LVIBICHOMIS;Baetica
-10885;-5.082599;37.542203;Dressel 20;Écija;MIM;Baetica
-866;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-28088;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-38924;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-7199;-5.02037;37.810702;Dressel 20;Almodóvar del Río;SIICVN;Baetica
-13522;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11383;-5.281208;37.700239;Dressel 20;Palma del Río;CAEI;Baetica
-12225;-5.09965;37.704938;Dressel 20;Fuente Palmera;CCNS;Baetica
-26715;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-10941;-5.082599;37.542203;Dressel 20;Écija;LAEL;Baetica
-38945;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-32343;-5.696078;37.447006;Dressel 20;Sevilla;LV;Baetica
-13248;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-10845;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-5577;-5.666942;37.615058;Dressel 20;Alcolea del Río;VRS;Baetica
-6977;-5.52751;37.658961;Dressel 20;Lora del Río;POCODV;Baetica
-11531;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-33377;-5.646083;37.471248;Dressel 20;Carmona;MAS;Baetica
-12452;-5.281208;37.700239;Dressel 20;Palma del Río;FCFIVSFM;Baetica
-26745;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-26980;-5.233333;37.833333;Dressel 20;Hornachuelos;LTPHI;Baetica
-7015;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-11570;-5.107258;37.802053;Dressel 20;Posadas;FAV;Baetica
-12026;-5.02037;37.810702;Dressel 20;Almodóvar del Río;VIXII;Baetica
-26728;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-12485;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-38935;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-10879;-5.082599;37.542203;Dressel 20;Écija;CSIVAASFCA;Baetica
-13558;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12384;-5.082599;37.542203;Dressel 20;Écija;CCAV;Baetica
-12839;-5.281208;37.700239;Dressel 20;Palma del Río;MXIEMVELMXIEN;Baetica
-26685;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-7016;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-13745;-5.52751;37.658961;Dressel 20;Lora del Río;CENNIHISPANI;Baetica
-38892;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-26752;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-9545;-5.666942;37.615058;Dressel 20;Alcolea del Río;IIIMINICIOR;Baetica
-11669;-5.02037;37.810702;Dressel 20;Almodóvar del Río;VVC;Baetica
-12206;-5.107258;37.802053;Dressel 20;Posadas;CVVA;Baetica
-41672;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-11906;-5.02037;37.810702;Dressel 20;Almodóvar del Río;SECVN;Baetica
-26718;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38843;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12507;-5.52751;37.658961;Dressel 20;Lora del Río;SEXN;Baetica
-38836;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13610;-5.646083;37.471248;Dressel 20;Carmona;LSPBO;Baetica
-13675;-5.646083;37.471248;Dressel 20;Carmona;TATILIASIATICI;Baetica
-13225;-5.666942;37.615058;Dressel 20;Alcolea del Río;IE;Baetica
-33356;-5.52751;37.658961;Dressel 20;Lora del Río;QAOPCO;Baetica
-13618;-5.646083;37.471248;Dressel 20;Carmona;LSPBO;Baetica
-26463;-5.973167;37.382826;Dressel 20;Seville;CA;Baetica
-874;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38869;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-41445;-5.388371;37.780899;Dressel 20;La Puebla de los Infantes;FCVCV;Baetica
-11595;-5.107258;37.802053;Dressel 20;Posadas;MAT;Baetica
-26944;-5.233333;37.833333;Dressel 20;Hornachuelos;SCALESE;Baetica
-13249;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-11821;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-6969;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-11045;-5.871389;37.549445;Dressel 20;Brenes;FCVF;Baetica
-11902;-5.02037;37.810702;Dressel 20;Almodóvar del Río;NSAAPNSMP;Baetica
-29612;-5.749515;37.373014;Dressel 20;Mairena del Alcor;LVAGAL;Baetica
-13066;-5.666942;37.615058;Dressel 20;Alcolea del Río;NFOI;Baetica
-12953;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-11772;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CARI;Baetica
-5573;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-7055;-5.52751;37.658961;Dressel 20;Lora del Río;LQS;Baetica
-7137;-5.52751;37.658961;Dressel 20;Lora del Río;ATITAE;Baetica
-26701;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-12218;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-12096;-5.02037;37.810702;Dressel 20;Almodóvar del Río;AN;Baetica
-13237;-5.646083;37.471248;Dressel 20;Carmona;TFA;Baetica
-12810;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCCVFM;Baetica
-13483;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-13502;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11880;-5.233333;37.833333;Dressel 20;Hornachuelos;LCCVFI;Baetica
-26689;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-41702;-5.082599;37.542203;Dressel 20;Écija;SCLC;Baetica
-12245;-5.107258;37.802053;Dressel 20;Posadas;LFC;Baetica
-26885;-5.233333;37.833333;Dressel 20;Hornachuelos;SCALGAB;Baetica
-13487;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-855;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38802;-5.082599;37.542203;Dressel 20;Écija;IVCVNDI;Baetica
-13506;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12799;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIVLIBAR;Baetica
-29594;-5.34504;37.708919;Dressel 20;Peñaflor;TREPTI;Baetica
-36982;-5.973167;37.382826;Dressel 20;Seville;IV;Baetica
-41669;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-5474;-3.690619;36.733594;Dressel 20;Almuñécar;AGRICOLAE;Baetica
-33367;-5.646083;37.471248;Dressel 20;Carmona;LCS;Baetica
-12868;-5.082599;37.542203;Dressel 20;Écija;SILVESTRI;Baetica
-846;-5.233333;37.833333;Dressel 20;Hornachuelos;CELSI;Baetica
-12861;-5.082599;37.542203;Dressel 20;Écija;LVIVCV;Baetica
-26730;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13441;-5.871389;37.549445;Dressel 20;Brenes;LFFV;Baetica
-38785;-5.082599;37.542203;Dressel 20;Écija;GERMA;Baetica
-11836;-5.09965;37.704938;Dressel 20;Fuente Palmera;CCNS;Baetica
-29239;-6.041843;37.433953;Dressel 20;Santiponce;TFA;Baetica
-21237;-5.34504;37.708919;Dressel 20;Peñaflor;MAIR;Baetica
-33351;-5.52751;37.658961;Dressel 20;Lora del Río;IDN;Baetica
-11724;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CMARISILVANI;Baetica
-13547;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-12981;-5.666942;37.615058;Dressel 20;Alcolea del Río;CANNIRVFINI;Baetica
-11770;-5.02037;37.810702;Dressel 20;Almodóvar del Río;SVCCESI;Baetica
-12056;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CMARISILVANI;Baetica
-13242;-5.52751;37.658961;Dressel 20;Lora del Río;LVALERITROPHIMI;Baetica
-26693;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13210;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11079;-5.52751;37.658961;Dressel 20;Lora del Río;LIT;Baetica
-6967;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-13084;-5.666942;37.615058;Dressel 20;Alcolea del Río;RIV;Baetica
-33378;-5.646083;37.471248;Dressel 20;Carmona;MAS;Baetica
-6651;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-33333;-5.52751;37.658961;Dressel 20;Lora del Río;FIRMI;Baetica
-13209;-5.666942;37.615058;Dressel 20;Alcolea del Río;CCELI;Baetica
-6659;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-10939;-5.082599;37.542203;Dressel 20;Écija;FSVO;Baetica
-11136;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-12091;-5.02037;37.810702;Dressel 20;Almodóvar del Río;MCF;Baetica
-13557;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13749;-5.281208;37.700239;Dressel 20;Palma del Río;Q;Baetica
-26709;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13145;-5.666942;37.615058;Dressel 20;Alcolea del Río;SPSAE;Baetica
-13095;-5.666942;37.615058;Dressel 20;Alcolea del Río;PATI;Baetica
-41689;-5.52751;37.658961;Dressel 20;Lora del Río;LVRIFLVRIE;Baetica
-7006;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-11567;-5.107258;37.802053;Dressel 20;Posadas;LTSTR;Baetica
-26860;-5.233333;37.833333;Dressel 20;Hornachuelos;SCALESIACAP;Baetica
-26681;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-843;-5.233333;37.833333;Dressel 20;Hornachuelos;MCC;Baetica
-12543;-6.041843;37.433953;Dressel 20;Santiponce;LVM;Baetica
-28083;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-41684;-5.52751;37.658961;Dressel 20;Lora del Río;LSSEX;Baetica
-11088;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-11252;-5.281208;37.700239;Dressel 20;Palma del Río;QAGEMELLI;Baetica
-6718;-5.52751;37.658961;Dressel 20;Lora del Río;VCLF;Baetica
-26677;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-12184;-5.02037;37.810702;Dressel 20;Almodóvar del Río;THALI;Baetica
-28218;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13486;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-38830;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12851;-5.082599;37.542203;Dressel 20;Écija;GAQVE;Baetica
-12327;-5.082599;37.542203;Dressel 20;Écija;CFS;Baetica
-13674;-5.646083;37.471248;Dressel 20;Carmona;LMVE;Baetica
-21235;-5.34504;37.708919;Dressel 20;Peñaflor;MIM;Baetica
-38858;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-26679;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38818;-5.082599;37.542203;Dressel 20;Écija;ITALICI;Baetica
-12804;-5.107258;37.802053;Dressel 20;Posadas;LFC;Baetica
-38873;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-10914;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-17761;-5.666942;37.615058;Dressel 20;Alcolea del Río;PRQ;Baetica
-13061;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11124;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-12837;-5.281208;37.700239;Dressel 20;Palma del Río;QIM;Baetica
-6835;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-7007;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-29497;-6.041843;37.433953;Dressel 20;Santiponce;SATVRNINI;Baetica
-11883;-5.233333;37.833333;Dressel 20;Hornachuelos;CMBE;Baetica
-5572;-5.666942;37.615058;Dressel 20;Alcolea del Río;LMVE;Baetica
-10880;-5.082599;37.542203;Dressel 20;Écija;CCCOV;Baetica
-13511;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11445;-5.281208;37.700239;Dressel 20;Palma del Río;LVIBICHOMIS;Baetica
-13562;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-7031;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-877;-5.233333;37.833333;Dressel 20 parva;Hornachuelos;LFF;Baetica
-13013;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-26698;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-21234;-5.34504;37.708919;Dressel 20;Peñaflor;ELPL;Baetica
-11331;-5.281208;37.700239;Dressel 20;Palma del Río;AVRELIHERACLAE;Baetica
-33326;-5.52751;37.658961;Dressel 20;Lora del Río;CON;Baetica
-11258;-5.082599;37.542203;Dressel 20;Écija;ONES;Baetica
-17504;-5.666942;37.615058;Dressel 20;Alcolea del Río;LVPATI;Baetica
-11214;-5.52751;37.658961;Dressel 20;Lora del Río;VPC;Baetica
-886;-5.233333;37.833333;Dressel 20;Hornachuelos;LFLVC;Baetica
-11284;-5.52751;37.658961;Dressel 20;Lora del Río;QSERV;Baetica
-28098;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-11126;-5.52751;37.658961;Dressel 20;Lora del Río;PRTO;Baetica
-13564;-5.666942;37.615058;Dressel 20;Alcolea del Río;DFN;Baetica
-33334;-5.52751;37.658961;Dressel 20;Lora del Río;GA;Baetica
-12532;-6.041843;37.433953;Dressel 20;Santiponce;ILFT;Baetica
-13258;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIVLIBAR;Baetica
-7136;-5.52751;37.658961;Dressel 20;Lora del Río;MOPSVR;Baetica
-33362;-5.52751;37.658961;Dressel 20;Lora del Río;VICT;Baetica
-12439;-5.281208;37.700239;Dressel 20;Palma del Río;LEP;Baetica
-38864;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-26723;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13003;-5.666942;37.615058;Dressel 20;Alcolea del Río;LGG;Baetica
-26641;-5.233333;37.833333;Dressel 20;Hornachuelos;CANTONIQVIETI;Baetica
-28084;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-13264;-5.107258;37.802053;Dressel 20;Posadas;LFC;Baetica
-12331;-5.082599;37.542203;Dressel 20;Écija;LCCO;Baetica
-13100;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-13000;-5.666942;37.615058;Dressel 20;Alcolea del Río;GRATI;Baetica
-12955;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-26725;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38845;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12337;-5.082599;37.542203;Dressel 20;Écija;LFCS;Baetica
-13016;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12523;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12939;-5.52751;37.658961;Dressel 20;Lora del Río;LVALERITROPHIMI;Baetica
-12040;-5.02037;37.810702;Dressel 20;Almodóvar del Río;POT;Baetica
-11568;-5.107258;37.802053;Dressel 20;Posadas;LTSTR;Baetica
-10932;-5.082599;37.542203;Dressel 20;Écija;SIP;Baetica
-13260;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIVLIBAR;Baetica
-38847;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-38928;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12247;-5.107258;37.802053;Dressel 20;Posadas;CFSCV;Baetica
-12545;-6.041843;37.433953;Dressel 20;Santiponce;TFA;Baetica
-12931;-5.52751;37.658961;Dressel 20;Lora del Río;AENIANSA;Baetica
-41673;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-11134;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-29336;-5.973167;37.382826;Dressel 20;Seville;LFLVC;Baetica
-12217;-5.09965;37.704938;Dressel 20;Fuente Palmera;CCNS;Baetica
-38867;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-33369;-5.646083;37.471248;Dressel 20;Carmona;LCS;Baetica
-11270;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-11774;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CARI;Baetica
-41682;-5.52751;37.658961;Dressel 20;Lora del Río;FIGGRVM;Baetica
-12908;-5.52751;37.658961;Dressel 20;Lora del Río;ICCRA;Baetica
-11369;-5.281208;37.700239;Dressel 20;Palma del Río;AVCT;Baetica
-12320;-5.082599;37.542203;Dressel 20;Écija;LACONF;Baetica
-7184;-5.52751;37.658961;Dressel 20;Lora del Río;LIT;Baetica
-11825;-5.09965;37.704938;Dressel 20;Fuente Palmera;VAR;Baetica
-6647;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-11354;-5.281208;37.700239;Dressel 20;Palma del Río;BEL;Baetica
-38856;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-6786;-5.52751;37.658961;Dressel 20;Lora del Río;CENNIHISPANI;Baetica
-41683;-5.52751;37.658961;Dressel 20;Lora del Río;DIA;Baetica
-11831;-5.09965;37.704938;Dressel 20;Fuente Palmera;ME;Baetica
-12847;-5.082599;37.542203;Dressel 20;Écija;PSAVITI;Baetica
-26747;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-6755;-5.52751;37.658961;Dressel 20;Lora del Río;GEF;Baetica
-842;-5.233333;37.833333;Dressel 20;Hornachuelos;PARV;Baetica
-38846;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-26690;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-7030;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-29661;-5.871389;37.549445;Dressel 20;Brenes;VIRI;Baetica
-26694;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-911;-5.281208;37.700239;Dressel 20;Palma del Río;MCC;Baetica
-38919;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-6658;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-12345;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-11668;-5.02037;37.810702;Dressel 20;Almodóvar del Río;EC;Baetica
-13118;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-21238;-5.34504;37.708919;Dressel 20;Peñaflor;LASFIC;Baetica
-11380;-5.281208;37.700239;Dressel 20;Palma del Río;SCAESI;Baetica
-11208;-5.52751;37.658961;Dressel 20;Lora del Río;LSL;Baetica
-38904;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-11105;-5.52751;37.658961;Dressel 20;Lora del Río;PAVR;Baetica
-11193;-5.52751;37.658961;Dressel 20;Lora del Río;NC;Baetica
-26678;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-26684;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-21229;-5.34504;37.708919;Dressel 20;Peñaflor;QAELIOPTATI;Baetica
-28095;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-11593;-5.107258;37.802053;Dressel 20;Posadas;MAT;Baetica
-5567;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-41681;-5.52751;37.658961;Dressel 20;Lora del Río;FIGGRV;Baetica
-29208;-5.52751;37.658961;Dressel 20;Lora del Río;CEFP;Baetica
-13634;-5.646083;37.471248;Dressel 20;Carmona;AFRICAN;Baetica
-10893;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-41664;-5.52751;37.658961;Dressel 20;Lora del Río;CCRASSISEMNI;Baetica
-5475;-5.107258;37.802053;Dressel 20;Posadas;AGRICOLAE;Baetica
-12221;-5.09965;37.704938;Dressel 20;Fuente Palmera;FC;Baetica
-26707;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-901;-5.233333;37.833333;Dressel 20;Hornachuelos;FSC;Baetica
-13703;-5.52751;37.658961;Dressel 20;Lora del Río;CMM;Baetica
-13527;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-33348;-5.52751;37.658961;Dressel 20;Lora del Río;CMM;Baetica
-33353;-5.52751;37.658961;Dressel 20;Lora del Río;MHICA;Baetica
-13218;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13492;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12357;-5.082599;37.542203;Dressel 20;Écija;LAVRELIGERMANI;Baetica
-38817;-5.082599;37.542203;Dressel 20;Écija;GELAD;Baetica
-38810;-5.082599;37.542203;Dressel 20;Écija;IVCVNDI;Baetica
-38850;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-11253;-5.281208;37.700239;Dressel 20;Palma del Río;QAGEMELLI;Baetica
-29600;-5.871389;37.549445;Dressel 20;Brenes;QVC;Baetica
-38951;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-26697;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-33357;-5.52751;37.658961;Dressel 20;Lora del Río;QAEOPTA;Baetica
-5563;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-11244;-5.281208;37.700239;Dressel 20;Palma del Río;ATITTAE;Baetica
-857;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-26738;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-6826;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-5574;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38842;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13173;-5.666942;37.615058;Dressel 20;Alcolea del Río;CANNIRFN;Baetica
-38824;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-10935;-5.082599;37.542203;Dressel 20;Écija;IAIO;Baetica
-11108;-5.52751;37.658961;Dressel 20;Lora del Río;LALFLALP;Baetica
-11444;-5.281208;37.700239;Dressel 20;Palma del Río;LVIBICHOMIS;Baetica
-10901;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-13744;-5.52751;37.658961;Dressel 20;Lora del Río;CENNIHISPANI;Baetica
-26696;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11438;-5.281208;37.700239;Dressel 20;Palma del Río;LCT;Baetica
-28090;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-41671;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-6972;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-11480;-5.281208;37.700239;Dressel 20;Palma del Río;CIALB;Baetica
-12335;-5.082599;37.542203;Dressel 20;Écija;LOCCAI;Baetica
-12240;-5.107258;37.802053;Dressel 20;Posadas;MCA;Baetica
-12922;-5.52751;37.658961;Dressel 20;Lora del Río;RHIVA;Baetica
-10940;-5.082599;37.542203;Dressel 20;Écija;QIA;Baetica
-11888;-5.973167;37.382826;Dressel 20;Seville;ACIRGI;Baetica
-12855;-5.082599;37.542203;Dressel 20;Écija;LAVRGER;Baetica
-41688;-5.52751;37.658961;Dressel 20;Lora del Río;LVRIFLVRIE;Baetica
-12794;-5.646083;37.471248;Dressel 20;Carmona;LIC;Baetica
-12407;-5.082599;37.542203;Dressel 20;Écija;QIA;Baetica
-9556;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11374;-5.281208;37.700239;Dressel 20;Palma del Río;SCAESI;Baetica
-13513;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13234;-5.666942;37.615058;Dressel 20;Alcolea del Río;CCLM;Baetica
-13265;-5.107258;37.802053;Dressel 20;Posadas;LFC;Baetica
-12329;-5.082599;37.542203;Dressel 20;Écija;LFCS;Baetica
-26680;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38813;-5.082599;37.542203;Dressel 20;Écija;FELICIS;Baetica
-13540;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-38803;-5.082599;37.542203;Dressel 20;Écija;LVIVCV;Baetica
-10942;-5.082599;37.542203;Dressel 20;Écija;MMEVIMMEN;Baetica
-13124;-5.646083;37.471248;Dressel 20;Carmona;LMVE;Baetica
-11528;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13544;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-29660;-5.871389;37.549445;Dressel 20;Brenes;VIRGIN;Baetica
-38825;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-28212;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-33331;-5.52751;37.658961;Dressel 20;Lora del Río;EROTI;Baetica
-11329;-5.281208;37.700239;Dressel 20;Palma del Río;AVRELIHERACLAE;Baetica
-11646;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIVLIBAR;Baetica
-872;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13192;-5.666942;37.615058;Dressel 20;Alcolea del Río;N;Baetica
-13673;-5.646083;37.471248;Dressel 20;Carmona;ST;Baetica
-12034;-5.02037;37.810702;Dressel 20;Almodóvar del Río;MD;Baetica
-13548;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-10894;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-10943;-5.082599;37.542203;Dressel 20;Écija;LAEL;Baetica
-11594;-5.107258;37.802053;Dressel 20;Posadas;MAT;Baetica
-12885;-5.082599;37.542203;Dressel 20;Écija;ROMAN;Baetica
-11899;-5.02037;37.810702;Dressel 20;Almodóvar del Río;FCNE;Baetica
-38851;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12028;-5.02037;37.810702;Dressel 20;Almodóvar del Río;GO;Baetica
-13508;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12288;-5.281208;37.700239;Dressel 20;Palma del Río;GALENI;Baetica
-11255;-5.281208;37.700239;Dressel 20;Palma del Río;CI;Baetica
-41773;-5.52751;37.658961;Dressel 20;Lora del Río;QAEAD;Baetica
-10933;-5.082599;37.542203;Dressel 20;Écija;SIP;Baetica
-11170;-5.52751;37.658961;Dressel 20;Lora del Río;QIM;Baetica
-13205;-5.666942;37.615058;Dressel 20;Alcolea del Río;SALS;Baetica
-38806;-5.082599;37.542203;Dressel 20;Écija;GEHE;Baetica
-11166;-5.52751;37.658961;Dressel 20;Lora del Río;SAENIANES;Baetica
-13482;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-38959;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13612;-5.646083;37.471248;Dressel 20;Carmona;STATN;Baetica
-17700;-5.666942;37.615058;Dressel 20;Alcolea del Río;OFFBA;Baetica
-11328;-5.281208;37.700239;Dressel 20;Palma del Río;SAXOFERREO;Baetica
-11114;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-33352;-5.52751;37.658961;Dressel 20;Lora del Río;MHICA;Baetica
-38878;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13571;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11591;-5.107258;37.802053;Dressel 20;Posadas;MAT;Baetica
-6752;-5.52751;37.658961;Dressel 20;Lora del Río;CEFP;Baetica
-6856;-5.52751;37.658961;Dressel 20;Lora del Río;ALF;Baetica
-7138;-5.52751;37.658961;Dressel 20;Lora del Río;CRROP;Baetica
-7012;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-931;-5.281208;37.700239;Dressel 20;Palma del Río;PCHO;Baetica
-11721;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CMARISILVANI;Baetica
-28096;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-38789;-5.082599;37.542203;Dressel 20;Écija;GERMA;Baetica
-13238;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12220;-5.09965;37.704938;Dressel 20;Fuente Palmera;LFC;Baetica
-11340;-5.281208;37.700239;Dressel 20;Palma del Río;BEL;Baetica
-10891;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-12435;-5.281208;37.700239;Dressel 20;Palma del Río;QA;Baetica
-38922;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-11042;-5.871389;37.549445;Dressel 20;Brenes;CVV;Baetica
-11122;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-6995;-5.52751;37.658961;Dressel 20;Lora del Río;GPC;Baetica
-12401;-5.082599;37.542203;Dressel 20;Écija;LIDFIT;Baetica
-13619;-5.646083;37.471248;Dressel 20;Carmona;TATILIASIATICI;Baetica
-12481;-5.52751;37.658961;Dressel 20;Lora del Río;NIA;Baetica
-32342;-5.696078;37.447006;Dressel 20;Sevilla;ROM;Baetica
-26692;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11271;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-13561;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-26639;-5.233333;37.833333;Dressel 20;Hornachuelos;PAH;Baetica
-13627;-5.646083;37.471248;Dressel 20;Carmona;LER;Baetica
-26739;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-7062;-5.52751;37.658961;Dressel 20;Lora del Río;QVNTI;Baetica
-38840;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12867;-5.082599;37.542203;Dressel 20;Écija;IISILVESTRI;Baetica
-11693;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CMARISILVANI;Baetica
-13201;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-41693;-5.082599;37.542203;Dressel 20;Écija;QCCFC;Baetica
-38895;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-28101;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-12212;-5.09965;37.704938;Dressel 20;Fuente Palmera;AATF;Baetica
-33355;-5.52751;37.658961;Dressel 20;Lora del Río;QAEOPO;Baetica
-7182;-5.52751;37.658961;Dressel 20;Lora del Río;LIT;Baetica
-858;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38814;-5.082599;37.542203;Dressel 20;Écija;FELICIS;Baetica
-6650;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-38879;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-6656;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-6828;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-13570;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11056;-5.082599;37.542203;Dressel 20;Écija;SILVESTRI;Baetica
-6646;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-11514;-5.281208;37.700239;Dressel 20;Palma del Río;CIVE;Baetica
-38791;-5.082599;37.542203;Dressel 20;Écija;GERMA;Baetica
-13702;-5.52751;37.658961;Dressel 20;Lora del Río;CMM;Baetica
-38797;-5.082599;37.542203;Dressel 20;Écija;P;Baetica
-12029;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CANI;Baetica
-26672;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13010;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12546;-6.041843;37.433953;Dressel 20;Santiponce;SATVRNINI;Baetica
-28330;-5.666942;37.615058;Dressel 20;Alcolea del Río;MEDIANAE;Baetica
-12474;-5.52751;37.658961;Dressel 20;Lora del Río;DIA;Baetica
-28455;-5.082599;37.542203;Dressel 20;Écija;QIS;Baetica
-11073;-5.52751;37.658961;Dressel 20;Lora del Río;POR;Baetica
-38937;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-38927;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-28043;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-10896;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-38909;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12410;-5.082599;37.542203;Dressel 20;Écija;STATI;Baetica
-10886;-5.082599;37.542203;Dressel 20;Écija;LAVRELIGERMANI;Baetica
-26979;-5.233333;37.833333;Dressel 20;Hornachuelos;SCAM;Baetica
-12995;-5.666942;37.615058;Dressel 20;Alcolea del Río;STATI;Baetica
-13072;-5.666942;37.615058;Dressel 20;Alcolea del Río;R;Baetica
-6666;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-11172;-5.52751;37.658961;Dressel 20;Lora del Río;IPC;Baetica
-11416;-5.281208;37.700239;Dressel 20;Palma del Río;LVIBICHOMIS;Baetica
-38898;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-11640;-5.107258;37.802053;Dressel 20;Posadas;RND;Baetica
-860;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-29666;-5.871389;37.549445;Dressel 20;Brenes;VIRAV;Baetica
-26682;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13092;-5.646083;37.471248;Dressel 20;Carmona;STA;Baetica
-26741;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-6968;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-12942;-5.52751;37.658961;Dressel 20;Lora del Río;CONSFC;Baetica
-17740;-5.666942;37.615058;Dressel 20;Alcolea del Río;TATILIASIATICI;Baetica
-13670;-5.646083;37.471248;Dressel 20;Carmona;FONTANI;Baetica
-12235;-5.09965;37.704938;Dressel 20;Fuente Palmera;CVVA;Baetica
-12258;-5.107258;37.802053;Dressel 20;Posadas;IMPIGI;Baetica
-33337;-5.52751;37.658961;Dressel 20;Lora del Río;GAP;Baetica
-11510;-5.281208;37.700239;Dressel 20;Palma del Río;QIVTES;Baetica
-26703;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11670;-5.02037;37.810702;Dressel 20;Almodóvar del Río;ICVN;Baetica
-11069;-5.082599;37.542203;Dressel 20;Écija;MPS;Baetica
-13191;-5.666942;37.615058;Dressel 20;Alcolea del Río;N;Baetica
-11281;-5.52751;37.658961;Dressel 20;Lora del Río;AQFVA;Baetica
-28094;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-7185;-5.52751;37.658961;Dressel 20;Lora del Río;LIT;Baetica
-11075;-5.52751;37.658961;Dressel 20;Lora del Río;PORODV;Baetica
-11251;-5.281208;37.700239;Dressel 20;Palma del Río;QAGEMELLI;Baetica
-13521;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11642;-5.107258;37.802053;Dressel 20;Posadas;FCVCV;Baetica
-26668;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-12905;-5.52751;37.658961;Dressel 20;Lora del Río;MST;Baetica
-26708;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13724;-5.52751;37.658961;Dressel 20;Lora del Río;CONSFC;Baetica
-6719;-5.52751;37.658961;Dressel 20;Lora del Río;VCLF;Baetica
-13071;-5.666942;37.615058;Dressel 20;Alcolea del Río;POPVA;Baetica
-28091;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-10936;-5.082599;37.542203;Dressel 20;Écija;LAEL;Baetica
-11601;-5.107258;37.802053;Dressel 20;Posadas;MAT;Baetica
-33321;-5.52751;37.658961;Dressel 20;Lora del Río;CHB;Baetica
-853;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-7014;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-12382;-5.082599;37.542203;Dressel 20;Écija;MACQV;Baetica
-6827;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-11511;-5.281208;37.700239;Dressel 20;Palma del Río;QIVTES;Baetica
-12209;-5.09965;37.704938;Dressel 20;Fuente Palmera;AEFCA;Baetica
-28089;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-6831;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-11066;-5.082599;37.542203;Dressel 20;Écija;LFCS;Baetica
-38784;-5.082599;37.542203;Dressel 20;Écija;GERMA;Baetica
-12437;-5.281208;37.700239;Dressel 20;Palma del Río;ALPAHC;Baetica
-38866;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-6825;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-6753;-5.52751;37.658961;Dressel 20;Lora del Río;GEF;Baetica
-26748;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-26671;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13505;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12514;-5.52751;37.658961;Dressel 20;Lora del Río;RL;Baetica
-10945;-5.082599;37.542203;Dressel 20;Écija;OM;Baetica
-12909;-5.52751;37.658961;Dressel 20;Lora del Río;LSLVP;Baetica
-11226;-5.52751;37.658961;Dressel 20;Lora del Río;CRISPI;Baetica
-21233;-5.34504;37.708919;Dressel 20;Peñaflor;QFR;Baetica
-12862;-5.082599;37.542203;Dressel 20;Écija;LVIVCV;Baetica
-11238;-5.281208;37.700239;Dressel 20;Palma del Río;CSTERTINIPAVLLINI;Baetica
-26711;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13748;-5.281208;37.700239;Dressel 20;Palma del Río;CI;Baetica
-12918;-5.52751;37.658961;Dressel 20;Lora del Río;LTEL;Baetica
-13573;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13250;-5.666942;37.615058;Dressel 20;Alcolea del Río;DED;Baetica
-12180;-5.02037;37.810702;Dressel 20;Almodóvar del Río;IVSA;Baetica
-13014;-5.666942;37.615058;Dressel 20;Alcolea del Río;PN;Baetica
-38939;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12179;-5.02037;37.810702;Dressel 20;Almodóvar del Río;OFIVSV;Baetica
-13241;-5.666942;37.615058;Dressel 20;Alcolea del Río;STP;Baetica
-41666;-5.52751;37.658961;Dressel 20;Lora del Río;CCRASSISEMNI;Baetica
-12093;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CALP;Baetica
-11135;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-12937;-5.52751;37.658961;Dressel 20;Lora del Río;PMS;Baetica
-29406;-5.871389;37.549445;Dressel 20;Brenes;HERMES;Baetica
-11090;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-11823;-5.09965;37.704938;Dressel 20;Fuente Palmera;VAR;Baetica
-21232;-5.34504;37.708919;Dressel 20;Peñaflor;QFR;Baetica
-38788;-5.082599;37.542203;Dressel 20;Écija;GERMA;Baetica
-10946;-5.082599;37.542203;Dressel 20;Écija;TATI;Baetica
-38800;-5.082599;37.542203;Dressel 20;Écija;SEDAVITI;Baetica
-10890;-5.082599;37.542203;Dressel 20;Écija;LAVRELIGERMANI;Baetica
-38963;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12501;-5.52751;37.658961;Dressel 20;Lora del Río;PORT;Baetica
-13658;-5.646083;37.471248;Dressel 20;Carmona;LIT;Baetica
-11221;-5.52751;37.658961;Dressel 20;Lora del Río;GAPMA;Baetica
-12246;-5.107258;37.802053;Dressel 20;Posadas;CFSCVF;Baetica
-863;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11733;-5.02037;37.810702;Dressel 20;Almodóvar del Río;LIBERALINI;Baetica
-33381;-5.646083;37.471248;Dressel 20;Carmona;LSPBO;Baetica
-13490;-5.666942;37.615058;Dressel 20;Alcolea del Río;MM;Baetica
-6832;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-13583;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38902;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-11022;-5.871389;37.549445;Dressel 20;Brenes;PAH;Baetica
-11437;-5.281208;37.700239;Dressel 20;Palma del Río;LCT;Baetica
-11103;-5.52751;37.658961;Dressel 20;Lora del Río;LIT;Baetica
-13037;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13546;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-13002;-5.666942;37.615058;Dressel 20;Alcolea del Río;LGG;Baetica
-26700;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11775;-5.02037;37.810702;Dressel 20;Almodóvar del Río;PRIS;Baetica
-13622;-5.646083;37.471248;Dressel 20;Carmona;GM;Baetica
-38816;-5.082599;37.542203;Dressel 20;Écija;FELICIS;Baetica
-7123;-5.52751;37.658961;Dressel 20;Lora del Río;RVSR;Baetica
-11644;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIVLIBAR;Baetica
-12215;-5.09965;37.704938;Dressel 20;Fuente Palmera;QDC;Baetica
-26719;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38868;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-26704;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-876;-5.233333;37.833333;Dressel 20 parva;Hornachuelos;LFF;Baetica
-12101;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CALP;Baetica
-13920;-5.281208;37.700239;Dressel 20;Palma del Río;BELLYB;Baetica
-41698;-5.082599;37.542203;Dressel 20;Écija;FCAV;Baetica
-12470;-5.52751;37.658961;Dressel 20;Lora del Río;DIA;Baetica
-38932;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-26699;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11163;-5.52751;37.658961;Dressel 20;Lora del Río;ENNIORVMIVLIORVM;Baetica
-13729;-5.52751;37.658961;Dressel 20;Lora del Río;MRIC;Baetica
-29665;-5.871389;37.549445;Dressel 20;Brenes;VIRIIII;Baetica
-17759;-5.666942;37.615058;Dressel 20;Alcolea del Río;COMNI;Baetica
-12226;-5.09965;37.704938;Dressel 20;Fuente Palmera;CCNS;Baetica
-12095;-5.02037;37.810702;Dressel 20;Almodóvar del Río;FCSA;Baetica
-11436;-5.281208;37.700239;Dressel 20;Palma del Río;LCT;Baetica
-12094;-5.02037;37.810702;Dressel 20;Almodóvar del Río;FINRA;Baetica
-41676;-5.52751;37.658961;Dressel 20;Lora del Río;AVGGGNNNCOLEARIFGRV;Baetica
-29663;-5.871389;37.549445;Dressel 20;Brenes;VIRIII;Baetica
-29478;-5.52751;37.658961;Dressel 20;Lora del Río;CENNIHISPANI;Baetica
-12845;-5.082599;37.542203;Dressel 20;Écija;FEL;Baetica
-13568;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNPHI;Baetica
-28051;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-12949;-5.52751;37.658961;Dressel 20;Lora del Río;MHICA;Baetica
-13567;-5.666942;37.615058;Dressel 20;Alcolea del Río;ANPHILOD;Baetica
-38916;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12312;-5.082599;37.542203;Dressel 20;Écija;MY;Baetica
-903;-5.233333;37.833333;Dressel 20;Hornachuelos;SCALENSIA;Baetica
-11908;-5.02037;37.810702;Dressel 20;Almodóvar del Río;THALI;Baetica
-12869;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-10888;-5.082599;37.542203;Dressel 20;Écija;LAVRELIGERMANI;Baetica
-11397;-5.281208;37.700239;Dressel 20;Palma del Río;FGFIVSFM;Baetica
-13535;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-26706;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11441;-5.281208;37.700239;Dressel 20;Palma del Río;LVIBICHOMIS;Baetica
-13032;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-28053;-5.52751;37.658961;Dressel 20;Lora del Río;BRPOD;Baetica
-10875;-5.082599;37.542203;Dressel 20;Écija;COF;Baetica
-11076;-5.52751;37.658961;Dressel 20;Lora del Río;POBPOD;Baetica
-41661;-5.52751;37.658961;Dressel 20;Lora del Río;QCKS;Baetica
-11269;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-26712;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11113;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-856;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-29418;-5.666942;37.615058;Dressel 20;Alcolea del Río;GRATI;Baetica
-13516;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12236;-5.09965;37.704938;Dressel 20;Fuente Palmera;CVVA;Baetica
-26670;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38906;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-11832;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-38809;-5.082599;37.542203;Dressel 20;Écija;ADE;Baetica
-13559;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12256;-5.107258;37.802053;Dressel 20;Posadas;AELIFVSCIANI;Baetica
-26727;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-6973;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-38900;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12832;-5.281208;37.700239;Dressel 20;Palma del Río;CIALB;Baetica
-28087;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-11882;-5.233333;37.833333;Dressel 20;Hornachuelos;LAVG;Baetica
-10900;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-7190;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CAT;Baetica
-12853;-5.082599;37.542203;Dressel 20;Écija;LACONE;Baetica
-12930;-5.52751;37.658961;Dressel 20;Lora del Río;A;Baetica
-38910;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12550;-6.054101;37.287661;Dressel 20;Coria del Río;TP;Baetica
-12549;-6.054101;37.287661;Dressel 20;Coria del Río;ATTENIAECYTONIDIS;Baetica
-13500;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-9559;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13269;-5.646083;37.471248;Dressel 20;Carmona;LICISPE;Baetica
-13109;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-41696;-5.082599;37.542203;Dressel 20;Écija;FC;Baetica
-38831;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-898;-5.233333;37.833333;Dressel 20;Hornachuelos;QSA;Baetica
-11909;-5.02037;37.810702;Dressel 20;Almodóvar del Río;THALI;Baetica
-13656;-5.646083;37.471248;Dressel 20;Carmona;LIT;Baetica
-13523;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12203;-5.107258;37.802053;Dressel 20;Posadas;AATF;Baetica
-12948;-5.52751;37.658961;Dressel 20;Lora del Río;CH;Baetica
-13107;-5.666942;37.615058;Dressel 20;Alcolea del Río;DEF;Baetica
-29667;-5.871389;37.549445;Dressel 20;Brenes;VIRAV;Baetica
-868;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-21236;-5.34504;37.708919;Dressel 20;Peñaflor;QSL;Baetica
-13070;-5.666942;37.615058;Dressel 20;Alcolea del Río;AV;Baetica
-907;-5.233333;37.833333;Dressel 20;Hornachuelos;S;Baetica
-26695;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-41675;-5.52751;37.658961;Dressel 20;Lora del Río;AVGGGNNNCOLEARIFGRV;Baetica
-13565;-5.666942;37.615058;Dressel 20;Alcolea del Río;DFN;Baetica
-25830;-5.646083;37.471248;Dressel 20;Carmona;BARMASI;Baetica
-38933;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12097;-5.02037;37.810702;Dressel 20;Almodóvar del Río;VAR;Baetica
-13045;-5.666942;37.615058;Dressel 20;Alcolea del Río;M;Baetica
-11787;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIVLIBAR;Baetica
-12513;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-12168;-5.02037;37.810702;Dressel 20;Almodóvar del Río;NICXIII;Baetica
-12887;-5.082599;37.542203;Dressel 20;Écija;L;Baetica
-13507;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-862;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-6890;-5.52751;37.658961;Dressel 20;Lora del Río;MMR;Baetica
-12400;-5.082599;37.542203;Dressel 20;Écija;LIDFIT;Baetica
-12814;-5.107258;37.802053;Dressel 20;Posadas;PM;Baetica
-38956;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-11824;-5.09965;37.704938;Dressel 20;Fuente Palmera;VAR;Baetica
-13481;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-11912;-5.02037;37.810702;Dressel 20;Almodóvar del Río;VICIORN;Baetica
-38938;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13021;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12795;-4.772748;37.89155;Dressel 20;Córdoba;AVFER;Baetica
-13246;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQ;Baetica
-38897;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-17755;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNPHI;Baetica
-38795;-5.082599;37.542203;Dressel 20;Écija;PSAVITI;Baetica
-11338;-5.281208;37.700239;Dressel 20;Palma del Río;BELCI;Baetica
-33365;-5.646083;37.471248;Dressel 20;Carmona;LCFPC;Baetica
-26683;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-12224;-5.09965;37.704938;Dressel 20;Fuente Palmera;CCNS;Baetica
-928;-5.281208;37.700239;Dressel 20;Palma del Río;KV;Baetica
-12231;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-28086;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-38890;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-29216;-5.646083;37.471248;Dressel 20;Carmona;LER;Baetica
-13230;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13728;-5.52751;37.658961;Dressel 20;Lora del Río;CORBEL;Baetica
-11044;-5.871389;37.549445;Dressel 20;Brenes;CFSCVF;Baetica
-7011;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-7018;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-38880;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13680;-5.646083;37.471248;Dressel 20;Carmona;PNN;Baetica
-38949;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13033;-5.666942;37.615058;Dressel 20;Alcolea del Río;NIII;Baetica
-13226;-5.666942;37.615058;Dressel 20;Alcolea del Río;IE;Baetica
-26675;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-5575;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12796;-5.02037;37.810702;Dressel 20;Almodóvar del Río;TVA;Baetica
-11639;-5.107258;37.802053;Dressel 20;Posadas;MAVR;Baetica
-890;-5.233333;37.833333;Dressel 20;Hornachuelos;LFLVC;Baetica
-12420;-5.281208;37.700239;Dressel 20;Palma del Río;ABF;Baetica
-13497;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11067;-5.082599;37.542203;Dressel 20;Écija;FE;Baetica
-13077;-5.666942;37.615058;Dressel 20;Alcolea del Río;ODV;Baetica
-13632;-5.646083;37.471248;Dressel 20;Carmona;AFRICAN;Baetica
-11443;-5.281208;37.700239;Dressel 20;Palma del Río;LVIBICHOMIS;Baetica
-38853;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-10867;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-13529;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-924;-5.281208;37.700239;Dressel 20;Palma del Río;TTLVC;Baetica
-12062;-5.02037;37.810702;Dressel 20;Almodóvar del Río;LIBERALINI;Baetica
-13615;-5.646083;37.471248;Dressel 20;Carmona;LSPBO;Baetica
-13662;-5.646083;37.471248;Dressel 20;Carmona;LM;Baetica
-13151;-5.666942;37.615058;Dressel 20;Alcolea del Río;CSR;Baetica
-11277;-5.52751;37.658961;Dressel 20;Lora del Río;LER;Baetica
-26669;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13257;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIVLIBAR;Baetica
-11898;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CAT;Baetica
-881;-5.233333;37.833333;Dressel 20;Hornachuelos;LFF;Baetica
-12089;-5.02037;37.810702;Dressel 20;Almodóvar del Río;PRIS;Baetica
-33349;-5.52751;37.658961;Dressel 20;Lora del Río;CMM;Baetica
-6966;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-12522;-5.52751;37.658961;Dressel 20;Lora del Río;LIT;Baetica
-11645;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIVLIBAR;Baetica
-33366;-5.646083;37.471248;Dressel 20;Carmona;LCS;Baetica
-41703;-5.082599;37.542203;Dressel 20;Écija;SCLC;Baetica
-33368;-5.646083;37.471248;Dressel 20;Carmona;LCS;Baetica
-12211;-5.09965;37.704938;Dressel 20;Fuente Palmera;NICEFVAR;Baetica
-13556;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-932;-5.281208;37.700239;Dressel 20;Palma del Río;PCHO;Baetica
-11706;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CMARISILVANI;Baetica
-6971;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-38801;-5.082599;37.542203;Dressel 20;Écija;IVCVNDI;Baetica
-10839;-5.082599;37.542203;Dressel 20;Écija;IICAMILIMELISSI;Baetica
-12234;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-38863;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-29622;-5.749515;37.373014;Dressel 20;Mairena del Alcor;LVALERIAMETISTI;Baetica
-33374;-5.646083;37.471248;Dressel 20;Carmona;MFX;Baetica
-13449;-5.871389;37.549445;Dressel 20;Brenes;GFS;Baetica
-13526;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13493;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13484;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-38934;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13742;-5.52751;37.658961;Dressel 20;Lora del Río;PVAFAN;Baetica
-17747;-5.666942;37.615058;Dressel 20;Alcolea del Río;HERM;Baetica
-13503;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-28047;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-12378;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-13172;-5.666942;37.615058;Dressel 20;Alcolea del Río;CANNIRVFINI;Baetica
-11330;-5.281208;37.700239;Dressel 20;Palma del Río;AVRELIHERACLAE;Baetica
-13614;-5.646083;37.471248;Dressel 20;Carmona;LHLHE;Baetica
-13031;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-26640;-5.233333;37.833333;Dressel 20;Hornachuelos;PAH;Baetica
-11123;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-11600;-5.107258;37.802053;Dressel 20;Posadas;MAT;Baetica
-11222;-5.52751;37.658961;Dressel 20;Lora del Río;AMGALOD;Baetica
-41697;-5.082599;37.542203;Dressel 20;Écija;FC;Baetica
-13259;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIVLIBAR;Baetica
-12025;-5.02037;37.810702;Dressel 20;Almodóvar del Río;FABR;Baetica
-41679;-5.52751;37.658961;Dressel 20;Lora del Río;KVFICGRVMCOLSICETASI;Baetica
-5565;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-12805;-5.107258;37.802053;Dressel 20;Posadas;CCVF;Baetica
-9557;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-17741;-5.666942;37.615058;Dressel 20;Alcolea del Río;PCLODICELI;Baetica
-41686;-5.52751;37.658961;Dressel 20;Lora del Río;LSSEX;Baetica
-12177;-5.233333;37.833333;Dressel 20;Hornachuelos;PRIS;Baetica
-41692;-5.082599;37.542203;Dressel 20;Écija;MAERIFICIANI;Baetica
-33360;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-13018;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11092;-5.52751;37.658961;Dressel 20;Lora del Río;CASII;Baetica
-9563;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNPHI;Baetica
-38881;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13128;-5.646083;37.471248;Dressel 20;Carmona;LSPBO;Baetica
-17503;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38822;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12166;-5.02037;37.810702;Dressel 20;Almodóvar del Río;MCF;Baetica
-12381;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-13194;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13102;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-12375;-5.082599;37.542203;Dressel 20;Écija;LAVRELIGERMANI;Baetica
-12800;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIVLIBAR;Baetica
-13062;-5.666942;37.615058;Dressel 20;Alcolea del Río;DED;Baetica
-11169;-5.52751;37.658961;Dressel 20;Lora del Río;PMS;Baetica
-9541;-5.666942;37.615058;Dressel 20;Alcolea del Río;BARBA;Baetica
-11224;-5.52751;37.658961;Dressel 20;Lora del Río;LSLSEN;Baetica
-7023;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-26714;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13654;-5.646083;37.471248;Dressel 20;Carmona;LIT;Baetica
-9564;-5.666942;37.615058;Dressel 20;Alcolea del Río;QAG;Baetica
-38967;-5.082599;37.542203;Dressel 20;Écija;V;Baetica
-38943;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-11413;-5.281208;37.700239;Dressel 20;Palma del Río;FA;Baetica
-28100;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-10992;-5.871389;37.549445;Dressel 20;Brenes;VIR;Baetica
-11256;-5.281208;37.700239;Dressel 20;Palma del Río;Q;Baetica
-10949;-5.082599;37.542203;Dressel 20;Écija;IVI;Baetica
-11439;-5.281208;37.700239;Dressel 20;Palma del Río;LCT;Baetica
-11720;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CMARISILVANI;Baetica
-38852;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-38799;-5.082599;37.542203;Dressel 20;Écija;SEDAVITI;Baetica
-4641;-6.198166;36.4759;Dressel 20;San Fernando (Cádiz);MAR;Baetica
-26531;-5.973167;37.382826;Dressel 20;Seville;DOM;Baetica
-11275;-5.52751;37.658961;Dressel 20;Lora del Río;NER;Baetica
-26751;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-12248;-5.107258;37.802053;Dressel 20;Posadas;CFSCVF;Baetica
-21228;-5.34504;37.708919;Dressel 20;Peñaflor;QAO;Baetica
-6645;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-921;-5.281208;37.700239;Dressel 20;Palma del Río;TTLVC;Baetica
-11072;-5.082599;37.542203;Dressel 20;Écija;FSVO;Baetica
-869;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38888;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-26851;-5.233333;37.833333;Dressel 20;Hornachuelos;SCALSIAG;Baetica
-11826;-5.09965;37.704938;Dressel 20;Fuente Palmera;LFCT;Baetica
-11142;-5.52751;37.658961;Dressel 20;Lora del Río;GPCI;Baetica
-21231;-5.34504;37.708919;Dressel 20;Peñaflor;LIT;Baetica
-13934;-5.646083;37.471248;Dressel 20;Carmona;REL;Baetica
-10908;-5.082599;37.542203;Dressel 20;Écija;CIDIOF;Baetica
-38912;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13613;-5.646083;37.471248;Dressel 20;Carmona;LERP;Baetica
-38931;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13015;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11722;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CMARISILVANI;Baetica
-41665;-5.52751;37.658961;Dressel 20;Lora del Río;CCRASSISEMNI;Baetica
-13515;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13023;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-17753;-5.666942;37.615058;Dressel 20;Alcolea del Río;M;Baetica
-33345;-5.52751;37.658961;Dressel 20;Lora del Río;GM;Baetica
-7187;-5.52751;37.658961;Dressel 20;Lora del Río;MMR;Baetica
-10934;-5.082599;37.542203;Dressel 20;Écija;IAIO;Baetica
-33322;-5.52751;37.658961;Dressel 20;Lora del Río;CONSFC;Baetica
-26713;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-7022;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-26754;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-7056;-5.52751;37.658961;Dressel 20;Lora del Río;LQS;Baetica
-13572;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12544;-6.041843;37.433953;Dressel 20;Santiponce;LFC;Baetica
-28044;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-5564;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-13135;-5.646083;37.471248;Dressel 20;Carmona;ERNI;Baetica
-12902;-5.34504;37.708919;Dressel 20;Peñaflor;A;Baetica
-33358;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-7026;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-13232;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13041;-5.666942;37.615058;Dressel 20;Alcolea del Río;MIM;Baetica
-13549;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-880;-5.233333;37.833333;Dressel 20;Hornachuelos;LFF;Baetica
-26720;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11370;-5.281208;37.700239;Dressel 20;Palma del Río;AVCT;Baetica
-11830;-5.09965;37.704938;Dressel 20;Fuente Palmera;ME;Baetica
-33371;-5.646083;37.471248;Dressel 20;Carmona;LER;Baetica
-29656;-5.871389;37.549445;Dressel 20;Brenes;VIRG;Baetica
-38930;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13450;-5.871389;37.549445;Dressel 20;Brenes;ROM;Baetica
-26734;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13598;-5.666942;37.615058;Dressel 20;Alcolea del Río;LVALERITROPHIMI;Baetica
-7008;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-13122;-5.666942;37.615058;Dressel 20;Alcolea del Río;PHIII;Baetica
-38828;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-6648;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-26673;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13633;-5.646083;37.471248;Dressel 20;Carmona;AFRICAN;Baetica
-38954;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-38876;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12843;-5.082599;37.542203;Dressel 20;Écija;A;Baetica
-38885;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12484;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-7186;-5.52751;37.658961;Dressel 20;Lora del Río;LIT;Baetica
-38913;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-28092;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-6660;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-910;-5.281208;37.700239;Dressel 20;Palma del Río;MCC;Baetica
-28062;-6.041843;37.433953;Dressel 20;Santiponce;CAS;Baetica
-6655;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-13625;-5.646083;37.471248;Dressel 20;Carmona;TATILIASIATICI;Baetica
-11530;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38794;-5.082599;37.542203;Dressel 20;Écija;PSAVITI;Baetica
-41659;-5.52751;37.658961;Dressel 20;Lora del Río;QAEADQEAD;Baetica
-12996;-5.666942;37.615058;Dressel 20;Alcolea del Río;GST;Baetica
-7013;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-38953;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-6665;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-11756;-5.02037;37.810702;Dressel 20;Almodóvar del Río;SAES;Baetica
-10892;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-11052;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-29261;-5.973167;37.382826;Dressel 20;Seville;LFC;Baetica
-38829;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12287;-5.281208;37.700239;Dressel 20;Palma del Río;BELLICANAPAGALENI;Baetica
-13119;-5.666942;37.615058;Dressel 20;Alcolea del Río;ELIMFP;Baetica
-11694;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CMARISILVANI;Baetica
-28052;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-13723;-5.52751;37.658961;Dressel 20;Lora del Río;CONSFC;Baetica
-12219;-5.09965;37.704938;Dressel 20;Fuente Palmera;ME;Baetica
-13657;-5.646083;37.471248;Dressel 20;Carmona;LIT;Baetica
-26733;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38961;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-29215;-5.646083;37.471248;Dressel 20;Carmona;LER;Baetica
-38915;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13081;-5.666942;37.615058;Dressel 20;Alcolea del Río;OC;Baetica
-13566;-5.666942;37.615058;Dressel 20;Alcolea del Río;DFN;Baetica
-26676;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-12339;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-12241;-5.107258;37.802053;Dressel 20;Posadas;L;Baetica
-11358;-5.281208;37.700239;Dressel 20;Palma del Río;BELVR;Baetica
-11196;-5.52751;37.658961;Dressel 20;Lora del Río;CALPVRIN;Baetica
-11879;-5.233333;37.833333;Dressel 20;Hornachuelos;LCCVFI;Baetica
-7021;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-13672;-5.646083;37.471248;Dressel 20;Carmona;STLA;Baetica
-5558;-5.666942;37.615058;Dressel 20;Alcolea del Río;MCLS;Baetica
-38952;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13496;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-33361;-5.52751;37.658961;Dressel 20;Lora del Río;QAEOPTA;Baetica
-11515;-5.281208;37.700239;Dressel 20;Palma del Río;CIALB;Baetica
-13020;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38862;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-11619;-5.107258;37.802053;Dressel 20;Posadas;MRVFI;Baetica
-12884;-5.082599;37.542203;Dressel 20;Écija;IVM;Baetica
-41690;-5.52751;37.658961;Dressel 20;Lora del Río;MPFGRV;Baetica
-38899;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-11589;-5.107258;37.802053;Dressel 20;Posadas;MAT;Baetica
-33338;-5.52751;37.658961;Dressel 20;Lora del Río;CAF;Baetica
-26721;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-12530;-6.041843;37.433953;Dressel 20;Santiponce;LAEL;Baetica
-38957;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13580;-5.666942;37.615058;Dressel 20;Alcolea del Río;LAEO;Baetica
-12352;-5.082599;37.542203;Dressel 20;Écija;FE;Baetica
-38948;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12919;-5.52751;37.658961;Dressel 20;Lora del Río;RATAN;Baetica
-38792;-5.082599;37.542203;Dressel 20;Écija;GERMA;Baetica
-7183;-5.52751;37.658961;Dressel 20;Lora del Río;LIT;Baetica
-38844;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-11590;-5.107258;37.802053;Dressel 20;Posadas;MAT;Baetica
-13189;-5.666942;37.615058;Dressel 20;Alcolea del Río;III;Baetica
-13706;-5.52751;37.658961;Dressel 20;Lora del Río;CMM;Baetica
-27249;-6.035278;37.297222;Dressel 20;Huerta del Rincón;LICM;Baetica
-13686;-5.52751;37.658961;Dressel 20;Lora del Río;OFA;Baetica
-9546;-5.666942;37.615058;Dressel 20;Alcolea del Río;IIIMINICIOR;Baetica
-13012;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-10853;-5.082599;37.542203;Dressel 20;Écija;PSATPSTA;Baetica
-11138;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-12380;-5.082599;37.542203;Dressel 20;Écija;LFLVC;Baetica
-12314;-5.082599;37.542203;Dressel 20;Écija;LOCCAI;Baetica
-12354;-5.082599;37.542203;Dressel 20;Écija;MECI;Baetica
-11350;-5.281208;37.700239;Dressel 20;Palma del Río;BELCI;Baetica
-865;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-10916;-5.082599;37.542203;Dressel 20;Écija;AELIFVSCIANI;Baetica
-26710;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-33375;-5.646083;37.471248;Dressel 20;Carmona;MFX;Baetica
-12223;-5.09965;37.704938;Dressel 20;Fuente Palmera;CCNS;Baetica
-26666;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-33364;-5.646083;37.471248;Dressel 20;Carmona;ACIRGI;Baetica
-10991;-5.871389;37.549445;Dressel 20;Brenes;VIR;Baetica
-12385;-5.082599;37.542203;Dressel 20;Écija;GF;Baetica
-12405;-5.082599;37.542203;Dressel 20;Écija;LAEL;Baetica
-26740;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13669;-5.646083;37.471248;Dressel 20;Carmona;LSPBO;Baetica
-13123;-5.666942;37.615058;Dressel 20;Alcolea del Río;NPHILO;Baetica
-13233;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12450;-5.281208;37.700239;Dressel 20;Palma del Río;FCFIVSFM;Baetica
-12537;-6.041843;37.433953;Dressel 20;Santiponce;G;Baetica
-17756;-5.666942;37.615058;Dressel 20;Alcolea del Río;QV;Baetica
-12232;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-11223;-5.52751;37.658961;Dressel 20;Lora del Río;ICIFAFC;Baetica
-38871;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-28226;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38834;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13207;-5.666942;37.615058;Dressel 20;Alcolea del Río;III;Baetica
-10909;-5.082599;37.542203;Dressel 20;Écija;EIVAL;Baetica
-11341;-5.281208;37.700239;Dressel 20;Palma del Río;BEL;Baetica
-13671;-5.646083;37.471248;Dressel 20;Carmona;TFA;Baetica
-11910;-5.02037;37.810702;Dressel 20;Almodóvar del Río;THALI;Baetica
-12659;-5.666942;37.615058;Dressel 20;Alcolea del Río;CMM;Baetica
-11522;-5.233333;37.833333;Dressel 20;Hornachuelos;SBOGLVAELPAF;Baetica
-887;-5.233333;37.833333;Dressel 20;Hornachuelos;LFLVC;Baetica
-41700;-5.082599;37.542203;Dressel 20;Écija;EVCLK;Baetica
-13530;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNPHI;Baetica
-11881;-5.233333;37.833333;Dressel 20;Hornachuelos;CCVFI;Baetica
-17748;-5.666942;37.615058;Dressel 20;Alcolea del Río;LIVNIMELISSI;Baetica
-10931;-5.082599;37.542203;Dressel 20;Écija;SIP;Baetica
-12229;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-12281;-5.281208;37.700239;Dressel 20;Palma del Río;RE;Baetica
-11456;-5.281208;37.700239;Dressel 20;Palma del Río;LVIBICHROMIS;Baetica
-13251;-5.666942;37.615058;Dressel 20;Alcolea del Río;OE;Baetica
-893;-5.233333;37.833333;Dressel 20;Hornachuelos;LFLVC;Baetica
-11080;-5.52751;37.658961;Dressel 20;Lora del Río;LIT;Baetica
-12374;-5.082599;37.542203;Dressel 20;Écija;PLC;Baetica
-7017;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-38929;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12238;-5.09965;37.704938;Dressel 20;Fuente Palmera;VAR;Baetica
-9547;-5.666942;37.615058;Dressel 20;Alcolea del Río;IIIMINICIOR;Baetica
-13080;-5.666942;37.615058;Dressel 20;Alcolea del Río;TIT;Baetica
-11225;-5.52751;37.658961;Dressel 20;Lora del Río;CARLACARIAI;Baetica
-11411;-5.281208;37.700239;Dressel 20;Palma del Río;MIFRPN;Baetica
-12033;-5.02037;37.810702;Dressel 20;Almodóvar del Río;LPC;Baetica
-6824;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-6885;-5.52751;37.658961;Dressel 20;Lora del Río;PMPPR;Baetica
-13106;-5.666942;37.615058;Dressel 20;Alcolea del Río;CIM;Baetica
-6834;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-12250;-5.107258;37.802053;Dressel 20;Posadas;LFC;Baetica
-12943;-5.52751;37.658961;Dressel 20;Lora del Río;CONSFC;Baetica
-13519;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-28209;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12451;-5.281208;37.700239;Dressel 20;Palma del Río;TRLA;Baetica
-12880;-5.082599;37.542203;Dressel 20;Écija;FELICIS;Baetica
-38790;-5.082599;37.542203;Dressel 20;Écija;GERMA;Baetica
-38940;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12954;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-38896;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13228;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38804;-5.082599;37.542203;Dressel 20;Écija;LVIVCV;Baetica
-13094;-5.646083;37.471248;Dressel 20;Carmona;LMVE;Baetica
-13110;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38854;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-38832;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-11294;-5.281208;37.700239;Dressel 20;Palma del Río;LATECTREIN;Baetica
-11461;-5.281208;37.700239;Dressel 20;Palma del Río;CIALB;Baetica
-26533;-5.666942;37.615058;Dressel 20;Alcolea del Río;DOM;Baetica
-11440;-5.281208;37.700239;Dressel 20;Palma del Río;LVIBICHOMIS;Baetica
-11104;-5.52751;37.658961;Dressel 20;Lora del Río;MMR;Baetica
-41691;-5.52751;37.658961;Dressel 20;Lora del Río;QAEVER;Baetica
-38914;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12208;-5.09965;37.704938;Dressel 20;Fuente Palmera;VAR;Baetica
-38786;-5.082599;37.542203;Dressel 20;Écija;GERMA;Baetica
-38962;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-38923;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13485;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-28042;-5.281208;37.700239;Dressel 20;Palma del Río;BELLICIANA;Baetica
-11596;-5.107258;37.802053;Dressel 20;Posadas;MAT;Baetica
-13114;-5.666942;37.615058;Dressel 20;Alcolea del Río;CCLMM;Baetica
-5566;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-41668;-5.52751;37.658961;Dressel 20;Lora del Río;CCRASE;Baetica
-7010;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-13518;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-29599;-5.871389;37.549445;Dressel 20;Brenes;QVC;Baetica
-12658;-5.666942;37.615058;Dressel 20;Alcolea del Río;DFN;Baetica
-26736;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-6857;-5.52751;37.658961;Dressel 20;Lora del Río;ALF;Baetica
-13563;-5.666942;37.615058;Dressel 20;Alcolea del Río;DFN;Baetica
-13103;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-12910;-5.52751;37.658961;Dressel 20;Lora del Río;IFPVLFPV;Baetica
-12938;-5.52751;37.658961;Dressel 20;Lora del Río;IXPS;Baetica
-12340;-5.082599;37.542203;Dressel 20;Écija;C;Baetica
-11078;-5.52751;37.658961;Dressel 20;Lora del Río;LIT;Baetica
-26737;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11259;-5.082599;37.542203;Dressel 20;Écija;VNA;Baetica
-11272;-5.52751;37.658961;Dressel 20;Lora del Río;DIA;Baetica
-854;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-33324;-5.52751;37.658961;Dressel 20;Lora del Río;SFC;Baetica
-7020;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-6818;-5.52751;37.658961;Dressel 20;Lora del Río;POQHEHE;Baetica
-13532;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-38855;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-33379;-5.646083;37.471248;Dressel 20;Carmona;MSFPC;Baetica
-5568;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-13116;-5.666942;37.615058;Dressel 20;Alcolea del Río;BCCLLIMI;Baetica
-12386;-5.082599;37.542203;Dressel 20;Écija;LAVRELIGERMANI;Baetica
-33343;-5.52751;37.658961;Dressel 20;Lora del Río;AF;Baetica
-13510;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38955;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13162;-6.041843;37.433953;Dressel 20;Santiponce;IFMV;Baetica
-38860;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-38960;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13136;-5.646083;37.471248;Dressel 20;Carmona;ISP;Baetica
-6787;-5.52751;37.658961;Dressel 20;Lora del Río;CENNIHISPANI;Baetica
-13131;-5.646083;37.471248;Dressel 20;Carmona;LEF;Baetica
-870;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11268;-5.082599;37.542203;Dressel 20;Écija;LVALCHAE;Baetica
-13514;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-36983;-5.973167;37.382826;Dressel 20;Seville;LV;Baetica
-878;-5.233333;37.833333;Dressel 20;Hornachuelos;LFF;Baetica
-10993;-5.871389;37.549445;Dressel 20;Brenes;VIR;Baetica
-12548;-6.041843;37.433953;Dressel 20;Santiponce;RO;Baetica
-33376;-5.646083;37.471248;Dressel 20;Carmona;GIF;Baetica
-12099;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CALP;Baetica
-11131;-5.52751;37.658961;Dressel 20;Lora del Río;IARP;Baetica
-12434;-5.281208;37.700239;Dressel 20;Palma del Río;QI;Baetica
-28085;-5.666942;37.615058;Dressel 20;Alcolea del Río;LQS;Baetica
-13666;-5.646083;37.471248;Dressel 20;Carmona;LGG;Baetica
-6965;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-7003;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-12353;-5.082599;37.542203;Dressel 20;Écija;FABI;Baetica
-33325;-5.52751;37.658961;Dressel 20;Lora del Río;CONSFC;Baetica
-923;-5.281208;37.700239;Dressel 20;Palma del Río;TTLVC;Baetica
-11249;-5.281208;37.700239;Dressel 20;Palma del Río;QSYD;Baetica
-13491;-5.666942;37.615058;Dressel 20;Alcolea del Río;MM;Baetica
-26702;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11339;-5.281208;37.700239;Dressel 20;Palma del Río;BEL;Baetica
-11904;-5.02037;37.810702;Dressel 20;Almodóvar del Río;PASSERA;Baetica
-11247;-5.281208;37.700239;Dressel 20;Palma del Río;PFS;Baetica
-38901;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13212;-5.666942;37.615058;Dressel 20;Alcolea del Río;DL;Baetica
-12991;-5.666942;37.615058;Dressel 20;Alcolea del Río;CSTLA;Baetica
-11260;-5.082599;37.542203;Dressel 20;Écija;VNAI;Baetica
-13229;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11337;-5.281208;37.700239;Dressel 20;Palma del Río;AVRELIHERACLAE;Baetica
-6978;-5.52751;37.658961;Dressel 20;Lora del Río;POCODV;Baetica
-13616;-5.646083;37.471248;Dressel 20;Carmona;LSPBO;Baetica
-12660;-5.666942;37.615058;Dressel 20;Alcolea del Río;CMM;Baetica
-13240;-5.666942;37.615058;Dressel 20;Alcolea del Río;QFR;Baetica
-12947;-5.52751;37.658961;Dressel 20;Lora del Río;CA;Baetica
-13560;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-13130;-5.646083;37.471248;Dressel 20;Carmona;LER;Baetica
-12538;-6.041843;37.433953;Dressel 20;Santiponce;CCR;Baetica
-11592;-5.107258;37.802053;Dressel 20;Posadas;MAT;Baetica
-13677;-5.646083;37.471248;Dressel 20;Carmona;TATILIASIATICI;Baetica
-13524;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-6891;-5.52751;37.658961;Dressel 20;Lora del Río;MMR;Baetica
-11577;-5.107258;37.802053;Dressel 20;Posadas;DITR;Baetica
-13574;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-38835;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12921;-5.52751;37.658961;Dressel 20;Lora del Río;RHIVA;Baetica
-10944;-5.082599;37.542203;Dressel 20;Écija;ILVI;Baetica
-12388;-5.082599;37.542203;Dressel 20;Écija;LAVRELIGERMANI;Baetica
-13171;-5.666942;37.615058;Dressel 20;Alcolea del Río;BCLLM;Baetica
-7025;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-12324;-5.082599;37.542203;Dressel 20;Écija;LFCS;Baetica
-13509;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12889;-5.082599;37.542203;Dressel 20;Écija;SY;Baetica
-13533;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-38918;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-28180;-5.233333;37.833333;Dressel 20;Hornachuelos;PRIS;Baetica
-7004;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-13193;-5.666942;37.615058;Dressel 20;Alcolea del Río;N;Baetica
-26732;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-10881;-5.082599;37.542203;Dressel 20;Écija;CC;Baetica
-11246;-5.281208;37.700239;Dressel 20;Palma del Río;ELEPL;Baetica
-13536;-5.666942;37.615058;Dressel 20;Alcolea del Río;IICCLLM;Baetica
-13520;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-41674;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-38889;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-26744;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-41660;-5.52751;37.658961;Dressel 20;Lora del Río;MAEMRVS;Baetica
-26637;-5.233333;37.833333;Dressel 20;Hornachuelos;PAH;Baetica
-11213;-5.52751;37.658961;Dressel 20;Lora del Río;VPC;Baetica
-10840;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-38920;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13708;-5.52751;37.658961;Dressel 20;Lora del Río;SAES;Baetica
-13219;-5.666942;37.615058;Dressel 20;Alcolea del Río;PCICELI;Baetica
-11829;-5.09965;37.704938;Dressel 20;Fuente Palmera;CVA;Baetica
-11049;-5.082599;37.542203;Dressel 20;Écija;LVIVCV;Baetica
-13137;-5.646083;37.471248;Dressel 20;Carmona;STT;Baetica
-36985;-5.973167;37.382826;Dressel 20;Seville;GCR;Baetica
-12413;-5.082599;37.542203;Dressel 20;Écija;MC;Baetica
-26964;-5.233333;37.833333;Dressel 20;Hornachuelos;FIG;Baetica
-11336;-5.281208;37.700239;Dressel 20;Palma del Río;AVGN;Baetica
-11293;-5.281208;37.700239;Dressel 20;Palma del Río;LATECTREIN;Baetica
-11835;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-12987;-5.666942;37.615058;Dressel 20;Alcolea del Río;PCICELI;Baetica
-38958;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-12060;-5.02037;37.810702;Dressel 20;Almodóvar del Río;MART;Baetica
-6657;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-38908;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-6821;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-12412;-5.082599;37.542203;Dressel 20;Écija;LS;Baetica
-33350;-5.52751;37.658961;Dressel 20;Lora del Río;CMM;Baetica
-41447;-5.388371;37.780899;Dressel 20;La Puebla de los Infantes;IRCI;Baetica
-38870;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-38848;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-11418;-5.281208;37.700239;Dressel 20;Palma del Río;LVIBICHOMIS;Baetica
-38965;-5.082599;37.542203;Dressel 20;Écija;CORBEL;Baetica
-13448;-5.871389;37.549445;Dressel 20;Brenes;M;Baetica
-13512;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-9548;-5.666942;37.615058;Dressel 20;Alcolea del Río;IIIMINICIOR;Baetica
-12088;-5.02037;37.810702;Dressel 20;Almodóvar del Río;NICXIII;Baetica
-13499;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11174;-5.52751;37.658961;Dressel 20;Lora del Río;NERVAELVP;Baetica
-13087;-5.666942;37.615058;Dressel 20;Alcolea del Río;CHR;Baetica
-38837;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12290;-5.281208;37.700239;Dressel 20;Palma del Río;FAVSTINI;Baetica
-11435;-5.281208;37.700239;Dressel 20;Palma del Río;LCT;Baetica
-11576;-5.107258;37.802053;Dressel 20;Posadas;DITR;Baetica
-922;-5.281208;37.700239;Dressel 20;Palma del Río;TTLVC;Baetica
-11833;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-26688;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13065;-5.666942;37.615058;Dressel 20;Alcolea del Río;CN;Baetica
-26726;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11667;-5.02037;37.810702;Dressel 20;Almodóvar del Río;IREO;Baetica
-13624;-5.646083;37.471248;Dressel 20;Carmona;TATILIASIATICI;Baetica
-38857;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-26705;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13636;-5.646083;37.471248;Dressel 20;Carmona;LGG;Baetica
-41444;-5.388371;37.780899;Dressel 20;La Puebla de los Infantes;APFS;Baetica
-12255;-5.107258;37.802053;Dressel 20;Posadas;AELIFVSCIANI;Baetica
-38950;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-11837;-5.09965;37.704938;Dressel 20;Fuente Palmera;CCNS;Baetica
-13017;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11822;-5.09965;37.704938;Dressel 20;Fuente Palmera;NICEFVAR;Baetica
-12941;-5.52751;37.658961;Dressel 20;Lora del Río;CONSFC;Baetica
-13239;-5.666942;37.615058;Dressel 20;Alcolea del Río;QFR;Baetica
-6868;-5.52751;37.658961;Dressel 20;Lora del Río;LFO;Baetica
-6663;-5.52751;37.658961;Dressel 20;Lora del Río;QAELIOPTATI;Baetica
-11780;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CMARISILVANI;Baetica
-38798;-5.082599;37.542203;Dressel 20;Écija;SEDAVITI;Baetica
-9558;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11814;-5.02037;37.810702;Dressel 20;Almodóvar del Río;IBAE;Baetica
-26691;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11152;-5.52751;37.658961;Dressel 20;Lora del Río;GALI;Baetica
-10849;-5.082599;37.542203;Dressel 20;Écija;LIC;Baetica
-28063;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CASTELANI;Baetica
-38886;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-11907;-5.02037;37.810702;Dressel 20;Almodóvar del Río;SECV;Baetica
-12515;-5.52751;37.658961;Dressel 20;Lora del Río;CPCI;Baetica
-6751;-5.52751;37.658961;Dressel 20;Lora del Río;CEFP;Baetica
-11723;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CMARISILVANI;Baetica
-12936;-5.52751;37.658961;Dressel 20;Lora del Río;IIIIMMIRIV;Baetica
-7120;-5.52751;37.658961;Dressel 20;Lora del Río;LSERLVPI;Baetica
-26746;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-26756;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11838;-5.09965;37.704938;Dressel 20;Fuente Palmera;CCNS;Baetica
-38796;-5.082599;37.542203;Dressel 20;Écija;PSAVITI;Baetica
-12039;-5.02037;37.810702;Dressel 20;Almodóvar del Río;SO;Baetica
-12204;-5.107258;37.802053;Dressel 20;Posadas;CCNS;Baetica
-13190;-5.666942;37.615058;Dressel 20;Alcolea del Río;N;Baetica
-33373;-5.646083;37.471248;Dressel 20;Carmona;CFS;Baetica
-17760;-5.666942;37.615058;Dressel 20;Alcolea del Río;NOVVA;Baetica
-13108;-5.666942;37.615058;Dressel 20;Alcolea del Río;DEF;Baetica
-6830;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-12191;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CCHREST;Baetica
-41446;-5.388371;37.780899;Dressel 20;La Puebla de los Infantes;FSFAQVA;Baetica
-7027;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-13091;-5.646083;37.471248;Dressel 20;Carmona;TFA;Baetica
-38964;-5.082599;37.542203;Dressel 20;Écija;CAMILISILVESTRI;Baetica
-26667;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-33372;-5.646083;37.471248;Dressel 20;Carmona;IIIFFBOV;Baetica
-13504;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12398;-5.082599;37.542203;Dressel 20;Écija;FC;Baetica
-38947;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-17702;-5.666942;37.615058;Dressel 20;Alcolea del Río;LGG;Baetica
-38941;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-26686;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-13223;-5.666942;37.615058;Dressel 20;Alcolea del Río;ME;Baetica
-13009;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-41694;-5.082599;37.542203;Dressel 20;Écija;QCCFC;Baetica
-41670;-5.52751;37.658961;Dressel 20;Lora del Río;LFFV;Baetica
-13661;-5.646083;37.471248;Dressel 20;Carmona;VATR;Baetica
-38821;-5.082599;37.542203;Dressel 20;Écija;PSAVITI;Baetica
-13579;-5.666942;37.615058;Dressel 20;Alcolea del Río;SAXOFERREO;Baetica
-38907;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-33347;-5.52751;37.658961;Dressel 20;Lora del Río;CMM;Baetica
-13039;-5.666942;37.615058;Dressel 20;Alcolea del Río;COR;Baetica
-38946;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-13525;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-41662;-5.52751;37.658961;Dressel 20;Lora del Río;LCM;Baetica
-38793;-5.082599;37.542203;Dressel 20;Écija;PSAVITI;Baetica
-12541;-6.041843;37.433953;Dressel 20;Santiponce;ACI;Baetica
-26722;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-38849;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-38877;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13545;-5.666942;37.615058;Dressel 20;Alcolea del Río;MMCS;Baetica
-13517;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38887;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13220;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-6754;-5.52751;37.658961;Dressel 20;Lora del Río;GEF;Baetica
-12251;-5.107258;37.802053;Dressel 20;Posadas;LFC;Baetica
-38841;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-6822;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-6730;-5.52751;37.658961;Dressel 20;Lora del Río;CCEFP;Baetica
-13494;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-12533;-6.041843;37.433953;Dressel 20;Santiponce;FPAT;Baetica
-11133;-5.52751;37.658961;Dressel 20;Lora del Río;POPVLI;Baetica
-11612;-5.107258;37.802053;Dressel 20;Posadas;TMAR;Baetica
-12524;-5.646083;37.471248;Dressel 20;Carmona;RFP;Baetica
-12989;-5.666942;37.615058;Dressel 20;Alcolea del Río;CLODICIII;Baetica
-12259;-5.107258;37.802053;Dressel 20;Posadas;FRI;Baetica
-36981;-5.973167;37.382826;Dressel 20;Seville;MAR;Baetica
-26742;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-12090;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIR;Baetica
-11529;-5.233333;37.833333;Dressel 20;Hornachuelos;LFC;Baetica
-11102;-5.52751;37.658961;Dressel 20;Lora del Río;S;Baetica
-11283;-5.52751;37.658961;Dressel 20;Lora del Río;DIA;Baetica
-13665;-5.646083;37.471248;Dressel 20;Carmona;LGG;Baetica
-38882;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12227;-5.09965;37.704938;Dressel 20;Fuente Palmera;FCVCV;Baetica
-38827;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-10876;-5.082599;37.542203;Dressel 20;Écija;LACONELACONF;Baetica
-38833;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-6829;-5.52751;37.658961;Dressel 20;Lora del Río;MIM;Baetica
-11181;-5.52751;37.658961;Dressel 20;Lora del Río;LSERLVPI;Baetica
-12207;-5.09965;37.704938;Dressel 20;Fuente Palmera;CVVA;Baetica
-848;-5.233333;37.833333;Dressel 20;Hornachuelos;CELSI;Baetica
-28436;-5.02037;37.810702;Dressel 20;Almodóvar del Río;CIVLIBAR;Baetica
-13581;-5.666942;37.615058;Dressel 20;Alcolea del Río;CAMILIMELISSI;Baetica
-11521;-5.233333;37.833333;Dressel 20;Hornachuelos;CIAQBERO;Baetica
-13746;-5.281208;37.700239;Dressel 20;Palma del Río;BELLICI;Baetica
-12807;-5.09965;37.704938;Dressel 20;Fuente Palmera;CVFM;Baetica
-13174;-5.666942;37.615058;Dressel 20;Alcolea del Río;CN;Baetica
-13501;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-38893;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-13231;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNN;Baetica
-11611;-5.107258;37.802053;Dressel 20;Posadas;MARMA;Baetica
-10873;-5.082599;37.542203;Dressel 20;Écija;LFC;Baetica
-38926;-5.082599;37.542203;Dressel 20;Écija;CAMILIMELISSI;Baetica
-32347;-5.696078;37.447006;Dressel 20;Sevilla;AV;Baetica
-38875;-5.082599;37.542203;Dressel 20;Écija;LIVNIMELISSI;Baetica
-12243;-5.107258;37.802053;Dressel 20;Posadas;LFF;Baetica
-13919;-5.666942;37.615058;Dressel 20;Alcolea del Río;PNPHI;Baetica
-13224;-5.666942;37.615058;Dressel 20;Alcolea del Río;ES;Baetica
-6970;-5.52751;37.658961;Dressel 20;Lora del Río;POROCODV;Baetica
-13060;-5.666942;37.615058;Dressel 20;Alcolea del Río;DEF;Baetica
-41680;-5.52751;37.658961;Dressel 20;Lora del Río;FGRV;Baetica
+id,lat,long,type,site,code,name
+13630,-5.646083,37.471248,Dressel 20,Carmona,EPSF,Baetica
+38865,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+6721,-5.52751,37.658961,Dressel 20,Lora del Río,CHRYSANTI,Baetica
+13741,-5.52751,37.658961,Dressel 20,Lora del Río,LSR,Baetica
+12387,-5.082599,37.542203,Dressel 20,Écija,LAVRELIGERMANI,Baetica
+11509,-5.281208,37.700239,Dressel 20,Palma del Río,QIVTES,Baetica
+13098,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+38812,-5.082599,37.542203,Dressel 20,Écija,FELICIS,Baetica
+12536,-6.041843,37.433953,Dressel 20,Santiponce,DATSCOL,Baetica
+13713,-5.52751,37.658961,Dressel 20,Lora del Río,MEM,Baetica
+11062,-5.082599,37.542203,Dressel 20,Écija,GERM,Baetica
+7133,-5.52751,37.658961,Dressel 20,Lora del Río,LVALERITROPHIMI,Baetica
+11482,-5.281208,37.700239,Dressel 20,Palma del Río,CYALB,Baetica
+12531,-6.041843,37.433953,Dressel 20,Santiponce,MA,Baetica
+12379,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+11245,-5.281208,37.700239,Dressel 20,Palma del Río,ATP,Baetica
+912,-5.281208,37.700239,Dressel 20,Palma del Río,MCC,Baetica
+11265,-5.082599,37.542203,Dressel 20,Écija,LVALCHAE,Baetica
+28099,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+867,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+28359,-5.02037,37.810702,Dressel 20,Almodóvar del Río,LIBERALINI,Baetica
+10915,-5.082599,37.542203,Dressel 20,Écija,LIDFIT,Baetica
+41687,-5.52751,37.658961,Dressel 20,Lora del Río,LSSEX,Baetica
+11139,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+11666,-5.02037,37.810702,Dressel 20,Almodóvar del Río,IREO,Baetica
+33342,-5.52751,37.658961,Dressel 20,Lora del Río,APF,Baetica
+13587,-5.666942,37.615058,Dressel 20,Alcolea del Río,MFM,Baetica
+11129,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+38942,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+11384,-5.281208,37.700239,Dressel 20,Palma del Río,QSO,Baetica
+13707,-5.52751,37.658961,Dressel 20,Lora del Río,GANNIRVFINI,Baetica
+29360,-5.973167,37.382826,Dressel 20,Seville,QFR,Baetica
+21230,-5.34504,37.708919,Dressel 20,Peñaflor,LVPOS,Baetica
+6404,-5.75,37.733333,Dressel 20,Castillo de Mulva,LIVNIMELISSI,Baetica
+26884,-5.233333,37.833333,Dressel 20,Hornachuelos,SCALGAB,Baetica
+10854,-5.082599,37.542203,Dressel 20,Écija,FEL,Baetica
+11081,-5.52751,37.658961,Dressel 20,Lora del Río,LIT,Baetica
+11476,-5.281208,37.700239,Dressel 20,Palma del Río,CIALB,Baetica
+33344,-5.52751,37.658961,Dressel 20,Lora del Río,CMM,Baetica
+26461,-5.973167,37.382826,Dressel 20,Seville,CAMILIMELISSI,Baetica
+13445,-5.871389,37.549445,Dressel 20,Brenes,SQFSN,Baetica
+36984,-5.973167,37.382826,Dressel 20,Seville,CCR,Baetica
+11248,-5.281208,37.700239,Dressel 20,Palma del Río,QSYD,Baetica
+11621,-5.107258,37.802053,Dressel 20,Posadas,FEDOPP,Baetica
+13498,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+26716,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13722,-5.52751,37.658961,Dressel 20,Lora del Río,CONSFC,Baetica
+38917,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13133,-5.646083,37.471248,Dressel 20,Carmona,PRI,Baetica
+12896,-5.34504,37.708919,Dressel 20,Peñaflor,AF,Baetica
+41685,-5.52751,37.658961,Dressel 20,Lora del Río,LSSEX,Baetica
+930,-5.281208,37.700239,Dressel 20,Palma del Río,PCHO,Baetica
+7009,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+12535,-6.041843,37.433953,Dressel 20,Santiponce,STT,Baetica
+38839,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+26753,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+5562,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+41667,-5.52751,37.658961,Dressel 20,Lora del Río,CCRASSISEMNI,Baetica
+882,-5.233333,37.833333,Dressel 20,Hornachuelos,LFF,Baetica
+7121,-5.52751,37.658961,Dressel 20,Lora del Río,LSERLVPI,Baetica
+12239,-5.107258,37.802053,Dressel 20,Posadas,AEFCA,Baetica
+11638,-5.107258,37.802053,Dressel 20,Posadas,MAVR,Baetica
+12449,-5.281208,37.700239,Dressel 20,Palma del Río,CI,Baetica
+38859,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+41699,-5.082599,37.542203,Dressel 20,Écija,FCAV,Baetica
+12326,-5.082599,37.542203,Dressel 20,Écija,LFCS,Baetica
+38838,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12473,-5.52751,37.658961,Dressel 20,Lora del Río,FCRV,Baetica
+38805,-5.082599,37.542203,Dressel 20,Écija,ROMANI,Baetica
+38905,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+7005,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+12528,-6.041843,37.433953,Dressel 20,Santiponce,LIS,Baetica
+10902,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+9544,-5.666942,37.615058,Dressel 20,Alcolea del Río,MHA,Baetica
+28210,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11199,-5.52751,37.658961,Dressel 20,Lora del Río,AVBANB,Baetica
+12992,-5.666942,37.615058,Dressel 20,Alcolea del Río,STLA,Baetica
+7019,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+6664,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+11575,-5.107258,37.802053,Dressel 20,Posadas,DITR,Baetica
+13008,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12222,-5.09965,37.704938,Dressel 20,Fuente Palmera,CCNS,Baetica
+7200,-5.02037,37.810702,Dressel 20,Almodóvar del Río,THALI,Baetica
+11121,-5.52751,37.658961,Dressel 20,Lora del Río,LQS,Baetica
+9555,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+28048,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+41677,-5.52751,37.658961,Dressel 20,Lora del Río,IIAVRELHERACLAPATETFILFGRV,Baetica
+26717,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+12230,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+6823,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+38936,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+926,-5.281208,37.700239,Dressel 20,Palma del Río,SECVNDIINIA,Baetica
+11137,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+12486,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+10903,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+12534,-6.041843,37.433953,Dressel 20,Santiponce,LFC,Baetica
+12551,-6.054101,37.287661,Dressel 20,Coria del Río,LQS,Baetica
+6649,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+13623,-5.646083,37.471248,Dressel 20,Carmona,ME,Baetica
+10990,-5.871389,37.549445,Dressel 20,Brenes,VIR,Baetica
+844,-5.233333,37.833333,Dressel 20,Hornachuelos,MCCDFM,Baetica
+11335,-5.281208,37.700239,Dressel 20,Palma del Río,AVRELIHERACLAE,Baetica
+17701,-5.666942,37.615058,Dressel 20,Alcolea del Río,LGG,Baetica
+11285,-5.52751,37.658961,Dressel 20,Lora del Río,ATITTAE,Baetica
+13495,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+7029,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+26724,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+10887,-5.082599,37.542203,Dressel 20,Écija,LAVRELIGERMANI,Baetica
+29664,-5.871389,37.549445,Dressel 20,Brenes,VIRIII,Baetica
+26687,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+17754,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13663,-5.646083,37.471248,Dressel 20,Carmona,ENATENTA,Baetica
+13754,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+13733,-5.52751,37.658961,Dressel 20,Lora del Río,LAEQ,Baetica
+13543,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+10889,-5.082599,37.542203,Dressel 20,Écija,LA,Baetica
+12319,-5.082599,37.542203,Dressel 20,Écija,LAVRELIGERMANI,Baetica
+6974,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+12983,-5.666942,37.615058,Dressel 20,Alcolea del Río,MNRNNR,Baetica
+13626,-5.646083,37.471248,Dressel 20,Carmona,LER,Baetica
+28097,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+11773,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CARI,Baetica
+11817,-4.772748,37.89155,Dressel 20,Córdoba,AVFER,Baetica
+38787,-5.082599,37.542203,Dressel 20,Écija,GERMA,Baetica
+12233,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+12542,-6.041843,37.433953,Dressel 20,Santiponce,PPCAL,Baetica
+38884,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12881,-5.082599,37.542203,Dressel 20,Écija,FELICIS,Baetica
+10878,-5.082599,37.542203,Dressel 20,Écija,QFC,Baetica
+26750,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38921,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13442,-5.871389,37.549445,Dressel 20,Brenes,LFFV,Baetica
+12332,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+12356,-5.082599,37.542203,Dressel 20,Écija,LVAGER,Baetica
+11520,-5.233333,37.833333,Dressel 20,Hornachuelos,SAXE,Baetica
+38894,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+38883,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12906,-5.52751,37.658961,Dressel 20,Lora del Río,ST,Baetica
+26749,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+12899,-5.34504,37.708919,Dressel 20,Peñaflor,NIII,Baetica
+12980,-5.666942,37.615058,Dressel 20,Alcolea del Río,CANNIRVFINI,Baetica
+26638,-5.233333,37.833333,Dressel 20,Hornachuelos,PAH,Baetica
+28093,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+6892,-5.52751,37.658961,Dressel 20,Lora del Río,MMR,Baetica
+26674,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11150,-5.52751,37.658961,Dressel 20,Lora del Río,PSAENI,Baetica
+13195,-5.666942,37.615058,Dressel 20,Alcolea del Río,AV,Baetica
+12411,-5.082599,37.542203,Dressel 20,Écija,LAEL,Baetica
+13213,-5.666942,37.615058,Dressel 20,Alcolea del Río,PERSEV,Baetica
+12260,-5.107258,37.802053,Dressel 20,Posadas,IMPIGI,Baetica
+26743,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38826,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13059,-5.666942,37.615058,Dressel 20,Alcolea del Río,NPM,Baetica
+13101,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+13611,-5.646083,37.471248,Dressel 20,Carmona,LSPBO,Baetica
+11164,-5.52751,37.658961,Dressel 20,Lora del Río,HISPANI,Baetica
+13555,-5.666942,37.615058,Dressel 20,Alcolea del Río,MCS,Baetica
+6717,-5.52751,37.658961,Dressel 20,Lora del Río,VCLF,Baetica
+11417,-5.281208,37.700239,Dressel 20,Palma del Río,LVIBICHOMIS,Baetica
+12894,-5.34504,37.708919,Dressel 20,Peñaflor,OTVQTV,Baetica
+851,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38823,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+9549,-5.666942,37.615058,Dressel 20,Alcolea del Río,IIIMINICIOR,Baetica
+26735,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+41701,-5.082599,37.542203,Dressel 20,Écija,GCLK,Baetica
+12460,-5.281208,37.700239,Dressel 20,Palma del Río,MIFRPN,Baetica
+33323,-5.52751,37.658961,Dressel 20,Lora del Río,CONSFC,Baetica
+12403,-5.082599,37.542203,Dressel 20,Écija,LICC,Baetica
+12824,-5.281208,37.700239,Dressel 20,Palma del Río,RATT,Baetica
+12175,-5.233333,37.833333,Dressel 20,Hornachuelos,NARF,Baetica
+41663,-5.52751,37.658961,Dressel 20,Lora del Río,CCRASSISEMNI,Baetica
+10884,-5.082599,37.542203,Dressel 20,Écija,MIM,Baetica
+41695,-5.082599,37.542203,Dressel 20,Écija,FC,Baetica
+38925,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+11385,-5.281208,37.700239,Dressel 20,Palma del Río,DIN,Baetica
+6863,-5.52751,37.658961,Dressel 20,Lora del Río,BALF,Baetica
+26731,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38903,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13617,-5.646083,37.471248,Dressel 20,Carmona,LSPBO,Baetica
+38944,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+38872,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+861,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38911,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12527,-6.041843,37.433953,Dressel 20,Santiponce,PMOCVFIGEDO,Baetica
+13064,-5.666942,37.615058,Dressel 20,Alcolea del Río,CM,Baetica
+7024,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+38874,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12529,-6.041843,37.433953,Dressel 20,Santiponce,CAS,Baetica
+13236,-5.646083,37.471248,Dressel 20,Carmona,TFA,Baetica
+11182,-5.52751,37.658961,Dressel 20,Lora del Río,LSERLVPI,Baetica
+11091,-5.52751,37.658961,Dressel 20,Lora del Río,CAVE,Baetica
+13655,-5.646083,37.471248,Dressel 20,Carmona,LIT,Baetica
+41678,-5.52751,37.658961,Dressel 20,Lora del Río,IIAVRELHERACLAPATETFILFGRV,Baetica
+7028,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+6833,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+13011,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11779,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CMARISILVANI,Baetica
+6819,-5.52751,37.658961,Dressel 20,Lora del Río,POQHEHE,Baetica
+13203,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38861,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13202,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38966,-5.082599,37.542203,Dressel 20,Écija,CORBEL,Baetica
+11267,-5.082599,37.542203,Dressel 20,Écija,SVLAL,Baetica
+5576,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+885,-5.233333,37.833333,Dressel 20,Hornachuelos,LFLVC,Baetica
+12167,-5.02037,37.810702,Dressel 20,Almodóvar del Río,NICXIII,Baetica
+11913,-5.02037,37.810702,Dressel 20,Almodóvar del Río,VICIORN,Baetica
+12042,-5.02037,37.810702,Dressel 20,Almodóvar del Río,VICXII,Baetica
+38815,-5.082599,37.542203,Dressel 20,Écija,FELICIS,Baetica
+879,-5.233333,37.833333,Dressel 20,Hornachuelos,LFF,Baetica
+10883,-5.082599,37.542203,Dressel 20,Écija,MIM,Baetica
+12383,-5.082599,37.542203,Dressel 20,Écija,CEMT,Baetica
+12100,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CALP,Baetica
+864,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11839,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+13266,-5.107258,37.802053,Dressel 20,Posadas,PM,Baetica
+38891,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+29657,-5.871389,37.549445,Dressel 20,Brenes,VIRG,Baetica
+12969,-5.666942,37.615058,Dressel 20,Alcolea del Río,SALS,Baetica
+11263,-5.082599,37.542203,Dressel 20,Écija,LAL,Baetica
+13263,-5.107258,37.802053,Dressel 20,Posadas,OCA,Baetica
+26729,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11173,-5.52751,37.658961,Dressel 20,Lora del Río,NERV,Baetica
+6882,-5.52751,37.658961,Dressel 20,Lora del Río,PMH,Baetica
+12228,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+11171,-5.52751,37.658961,Dressel 20,Lora del Río,SIP,Baetica
+11349,-5.281208,37.700239,Dressel 20,Palma del Río,BELCI,Baetica
+11815,-5.02037,37.810702,Dressel 20,Almodóvar del Río,NICXIII,Baetica
+11274,-5.52751,37.658961,Dressel 20,Lora del Río,NER,Baetica
+12399,-5.082599,37.542203,Dressel 20,Écija,LIDFIT,Baetica
+913,-5.281208,37.700239,Dressel 20,Palma del Río,MCCDFM,Baetica
+28200,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12836,-5.281208,37.700239,Dressel 20,Palma del Río,QIC,Baetica
+12950,-5.52751,37.658961,Dressel 20,Lora del Río,CMM,Baetica
+13528,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12468,-5.281208,37.700239,Dressel 20,Palma del Río,AVRELIHERACLAE,Baetica
+11442,-5.281208,37.700239,Dressel 20,Palma del Río,LVIBICHOMIS,Baetica
+10885,-5.082599,37.542203,Dressel 20,Écija,MIM,Baetica
+866,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+28088,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+38924,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+7199,-5.02037,37.810702,Dressel 20,Almodóvar del Río,SIICVN,Baetica
+13522,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11383,-5.281208,37.700239,Dressel 20,Palma del Río,CAEI,Baetica
+12225,-5.09965,37.704938,Dressel 20,Fuente Palmera,CCNS,Baetica
+26715,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+10941,-5.082599,37.542203,Dressel 20,Écija,LAEL,Baetica
+38945,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+32343,-5.696078,37.447006,Dressel 20,Sevilla,LV,Baetica
+13248,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+10845,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+5577,-5.666942,37.615058,Dressel 20,Alcolea del Río,VRS,Baetica
+6977,-5.52751,37.658961,Dressel 20,Lora del Río,POCODV,Baetica
+11531,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+33377,-5.646083,37.471248,Dressel 20,Carmona,MAS,Baetica
+12452,-5.281208,37.700239,Dressel 20,Palma del Río,FCFIVSFM,Baetica
+26745,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+26980,-5.233333,37.833333,Dressel 20,Hornachuelos,LTPHI,Baetica
+7015,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+11570,-5.107258,37.802053,Dressel 20,Posadas,FAV,Baetica
+12026,-5.02037,37.810702,Dressel 20,Almodóvar del Río,VIXII,Baetica
+26728,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+12485,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+38935,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+10879,-5.082599,37.542203,Dressel 20,Écija,CSIVAASFCA,Baetica
+13558,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12384,-5.082599,37.542203,Dressel 20,Écija,CCAV,Baetica
+12839,-5.281208,37.700239,Dressel 20,Palma del Río,MXIEMVELMXIEN,Baetica
+26685,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+7016,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+13745,-5.52751,37.658961,Dressel 20,Lora del Río,CENNIHISPANI,Baetica
+38892,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+26752,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+9545,-5.666942,37.615058,Dressel 20,Alcolea del Río,IIIMINICIOR,Baetica
+11669,-5.02037,37.810702,Dressel 20,Almodóvar del Río,VVC,Baetica
+12206,-5.107258,37.802053,Dressel 20,Posadas,CVVA,Baetica
+41672,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+11906,-5.02037,37.810702,Dressel 20,Almodóvar del Río,SECVN,Baetica
+26718,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38843,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12507,-5.52751,37.658961,Dressel 20,Lora del Río,SEXN,Baetica
+38836,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13610,-5.646083,37.471248,Dressel 20,Carmona,LSPBO,Baetica
+13675,-5.646083,37.471248,Dressel 20,Carmona,TATILIASIATICI,Baetica
+13225,-5.666942,37.615058,Dressel 20,Alcolea del Río,IE,Baetica
+33356,-5.52751,37.658961,Dressel 20,Lora del Río,QAOPCO,Baetica
+13618,-5.646083,37.471248,Dressel 20,Carmona,LSPBO,Baetica
+26463,-5.973167,37.382826,Dressel 20,Seville,CA,Baetica
+874,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38869,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+41445,-5.388371,37.780899,Dressel 20,La Puebla de los Infantes,FCVCV,Baetica
+11595,-5.107258,37.802053,Dressel 20,Posadas,MAT,Baetica
+26944,-5.233333,37.833333,Dressel 20,Hornachuelos,SCALESE,Baetica
+13249,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+11821,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+6969,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+11045,-5.871389,37.549445,Dressel 20,Brenes,FCVF,Baetica
+11902,-5.02037,37.810702,Dressel 20,Almodóvar del Río,NSAAPNSMP,Baetica
+29612,-5.749515,37.373014,Dressel 20,Mairena del Alcor,LVAGAL,Baetica
+13066,-5.666942,37.615058,Dressel 20,Alcolea del Río,NFOI,Baetica
+12953,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+11772,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CARI,Baetica
+5573,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+7055,-5.52751,37.658961,Dressel 20,Lora del Río,LQS,Baetica
+7137,-5.52751,37.658961,Dressel 20,Lora del Río,ATITAE,Baetica
+26701,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+12218,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+12096,-5.02037,37.810702,Dressel 20,Almodóvar del Río,AN,Baetica
+13237,-5.646083,37.471248,Dressel 20,Carmona,TFA,Baetica
+12810,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCCVFM,Baetica
+13483,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+13502,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11880,-5.233333,37.833333,Dressel 20,Hornachuelos,LCCVFI,Baetica
+26689,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+41702,-5.082599,37.542203,Dressel 20,Écija,SCLC,Baetica
+12245,-5.107258,37.802053,Dressel 20,Posadas,LFC,Baetica
+26885,-5.233333,37.833333,Dressel 20,Hornachuelos,SCALGAB,Baetica
+13487,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+855,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38802,-5.082599,37.542203,Dressel 20,Écija,IVCVNDI,Baetica
+13506,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12799,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIVLIBAR,Baetica
+29594,-5.34504,37.708919,Dressel 20,Peñaflor,TREPTI,Baetica
+36982,-5.973167,37.382826,Dressel 20,Seville,IV,Baetica
+41669,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+33367,-5.646083,37.471248,Dressel 20,Carmona,LCS,Baetica
+12868,-5.082599,37.542203,Dressel 20,Écija,SILVESTRI,Baetica
+846,-5.233333,37.833333,Dressel 20,Hornachuelos,CELSI,Baetica
+12861,-5.082599,37.542203,Dressel 20,Écija,LVIVCV,Baetica
+26730,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13441,-5.871389,37.549445,Dressel 20,Brenes,LFFV,Baetica
+38785,-5.082599,37.542203,Dressel 20,Écija,GERMA,Baetica
+11836,-5.09965,37.704938,Dressel 20,Fuente Palmera,CCNS,Baetica
+29239,-6.041843,37.433953,Dressel 20,Santiponce,TFA,Baetica
+21237,-5.34504,37.708919,Dressel 20,Peñaflor,MAIR,Baetica
+33351,-5.52751,37.658961,Dressel 20,Lora del Río,IDN,Baetica
+11724,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CMARISILVANI,Baetica
+13547,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+12981,-5.666942,37.615058,Dressel 20,Alcolea del Río,CANNIRVFINI,Baetica
+11770,-5.02037,37.810702,Dressel 20,Almodóvar del Río,SVCCESI,Baetica
+12056,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CMARISILVANI,Baetica
+13242,-5.52751,37.658961,Dressel 20,Lora del Río,LVALERITROPHIMI,Baetica
+26693,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13210,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11079,-5.52751,37.658961,Dressel 20,Lora del Río,LIT,Baetica
+6967,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+13084,-5.666942,37.615058,Dressel 20,Alcolea del Río,RIV,Baetica
+33378,-5.646083,37.471248,Dressel 20,Carmona,MAS,Baetica
+6651,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+33333,-5.52751,37.658961,Dressel 20,Lora del Río,FIRMI,Baetica
+13209,-5.666942,37.615058,Dressel 20,Alcolea del Río,CCELI,Baetica
+6659,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+10939,-5.082599,37.542203,Dressel 20,Écija,FSVO,Baetica
+11136,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+12091,-5.02037,37.810702,Dressel 20,Almodóvar del Río,MCF,Baetica
+13557,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13749,-5.281208,37.700239,Dressel 20,Palma del Río,Q,Baetica
+26709,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13145,-5.666942,37.615058,Dressel 20,Alcolea del Río,SPSAE,Baetica
+13095,-5.666942,37.615058,Dressel 20,Alcolea del Río,PATI,Baetica
+41689,-5.52751,37.658961,Dressel 20,Lora del Río,LVRIFLVRIE,Baetica
+7006,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+11567,-5.107258,37.802053,Dressel 20,Posadas,LTSTR,Baetica
+26860,-5.233333,37.833333,Dressel 20,Hornachuelos,SCALESIACAP,Baetica
+26681,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+843,-5.233333,37.833333,Dressel 20,Hornachuelos,MCC,Baetica
+12543,-6.041843,37.433953,Dressel 20,Santiponce,LVM,Baetica
+28083,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+41684,-5.52751,37.658961,Dressel 20,Lora del Río,LSSEX,Baetica
+11088,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+11252,-5.281208,37.700239,Dressel 20,Palma del Río,QAGEMELLI,Baetica
+6718,-5.52751,37.658961,Dressel 20,Lora del Río,VCLF,Baetica
+26677,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+12184,-5.02037,37.810702,Dressel 20,Almodóvar del Río,THALI,Baetica
+28218,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13486,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+38830,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12851,-5.082599,37.542203,Dressel 20,Écija,GAQVE,Baetica
+12327,-5.082599,37.542203,Dressel 20,Écija,CFS,Baetica
+13674,-5.646083,37.471248,Dressel 20,Carmona,LMVE,Baetica
+21235,-5.34504,37.708919,Dressel 20,Peñaflor,MIM,Baetica
+38858,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+26679,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38818,-5.082599,37.542203,Dressel 20,Écija,ITALICI,Baetica
+12804,-5.107258,37.802053,Dressel 20,Posadas,LFC,Baetica
+38873,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+10914,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+17761,-5.666942,37.615058,Dressel 20,Alcolea del Río,PRQ,Baetica
+13061,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11124,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+12837,-5.281208,37.700239,Dressel 20,Palma del Río,QIM,Baetica
+6835,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+7007,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+29497,-6.041843,37.433953,Dressel 20,Santiponce,SATVRNINI,Baetica
+11883,-5.233333,37.833333,Dressel 20,Hornachuelos,CMBE,Baetica
+5572,-5.666942,37.615058,Dressel 20,Alcolea del Río,LMVE,Baetica
+10880,-5.082599,37.542203,Dressel 20,Écija,CCCOV,Baetica
+13511,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11445,-5.281208,37.700239,Dressel 20,Palma del Río,LVIBICHOMIS,Baetica
+13562,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+7031,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+877,-5.233333,37.833333,Dressel 20 parva,Hornachuelos,LFF,Baetica
+13013,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+26698,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+21234,-5.34504,37.708919,Dressel 20,Peñaflor,ELPL,Baetica
+11331,-5.281208,37.700239,Dressel 20,Palma del Río,AVRELIHERACLAE,Baetica
+33326,-5.52751,37.658961,Dressel 20,Lora del Río,CON,Baetica
+11258,-5.082599,37.542203,Dressel 20,Écija,ONES,Baetica
+17504,-5.666942,37.615058,Dressel 20,Alcolea del Río,LVPATI,Baetica
+11214,-5.52751,37.658961,Dressel 20,Lora del Río,VPC,Baetica
+886,-5.233333,37.833333,Dressel 20,Hornachuelos,LFLVC,Baetica
+11284,-5.52751,37.658961,Dressel 20,Lora del Río,QSERV,Baetica
+28098,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+11126,-5.52751,37.658961,Dressel 20,Lora del Río,PRTO,Baetica
+13564,-5.666942,37.615058,Dressel 20,Alcolea del Río,DFN,Baetica
+33334,-5.52751,37.658961,Dressel 20,Lora del Río,GA,Baetica
+12532,-6.041843,37.433953,Dressel 20,Santiponce,ILFT,Baetica
+13258,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIVLIBAR,Baetica
+7136,-5.52751,37.658961,Dressel 20,Lora del Río,MOPSVR,Baetica
+33362,-5.52751,37.658961,Dressel 20,Lora del Río,VICT,Baetica
+12439,-5.281208,37.700239,Dressel 20,Palma del Río,LEP,Baetica
+38864,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+26723,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13003,-5.666942,37.615058,Dressel 20,Alcolea del Río,LGG,Baetica
+26641,-5.233333,37.833333,Dressel 20,Hornachuelos,CANTONIQVIETI,Baetica
+28084,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+13264,-5.107258,37.802053,Dressel 20,Posadas,LFC,Baetica
+12331,-5.082599,37.542203,Dressel 20,Écija,LCCO,Baetica
+13100,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+13000,-5.666942,37.615058,Dressel 20,Alcolea del Río,GRATI,Baetica
+12955,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+26725,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38845,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12337,-5.082599,37.542203,Dressel 20,Écija,LFCS,Baetica
+13016,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12523,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12939,-5.52751,37.658961,Dressel 20,Lora del Río,LVALERITROPHIMI,Baetica
+12040,-5.02037,37.810702,Dressel 20,Almodóvar del Río,POT,Baetica
+11568,-5.107258,37.802053,Dressel 20,Posadas,LTSTR,Baetica
+10932,-5.082599,37.542203,Dressel 20,Écija,SIP,Baetica
+13260,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIVLIBAR,Baetica
+38847,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+38928,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12247,-5.107258,37.802053,Dressel 20,Posadas,CFSCV,Baetica
+12545,-6.041843,37.433953,Dressel 20,Santiponce,TFA,Baetica
+12931,-5.52751,37.658961,Dressel 20,Lora del Río,AENIANSA,Baetica
+41673,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+11134,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+29336,-5.973167,37.382826,Dressel 20,Seville,LFLVC,Baetica
+12217,-5.09965,37.704938,Dressel 20,Fuente Palmera,CCNS,Baetica
+38867,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+33369,-5.646083,37.471248,Dressel 20,Carmona,LCS,Baetica
+11270,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+11774,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CARI,Baetica
+41682,-5.52751,37.658961,Dressel 20,Lora del Río,FIGGRVM,Baetica
+12908,-5.52751,37.658961,Dressel 20,Lora del Río,ICCRA,Baetica
+11369,-5.281208,37.700239,Dressel 20,Palma del Río,AVCT,Baetica
+12320,-5.082599,37.542203,Dressel 20,Écija,LACONF,Baetica
+7184,-5.52751,37.658961,Dressel 20,Lora del Río,LIT,Baetica
+11825,-5.09965,37.704938,Dressel 20,Fuente Palmera,VAR,Baetica
+6647,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+11354,-5.281208,37.700239,Dressel 20,Palma del Río,BEL,Baetica
+38856,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+6786,-5.52751,37.658961,Dressel 20,Lora del Río,CENNIHISPANI,Baetica
+41683,-5.52751,37.658961,Dressel 20,Lora del Río,DIA,Baetica
+11831,-5.09965,37.704938,Dressel 20,Fuente Palmera,ME,Baetica
+12847,-5.082599,37.542203,Dressel 20,Écija,PSAVITI,Baetica
+26747,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+6755,-5.52751,37.658961,Dressel 20,Lora del Río,GEF,Baetica
+842,-5.233333,37.833333,Dressel 20,Hornachuelos,PARV,Baetica
+38846,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+26690,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+7030,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+29661,-5.871389,37.549445,Dressel 20,Brenes,VIRI,Baetica
+26694,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+911,-5.281208,37.700239,Dressel 20,Palma del Río,MCC,Baetica
+38919,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+6658,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+12345,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+11668,-5.02037,37.810702,Dressel 20,Almodóvar del Río,EC,Baetica
+13118,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+21238,-5.34504,37.708919,Dressel 20,Peñaflor,LASFIC,Baetica
+11380,-5.281208,37.700239,Dressel 20,Palma del Río,SCAESI,Baetica
+11208,-5.52751,37.658961,Dressel 20,Lora del Río,LSL,Baetica
+38904,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+11105,-5.52751,37.658961,Dressel 20,Lora del Río,PAVR,Baetica
+11193,-5.52751,37.658961,Dressel 20,Lora del Río,NC,Baetica
+26678,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+26684,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+21229,-5.34504,37.708919,Dressel 20,Peñaflor,QAELIOPTATI,Baetica
+28095,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+11593,-5.107258,37.802053,Dressel 20,Posadas,MAT,Baetica
+5567,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+41681,-5.52751,37.658961,Dressel 20,Lora del Río,FIGGRV,Baetica
+29208,-5.52751,37.658961,Dressel 20,Lora del Río,CEFP,Baetica
+13634,-5.646083,37.471248,Dressel 20,Carmona,AFRICAN,Baetica
+10893,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+41664,-5.52751,37.658961,Dressel 20,Lora del Río,CCRASSISEMNI,Baetica
+5475,-5.107258,37.802053,Dressel 20,Posadas,AGRICOLAE,Baetica
+12221,-5.09965,37.704938,Dressel 20,Fuente Palmera,FC,Baetica
+26707,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+901,-5.233333,37.833333,Dressel 20,Hornachuelos,FSC,Baetica
+13703,-5.52751,37.658961,Dressel 20,Lora del Río,CMM,Baetica
+13527,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+33348,-5.52751,37.658961,Dressel 20,Lora del Río,CMM,Baetica
+33353,-5.52751,37.658961,Dressel 20,Lora del Río,MHICA,Baetica
+13218,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13492,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12357,-5.082599,37.542203,Dressel 20,Écija,LAVRELIGERMANI,Baetica
+38817,-5.082599,37.542203,Dressel 20,Écija,GELAD,Baetica
+38810,-5.082599,37.542203,Dressel 20,Écija,IVCVNDI,Baetica
+38850,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+11253,-5.281208,37.700239,Dressel 20,Palma del Río,QAGEMELLI,Baetica
+29600,-5.871389,37.549445,Dressel 20,Brenes,QVC,Baetica
+38951,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+26697,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+33357,-5.52751,37.658961,Dressel 20,Lora del Río,QAEOPTA,Baetica
+5563,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+11244,-5.281208,37.700239,Dressel 20,Palma del Río,ATITTAE,Baetica
+857,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+26738,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+6826,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+5574,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38842,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13173,-5.666942,37.615058,Dressel 20,Alcolea del Río,CANNIRFN,Baetica
+38824,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+10935,-5.082599,37.542203,Dressel 20,Écija,IAIO,Baetica
+11108,-5.52751,37.658961,Dressel 20,Lora del Río,LALFLALP,Baetica
+11444,-5.281208,37.700239,Dressel 20,Palma del Río,LVIBICHOMIS,Baetica
+10901,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+13744,-5.52751,37.658961,Dressel 20,Lora del Río,CENNIHISPANI,Baetica
+26696,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11438,-5.281208,37.700239,Dressel 20,Palma del Río,LCT,Baetica
+28090,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+41671,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+6972,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+11480,-5.281208,37.700239,Dressel 20,Palma del Río,CIALB,Baetica
+12335,-5.082599,37.542203,Dressel 20,Écija,LOCCAI,Baetica
+12240,-5.107258,37.802053,Dressel 20,Posadas,MCA,Baetica
+12922,-5.52751,37.658961,Dressel 20,Lora del Río,RHIVA,Baetica
+10940,-5.082599,37.542203,Dressel 20,Écija,QIA,Baetica
+11888,-5.973167,37.382826,Dressel 20,Seville,ACIRGI,Baetica
+12855,-5.082599,37.542203,Dressel 20,Écija,LAVRGER,Baetica
+41688,-5.52751,37.658961,Dressel 20,Lora del Río,LVRIFLVRIE,Baetica
+12794,-5.646083,37.471248,Dressel 20,Carmona,LIC,Baetica
+12407,-5.082599,37.542203,Dressel 20,Écija,QIA,Baetica
+9556,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11374,-5.281208,37.700239,Dressel 20,Palma del Río,SCAESI,Baetica
+13513,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13234,-5.666942,37.615058,Dressel 20,Alcolea del Río,CCLM,Baetica
+13265,-5.107258,37.802053,Dressel 20,Posadas,LFC,Baetica
+12329,-5.082599,37.542203,Dressel 20,Écija,LFCS,Baetica
+26680,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38813,-5.082599,37.542203,Dressel 20,Écija,FELICIS,Baetica
+13540,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+38803,-5.082599,37.542203,Dressel 20,Écija,LVIVCV,Baetica
+10942,-5.082599,37.542203,Dressel 20,Écija,MMEVIMMEN,Baetica
+13124,-5.646083,37.471248,Dressel 20,Carmona,LMVE,Baetica
+11528,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13544,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+29660,-5.871389,37.549445,Dressel 20,Brenes,VIRGIN,Baetica
+38825,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+28212,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+33331,-5.52751,37.658961,Dressel 20,Lora del Río,EROTI,Baetica
+11329,-5.281208,37.700239,Dressel 20,Palma del Río,AVRELIHERACLAE,Baetica
+11646,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIVLIBAR,Baetica
+872,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13192,-5.666942,37.615058,Dressel 20,Alcolea del Río,N,Baetica
+13673,-5.646083,37.471248,Dressel 20,Carmona,ST,Baetica
+12034,-5.02037,37.810702,Dressel 20,Almodóvar del Río,MD,Baetica
+13548,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+10894,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+10943,-5.082599,37.542203,Dressel 20,Écija,LAEL,Baetica
+11594,-5.107258,37.802053,Dressel 20,Posadas,MAT,Baetica
+12885,-5.082599,37.542203,Dressel 20,Écija,ROMAN,Baetica
+11899,-5.02037,37.810702,Dressel 20,Almodóvar del Río,FCNE,Baetica
+38851,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12028,-5.02037,37.810702,Dressel 20,Almodóvar del Río,GO,Baetica
+13508,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12288,-5.281208,37.700239,Dressel 20,Palma del Río,GALENI,Baetica
+11255,-5.281208,37.700239,Dressel 20,Palma del Río,CI,Baetica
+41773,-5.52751,37.658961,Dressel 20,Lora del Río,QAEAD,Baetica
+10933,-5.082599,37.542203,Dressel 20,Écija,SIP,Baetica
+11170,-5.52751,37.658961,Dressel 20,Lora del Río,QIM,Baetica
+13205,-5.666942,37.615058,Dressel 20,Alcolea del Río,SALS,Baetica
+38806,-5.082599,37.542203,Dressel 20,Écija,GEHE,Baetica
+11166,-5.52751,37.658961,Dressel 20,Lora del Río,SAENIANES,Baetica
+13482,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+38959,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13612,-5.646083,37.471248,Dressel 20,Carmona,STATN,Baetica
+17700,-5.666942,37.615058,Dressel 20,Alcolea del Río,OFFBA,Baetica
+11328,-5.281208,37.700239,Dressel 20,Palma del Río,SAXOFERREO,Baetica
+11114,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+33352,-5.52751,37.658961,Dressel 20,Lora del Río,MHICA,Baetica
+38878,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13571,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11591,-5.107258,37.802053,Dressel 20,Posadas,MAT,Baetica
+6752,-5.52751,37.658961,Dressel 20,Lora del Río,CEFP,Baetica
+6856,-5.52751,37.658961,Dressel 20,Lora del Río,ALF,Baetica
+7138,-5.52751,37.658961,Dressel 20,Lora del Río,CRROP,Baetica
+7012,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+931,-5.281208,37.700239,Dressel 20,Palma del Río,PCHO,Baetica
+11721,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CMARISILVANI,Baetica
+28096,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+38789,-5.082599,37.542203,Dressel 20,Écija,GERMA,Baetica
+13238,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12220,-5.09965,37.704938,Dressel 20,Fuente Palmera,LFC,Baetica
+11340,-5.281208,37.700239,Dressel 20,Palma del Río,BEL,Baetica
+10891,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+12435,-5.281208,37.700239,Dressel 20,Palma del Río,QA,Baetica
+38922,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+11042,-5.871389,37.549445,Dressel 20,Brenes,CVV,Baetica
+11122,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+6995,-5.52751,37.658961,Dressel 20,Lora del Río,GPC,Baetica
+12401,-5.082599,37.542203,Dressel 20,Écija,LIDFIT,Baetica
+13619,-5.646083,37.471248,Dressel 20,Carmona,TATILIASIATICI,Baetica
+12481,-5.52751,37.658961,Dressel 20,Lora del Río,NIA,Baetica
+32342,-5.696078,37.447006,Dressel 20,Sevilla,ROM,Baetica
+26692,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11271,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+13561,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+26639,-5.233333,37.833333,Dressel 20,Hornachuelos,PAH,Baetica
+13627,-5.646083,37.471248,Dressel 20,Carmona,LER,Baetica
+26739,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+7062,-5.52751,37.658961,Dressel 20,Lora del Río,QVNTI,Baetica
+38840,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12867,-5.082599,37.542203,Dressel 20,Écija,IISILVESTRI,Baetica
+11693,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CMARISILVANI,Baetica
+13201,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+41693,-5.082599,37.542203,Dressel 20,Écija,QCCFC,Baetica
+38895,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+28101,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+12212,-5.09965,37.704938,Dressel 20,Fuente Palmera,AATF,Baetica
+33355,-5.52751,37.658961,Dressel 20,Lora del Río,QAEOPO,Baetica
+7182,-5.52751,37.658961,Dressel 20,Lora del Río,LIT,Baetica
+858,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38814,-5.082599,37.542203,Dressel 20,Écija,FELICIS,Baetica
+6650,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+38879,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+6656,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+6828,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+13570,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11056,-5.082599,37.542203,Dressel 20,Écija,SILVESTRI,Baetica
+6646,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+11514,-5.281208,37.700239,Dressel 20,Palma del Río,CIVE,Baetica
+38791,-5.082599,37.542203,Dressel 20,Écija,GERMA,Baetica
+13702,-5.52751,37.658961,Dressel 20,Lora del Río,CMM,Baetica
+38797,-5.082599,37.542203,Dressel 20,Écija,P,Baetica
+12029,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CANI,Baetica
+26672,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13010,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12546,-6.041843,37.433953,Dressel 20,Santiponce,SATVRNINI,Baetica
+28330,-5.666942,37.615058,Dressel 20,Alcolea del Río,MEDIANAE,Baetica
+12474,-5.52751,37.658961,Dressel 20,Lora del Río,DIA,Baetica
+28455,-5.082599,37.542203,Dressel 20,Écija,QIS,Baetica
+11073,-5.52751,37.658961,Dressel 20,Lora del Río,POR,Baetica
+38937,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+38927,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+28043,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+10896,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+38909,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12410,-5.082599,37.542203,Dressel 20,Écija,STATI,Baetica
+10886,-5.082599,37.542203,Dressel 20,Écija,LAVRELIGERMANI,Baetica
+26979,-5.233333,37.833333,Dressel 20,Hornachuelos,SCAM,Baetica
+12995,-5.666942,37.615058,Dressel 20,Alcolea del Río,STATI,Baetica
+13072,-5.666942,37.615058,Dressel 20,Alcolea del Río,R,Baetica
+6666,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+11172,-5.52751,37.658961,Dressel 20,Lora del Río,IPC,Baetica
+11416,-5.281208,37.700239,Dressel 20,Palma del Río,LVIBICHOMIS,Baetica
+38898,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+11640,-5.107258,37.802053,Dressel 20,Posadas,RND,Baetica
+860,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+29666,-5.871389,37.549445,Dressel 20,Brenes,VIRAV,Baetica
+26682,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13092,-5.646083,37.471248,Dressel 20,Carmona,STA,Baetica
+26741,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+6968,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+12942,-5.52751,37.658961,Dressel 20,Lora del Río,CONSFC,Baetica
+17740,-5.666942,37.615058,Dressel 20,Alcolea del Río,TATILIASIATICI,Baetica
+13670,-5.646083,37.471248,Dressel 20,Carmona,FONTANI,Baetica
+12235,-5.09965,37.704938,Dressel 20,Fuente Palmera,CVVA,Baetica
+12258,-5.107258,37.802053,Dressel 20,Posadas,IMPIGI,Baetica
+33337,-5.52751,37.658961,Dressel 20,Lora del Río,GAP,Baetica
+11510,-5.281208,37.700239,Dressel 20,Palma del Río,QIVTES,Baetica
+26703,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11670,-5.02037,37.810702,Dressel 20,Almodóvar del Río,ICVN,Baetica
+11069,-5.082599,37.542203,Dressel 20,Écija,MPS,Baetica
+13191,-5.666942,37.615058,Dressel 20,Alcolea del Río,N,Baetica
+11281,-5.52751,37.658961,Dressel 20,Lora del Río,AQFVA,Baetica
+28094,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+7185,-5.52751,37.658961,Dressel 20,Lora del Río,LIT,Baetica
+11075,-5.52751,37.658961,Dressel 20,Lora del Río,PORODV,Baetica
+11251,-5.281208,37.700239,Dressel 20,Palma del Río,QAGEMELLI,Baetica
+13521,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11642,-5.107258,37.802053,Dressel 20,Posadas,FCVCV,Baetica
+26668,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+12905,-5.52751,37.658961,Dressel 20,Lora del Río,MST,Baetica
+26708,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13724,-5.52751,37.658961,Dressel 20,Lora del Río,CONSFC,Baetica
+6719,-5.52751,37.658961,Dressel 20,Lora del Río,VCLF,Baetica
+13071,-5.666942,37.615058,Dressel 20,Alcolea del Río,POPVA,Baetica
+28091,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+10936,-5.082599,37.542203,Dressel 20,Écija,LAEL,Baetica
+11601,-5.107258,37.802053,Dressel 20,Posadas,MAT,Baetica
+33321,-5.52751,37.658961,Dressel 20,Lora del Río,CHB,Baetica
+853,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+7014,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+12382,-5.082599,37.542203,Dressel 20,Écija,MACQV,Baetica
+6827,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+11511,-5.281208,37.700239,Dressel 20,Palma del Río,QIVTES,Baetica
+12209,-5.09965,37.704938,Dressel 20,Fuente Palmera,AEFCA,Baetica
+28089,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+6831,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+11066,-5.082599,37.542203,Dressel 20,Écija,LFCS,Baetica
+38784,-5.082599,37.542203,Dressel 20,Écija,GERMA,Baetica
+12437,-5.281208,37.700239,Dressel 20,Palma del Río,ALPAHC,Baetica
+38866,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+6825,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+6753,-5.52751,37.658961,Dressel 20,Lora del Río,GEF,Baetica
+26748,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+26671,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13505,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12514,-5.52751,37.658961,Dressel 20,Lora del Río,RL,Baetica
+10945,-5.082599,37.542203,Dressel 20,Écija,OM,Baetica
+12909,-5.52751,37.658961,Dressel 20,Lora del Río,LSLVP,Baetica
+11226,-5.52751,37.658961,Dressel 20,Lora del Río,CRISPI,Baetica
+21233,-5.34504,37.708919,Dressel 20,Peñaflor,QFR,Baetica
+12862,-5.082599,37.542203,Dressel 20,Écija,LVIVCV,Baetica
+11238,-5.281208,37.700239,Dressel 20,Palma del Río,CSTERTINIPAVLLINI,Baetica
+26711,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13748,-5.281208,37.700239,Dressel 20,Palma del Río,CI,Baetica
+12918,-5.52751,37.658961,Dressel 20,Lora del Río,LTEL,Baetica
+13573,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13250,-5.666942,37.615058,Dressel 20,Alcolea del Río,DED,Baetica
+12180,-5.02037,37.810702,Dressel 20,Almodóvar del Río,IVSA,Baetica
+13014,-5.666942,37.615058,Dressel 20,Alcolea del Río,PN,Baetica
+38939,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12179,-5.02037,37.810702,Dressel 20,Almodóvar del Río,OFIVSV,Baetica
+13241,-5.666942,37.615058,Dressel 20,Alcolea del Río,STP,Baetica
+41666,-5.52751,37.658961,Dressel 20,Lora del Río,CCRASSISEMNI,Baetica
+12093,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CALP,Baetica
+11135,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+12937,-5.52751,37.658961,Dressel 20,Lora del Río,PMS,Baetica
+29406,-5.871389,37.549445,Dressel 20,Brenes,HERMES,Baetica
+11090,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+11823,-5.09965,37.704938,Dressel 20,Fuente Palmera,VAR,Baetica
+21232,-5.34504,37.708919,Dressel 20,Peñaflor,QFR,Baetica
+38788,-5.082599,37.542203,Dressel 20,Écija,GERMA,Baetica
+10946,-5.082599,37.542203,Dressel 20,Écija,TATI,Baetica
+38800,-5.082599,37.542203,Dressel 20,Écija,SEDAVITI,Baetica
+10890,-5.082599,37.542203,Dressel 20,Écija,LAVRELIGERMANI,Baetica
+38963,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12501,-5.52751,37.658961,Dressel 20,Lora del Río,PORT,Baetica
+13658,-5.646083,37.471248,Dressel 20,Carmona,LIT,Baetica
+11221,-5.52751,37.658961,Dressel 20,Lora del Río,GAPMA,Baetica
+12246,-5.107258,37.802053,Dressel 20,Posadas,CFSCVF,Baetica
+863,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11733,-5.02037,37.810702,Dressel 20,Almodóvar del Río,LIBERALINI,Baetica
+33381,-5.646083,37.471248,Dressel 20,Carmona,LSPBO,Baetica
+13490,-5.666942,37.615058,Dressel 20,Alcolea del Río,MM,Baetica
+6832,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+13583,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38902,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+11022,-5.871389,37.549445,Dressel 20,Brenes,PAH,Baetica
+11437,-5.281208,37.700239,Dressel 20,Palma del Río,LCT,Baetica
+11103,-5.52751,37.658961,Dressel 20,Lora del Río,LIT,Baetica
+13037,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13546,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+13002,-5.666942,37.615058,Dressel 20,Alcolea del Río,LGG,Baetica
+26700,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11775,-5.02037,37.810702,Dressel 20,Almodóvar del Río,PRIS,Baetica
+13622,-5.646083,37.471248,Dressel 20,Carmona,GM,Baetica
+38816,-5.082599,37.542203,Dressel 20,Écija,FELICIS,Baetica
+7123,-5.52751,37.658961,Dressel 20,Lora del Río,RVSR,Baetica
+11644,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIVLIBAR,Baetica
+12215,-5.09965,37.704938,Dressel 20,Fuente Palmera,QDC,Baetica
+26719,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38868,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+26704,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+876,-5.233333,37.833333,Dressel 20 parva,Hornachuelos,LFF,Baetica
+12101,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CALP,Baetica
+13920,-5.281208,37.700239,Dressel 20,Palma del Río,BELLYB,Baetica
+41698,-5.082599,37.542203,Dressel 20,Écija,FCAV,Baetica
+12470,-5.52751,37.658961,Dressel 20,Lora del Río,DIA,Baetica
+38932,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+26699,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11163,-5.52751,37.658961,Dressel 20,Lora del Río,ENNIORVMIVLIORVM,Baetica
+13729,-5.52751,37.658961,Dressel 20,Lora del Río,MRIC,Baetica
+29665,-5.871389,37.549445,Dressel 20,Brenes,VIRIIII,Baetica
+17759,-5.666942,37.615058,Dressel 20,Alcolea del Río,COMNI,Baetica
+12226,-5.09965,37.704938,Dressel 20,Fuente Palmera,CCNS,Baetica
+12095,-5.02037,37.810702,Dressel 20,Almodóvar del Río,FCSA,Baetica
+11436,-5.281208,37.700239,Dressel 20,Palma del Río,LCT,Baetica
+12094,-5.02037,37.810702,Dressel 20,Almodóvar del Río,FINRA,Baetica
+41676,-5.52751,37.658961,Dressel 20,Lora del Río,AVGGGNNNCOLEARIFGRV,Baetica
+29663,-5.871389,37.549445,Dressel 20,Brenes,VIRIII,Baetica
+29478,-5.52751,37.658961,Dressel 20,Lora del Río,CENNIHISPANI,Baetica
+12845,-5.082599,37.542203,Dressel 20,Écija,FEL,Baetica
+13568,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNPHI,Baetica
+28051,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+12949,-5.52751,37.658961,Dressel 20,Lora del Río,MHICA,Baetica
+13567,-5.666942,37.615058,Dressel 20,Alcolea del Río,ANPHILOD,Baetica
+38916,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12312,-5.082599,37.542203,Dressel 20,Écija,MY,Baetica
+903,-5.233333,37.833333,Dressel 20,Hornachuelos,SCALENSIA,Baetica
+11908,-5.02037,37.810702,Dressel 20,Almodóvar del Río,THALI,Baetica
+12869,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+10888,-5.082599,37.542203,Dressel 20,Écija,LAVRELIGERMANI,Baetica
+11397,-5.281208,37.700239,Dressel 20,Palma del Río,FGFIVSFM,Baetica
+13535,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+26706,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11441,-5.281208,37.700239,Dressel 20,Palma del Río,LVIBICHOMIS,Baetica
+13032,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+28053,-5.52751,37.658961,Dressel 20,Lora del Río,BRPOD,Baetica
+10875,-5.082599,37.542203,Dressel 20,Écija,COF,Baetica
+11076,-5.52751,37.658961,Dressel 20,Lora del Río,POBPOD,Baetica
+41661,-5.52751,37.658961,Dressel 20,Lora del Río,QCKS,Baetica
+11269,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+26712,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11113,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+856,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+29418,-5.666942,37.615058,Dressel 20,Alcolea del Río,GRATI,Baetica
+13516,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12236,-5.09965,37.704938,Dressel 20,Fuente Palmera,CVVA,Baetica
+26670,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38906,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+11832,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+38809,-5.082599,37.542203,Dressel 20,Écija,ADE,Baetica
+13559,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12256,-5.107258,37.802053,Dressel 20,Posadas,AELIFVSCIANI,Baetica
+26727,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+6973,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+38900,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12832,-5.281208,37.700239,Dressel 20,Palma del Río,CIALB,Baetica
+28087,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+11882,-5.233333,37.833333,Dressel 20,Hornachuelos,LAVG,Baetica
+10900,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+7190,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CAT,Baetica
+12853,-5.082599,37.542203,Dressel 20,Écija,LACONE,Baetica
+12930,-5.52751,37.658961,Dressel 20,Lora del Río,A,Baetica
+38910,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12550,-6.054101,37.287661,Dressel 20,Coria del Río,TP,Baetica
+12549,-6.054101,37.287661,Dressel 20,Coria del Río,ATTENIAECYTONIDIS,Baetica
+13500,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+9559,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13269,-5.646083,37.471248,Dressel 20,Carmona,LICISPE,Baetica
+13109,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+41696,-5.082599,37.542203,Dressel 20,Écija,FC,Baetica
+38831,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+898,-5.233333,37.833333,Dressel 20,Hornachuelos,QSA,Baetica
+11909,-5.02037,37.810702,Dressel 20,Almodóvar del Río,THALI,Baetica
+13656,-5.646083,37.471248,Dressel 20,Carmona,LIT,Baetica
+13523,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12203,-5.107258,37.802053,Dressel 20,Posadas,AATF,Baetica
+12948,-5.52751,37.658961,Dressel 20,Lora del Río,CH,Baetica
+13107,-5.666942,37.615058,Dressel 20,Alcolea del Río,DEF,Baetica
+29667,-5.871389,37.549445,Dressel 20,Brenes,VIRAV,Baetica
+868,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+21236,-5.34504,37.708919,Dressel 20,Peñaflor,QSL,Baetica
+13070,-5.666942,37.615058,Dressel 20,Alcolea del Río,AV,Baetica
+907,-5.233333,37.833333,Dressel 20,Hornachuelos,S,Baetica
+26695,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+41675,-5.52751,37.658961,Dressel 20,Lora del Río,AVGGGNNNCOLEARIFGRV,Baetica
+13565,-5.666942,37.615058,Dressel 20,Alcolea del Río,DFN,Baetica
+25830,-5.646083,37.471248,Dressel 20,Carmona,BARMASI,Baetica
+38933,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12097,-5.02037,37.810702,Dressel 20,Almodóvar del Río,VAR,Baetica
+13045,-5.666942,37.615058,Dressel 20,Alcolea del Río,M,Baetica
+11787,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIVLIBAR,Baetica
+12513,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+12168,-5.02037,37.810702,Dressel 20,Almodóvar del Río,NICXIII,Baetica
+12887,-5.082599,37.542203,Dressel 20,Écija,L,Baetica
+13507,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+862,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+6890,-5.52751,37.658961,Dressel 20,Lora del Río,MMR,Baetica
+12400,-5.082599,37.542203,Dressel 20,Écija,LIDFIT,Baetica
+12814,-5.107258,37.802053,Dressel 20,Posadas,PM,Baetica
+38956,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+11824,-5.09965,37.704938,Dressel 20,Fuente Palmera,VAR,Baetica
+13481,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+11912,-5.02037,37.810702,Dressel 20,Almodóvar del Río,VICIORN,Baetica
+38938,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13021,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12795,-4.772748,37.89155,Dressel 20,Córdoba,AVFER,Baetica
+13246,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQ,Baetica
+38897,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+17755,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNPHI,Baetica
+38795,-5.082599,37.542203,Dressel 20,Écija,PSAVITI,Baetica
+11338,-5.281208,37.700239,Dressel 20,Palma del Río,BELCI,Baetica
+33365,-5.646083,37.471248,Dressel 20,Carmona,LCFPC,Baetica
+26683,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+12224,-5.09965,37.704938,Dressel 20,Fuente Palmera,CCNS,Baetica
+928,-5.281208,37.700239,Dressel 20,Palma del Río,KV,Baetica
+12231,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+28086,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+38890,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+29216,-5.646083,37.471248,Dressel 20,Carmona,LER,Baetica
+13230,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13728,-5.52751,37.658961,Dressel 20,Lora del Río,CORBEL,Baetica
+11044,-5.871389,37.549445,Dressel 20,Brenes,CFSCVF,Baetica
+7011,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+7018,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+38880,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13680,-5.646083,37.471248,Dressel 20,Carmona,PNN,Baetica
+38949,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13033,-5.666942,37.615058,Dressel 20,Alcolea del Río,NIII,Baetica
+13226,-5.666942,37.615058,Dressel 20,Alcolea del Río,IE,Baetica
+26675,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+5575,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12796,-5.02037,37.810702,Dressel 20,Almodóvar del Río,TVA,Baetica
+11639,-5.107258,37.802053,Dressel 20,Posadas,MAVR,Baetica
+890,-5.233333,37.833333,Dressel 20,Hornachuelos,LFLVC,Baetica
+12420,-5.281208,37.700239,Dressel 20,Palma del Río,ABF,Baetica
+13497,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11067,-5.082599,37.542203,Dressel 20,Écija,FE,Baetica
+13077,-5.666942,37.615058,Dressel 20,Alcolea del Río,ODV,Baetica
+13632,-5.646083,37.471248,Dressel 20,Carmona,AFRICAN,Baetica
+11443,-5.281208,37.700239,Dressel 20,Palma del Río,LVIBICHOMIS,Baetica
+38853,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+10867,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+13529,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+924,-5.281208,37.700239,Dressel 20,Palma del Río,TTLVC,Baetica
+12062,-5.02037,37.810702,Dressel 20,Almodóvar del Río,LIBERALINI,Baetica
+13615,-5.646083,37.471248,Dressel 20,Carmona,LSPBO,Baetica
+13662,-5.646083,37.471248,Dressel 20,Carmona,LM,Baetica
+13151,-5.666942,37.615058,Dressel 20,Alcolea del Río,CSR,Baetica
+11277,-5.52751,37.658961,Dressel 20,Lora del Río,LER,Baetica
+26669,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13257,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIVLIBAR,Baetica
+11898,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CAT,Baetica
+881,-5.233333,37.833333,Dressel 20,Hornachuelos,LFF,Baetica
+12089,-5.02037,37.810702,Dressel 20,Almodóvar del Río,PRIS,Baetica
+33349,-5.52751,37.658961,Dressel 20,Lora del Río,CMM,Baetica
+6966,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+12522,-5.52751,37.658961,Dressel 20,Lora del Río,LIT,Baetica
+11645,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIVLIBAR,Baetica
+33366,-5.646083,37.471248,Dressel 20,Carmona,LCS,Baetica
+41703,-5.082599,37.542203,Dressel 20,Écija,SCLC,Baetica
+33368,-5.646083,37.471248,Dressel 20,Carmona,LCS,Baetica
+12211,-5.09965,37.704938,Dressel 20,Fuente Palmera,NICEFVAR,Baetica
+13556,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+932,-5.281208,37.700239,Dressel 20,Palma del Río,PCHO,Baetica
+11706,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CMARISILVANI,Baetica
+6971,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+38801,-5.082599,37.542203,Dressel 20,Écija,IVCVNDI,Baetica
+10839,-5.082599,37.542203,Dressel 20,Écija,IICAMILIMELISSI,Baetica
+12234,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+38863,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+29622,-5.749515,37.373014,Dressel 20,Mairena del Alcor,LVALERIAMETISTI,Baetica
+33374,-5.646083,37.471248,Dressel 20,Carmona,MFX,Baetica
+13449,-5.871389,37.549445,Dressel 20,Brenes,GFS,Baetica
+13526,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13493,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13484,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+38934,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13742,-5.52751,37.658961,Dressel 20,Lora del Río,PVAFAN,Baetica
+17747,-5.666942,37.615058,Dressel 20,Alcolea del Río,HERM,Baetica
+13503,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+28047,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+12378,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+13172,-5.666942,37.615058,Dressel 20,Alcolea del Río,CANNIRVFINI,Baetica
+11330,-5.281208,37.700239,Dressel 20,Palma del Río,AVRELIHERACLAE,Baetica
+13614,-5.646083,37.471248,Dressel 20,Carmona,LHLHE,Baetica
+13031,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+26640,-5.233333,37.833333,Dressel 20,Hornachuelos,PAH,Baetica
+11123,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+11600,-5.107258,37.802053,Dressel 20,Posadas,MAT,Baetica
+11222,-5.52751,37.658961,Dressel 20,Lora del Río,AMGALOD,Baetica
+41697,-5.082599,37.542203,Dressel 20,Écija,FC,Baetica
+13259,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIVLIBAR,Baetica
+12025,-5.02037,37.810702,Dressel 20,Almodóvar del Río,FABR,Baetica
+41679,-5.52751,37.658961,Dressel 20,Lora del Río,KVFICGRVMCOLSICETASI,Baetica
+5565,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+12805,-5.107258,37.802053,Dressel 20,Posadas,CCVF,Baetica
+9557,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+17741,-5.666942,37.615058,Dressel 20,Alcolea del Río,PCLODICELI,Baetica
+41686,-5.52751,37.658961,Dressel 20,Lora del Río,LSSEX,Baetica
+12177,-5.233333,37.833333,Dressel 20,Hornachuelos,PRIS,Baetica
+41692,-5.082599,37.542203,Dressel 20,Écija,MAERIFICIANI,Baetica
+33360,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+13018,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11092,-5.52751,37.658961,Dressel 20,Lora del Río,CASII,Baetica
+9563,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNPHI,Baetica
+38881,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13128,-5.646083,37.471248,Dressel 20,Carmona,LSPBO,Baetica
+17503,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38822,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12166,-5.02037,37.810702,Dressel 20,Almodóvar del Río,MCF,Baetica
+12381,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+13194,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13102,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+12375,-5.082599,37.542203,Dressel 20,Écija,LAVRELIGERMANI,Baetica
+12800,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIVLIBAR,Baetica
+13062,-5.666942,37.615058,Dressel 20,Alcolea del Río,DED,Baetica
+11169,-5.52751,37.658961,Dressel 20,Lora del Río,PMS,Baetica
+9541,-5.666942,37.615058,Dressel 20,Alcolea del Río,BARBA,Baetica
+11224,-5.52751,37.658961,Dressel 20,Lora del Río,LSLSEN,Baetica
+7023,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+26714,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13654,-5.646083,37.471248,Dressel 20,Carmona,LIT,Baetica
+9564,-5.666942,37.615058,Dressel 20,Alcolea del Río,QAG,Baetica
+38967,-5.082599,37.542203,Dressel 20,Écija,V,Baetica
+38943,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+11413,-5.281208,37.700239,Dressel 20,Palma del Río,FA,Baetica
+28100,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+10992,-5.871389,37.549445,Dressel 20,Brenes,VIR,Baetica
+11256,-5.281208,37.700239,Dressel 20,Palma del Río,Q,Baetica
+10949,-5.082599,37.542203,Dressel 20,Écija,IVI,Baetica
+11439,-5.281208,37.700239,Dressel 20,Palma del Río,LCT,Baetica
+11720,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CMARISILVANI,Baetica
+38852,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+38799,-5.082599,37.542203,Dressel 20,Écija,SEDAVITI,Baetica
+26531,-5.973167,37.382826,Dressel 20,Seville,DOM,Baetica
+11275,-5.52751,37.658961,Dressel 20,Lora del Río,NER,Baetica
+26751,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+12248,-5.107258,37.802053,Dressel 20,Posadas,CFSCVF,Baetica
+21228,-5.34504,37.708919,Dressel 20,Peñaflor,QAO,Baetica
+6645,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+921,-5.281208,37.700239,Dressel 20,Palma del Río,TTLVC,Baetica
+11072,-5.082599,37.542203,Dressel 20,Écija,FSVO,Baetica
+869,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38888,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+26851,-5.233333,37.833333,Dressel 20,Hornachuelos,SCALSIAG,Baetica
+11826,-5.09965,37.704938,Dressel 20,Fuente Palmera,LFCT,Baetica
+11142,-5.52751,37.658961,Dressel 20,Lora del Río,GPCI,Baetica
+21231,-5.34504,37.708919,Dressel 20,Peñaflor,LIT,Baetica
+13934,-5.646083,37.471248,Dressel 20,Carmona,REL,Baetica
+10908,-5.082599,37.542203,Dressel 20,Écija,CIDIOF,Baetica
+38912,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13613,-5.646083,37.471248,Dressel 20,Carmona,LERP,Baetica
+38931,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13015,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11722,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CMARISILVANI,Baetica
+41665,-5.52751,37.658961,Dressel 20,Lora del Río,CCRASSISEMNI,Baetica
+13515,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13023,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+17753,-5.666942,37.615058,Dressel 20,Alcolea del Río,M,Baetica
+33345,-5.52751,37.658961,Dressel 20,Lora del Río,GM,Baetica
+7187,-5.52751,37.658961,Dressel 20,Lora del Río,MMR,Baetica
+10934,-5.082599,37.542203,Dressel 20,Écija,IAIO,Baetica
+33322,-5.52751,37.658961,Dressel 20,Lora del Río,CONSFC,Baetica
+26713,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+7022,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+26754,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+7056,-5.52751,37.658961,Dressel 20,Lora del Río,LQS,Baetica
+13572,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12544,-6.041843,37.433953,Dressel 20,Santiponce,LFC,Baetica
+28044,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+5564,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+13135,-5.646083,37.471248,Dressel 20,Carmona,ERNI,Baetica
+12902,-5.34504,37.708919,Dressel 20,Peñaflor,A,Baetica
+33358,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+7026,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+13232,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13041,-5.666942,37.615058,Dressel 20,Alcolea del Río,MIM,Baetica
+13549,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+880,-5.233333,37.833333,Dressel 20,Hornachuelos,LFF,Baetica
+26720,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11370,-5.281208,37.700239,Dressel 20,Palma del Río,AVCT,Baetica
+11830,-5.09965,37.704938,Dressel 20,Fuente Palmera,ME,Baetica
+33371,-5.646083,37.471248,Dressel 20,Carmona,LER,Baetica
+29656,-5.871389,37.549445,Dressel 20,Brenes,VIRG,Baetica
+38930,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13450,-5.871389,37.549445,Dressel 20,Brenes,ROM,Baetica
+26734,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13598,-5.666942,37.615058,Dressel 20,Alcolea del Río,LVALERITROPHIMI,Baetica
+7008,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+13122,-5.666942,37.615058,Dressel 20,Alcolea del Río,PHIII,Baetica
+38828,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+6648,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+26673,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13633,-5.646083,37.471248,Dressel 20,Carmona,AFRICAN,Baetica
+38954,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+38876,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12843,-5.082599,37.542203,Dressel 20,Écija,A,Baetica
+38885,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12484,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+7186,-5.52751,37.658961,Dressel 20,Lora del Río,LIT,Baetica
+38913,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+28092,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+6660,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+910,-5.281208,37.700239,Dressel 20,Palma del Río,MCC,Baetica
+28062,-6.041843,37.433953,Dressel 20,Santiponce,CAS,Baetica
+6655,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+13625,-5.646083,37.471248,Dressel 20,Carmona,TATILIASIATICI,Baetica
+11530,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38794,-5.082599,37.542203,Dressel 20,Écija,PSAVITI,Baetica
+41659,-5.52751,37.658961,Dressel 20,Lora del Río,QAEADQEAD,Baetica
+12996,-5.666942,37.615058,Dressel 20,Alcolea del Río,GST,Baetica
+7013,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+38953,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+6665,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+11756,-5.02037,37.810702,Dressel 20,Almodóvar del Río,SAES,Baetica
+10892,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+11052,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+29261,-5.973167,37.382826,Dressel 20,Seville,LFC,Baetica
+38829,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12287,-5.281208,37.700239,Dressel 20,Palma del Río,BELLICANAPAGALENI,Baetica
+13119,-5.666942,37.615058,Dressel 20,Alcolea del Río,ELIMFP,Baetica
+11694,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CMARISILVANI,Baetica
+28052,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+13723,-5.52751,37.658961,Dressel 20,Lora del Río,CONSFC,Baetica
+12219,-5.09965,37.704938,Dressel 20,Fuente Palmera,ME,Baetica
+13657,-5.646083,37.471248,Dressel 20,Carmona,LIT,Baetica
+26733,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38961,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+29215,-5.646083,37.471248,Dressel 20,Carmona,LER,Baetica
+38915,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13081,-5.666942,37.615058,Dressel 20,Alcolea del Río,OC,Baetica
+13566,-5.666942,37.615058,Dressel 20,Alcolea del Río,DFN,Baetica
+26676,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+12339,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+12241,-5.107258,37.802053,Dressel 20,Posadas,L,Baetica
+11358,-5.281208,37.700239,Dressel 20,Palma del Río,BELVR,Baetica
+11196,-5.52751,37.658961,Dressel 20,Lora del Río,CALPVRIN,Baetica
+11879,-5.233333,37.833333,Dressel 20,Hornachuelos,LCCVFI,Baetica
+7021,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+13672,-5.646083,37.471248,Dressel 20,Carmona,STLA,Baetica
+5558,-5.666942,37.615058,Dressel 20,Alcolea del Río,MCLS,Baetica
+38952,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13496,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+33361,-5.52751,37.658961,Dressel 20,Lora del Río,QAEOPTA,Baetica
+11515,-5.281208,37.700239,Dressel 20,Palma del Río,CIALB,Baetica
+13020,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38862,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+11619,-5.107258,37.802053,Dressel 20,Posadas,MRVFI,Baetica
+12884,-5.082599,37.542203,Dressel 20,Écija,IVM,Baetica
+41690,-5.52751,37.658961,Dressel 20,Lora del Río,MPFGRV,Baetica
+38899,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+11589,-5.107258,37.802053,Dressel 20,Posadas,MAT,Baetica
+33338,-5.52751,37.658961,Dressel 20,Lora del Río,CAF,Baetica
+26721,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+12530,-6.041843,37.433953,Dressel 20,Santiponce,LAEL,Baetica
+38957,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13580,-5.666942,37.615058,Dressel 20,Alcolea del Río,LAEO,Baetica
+12352,-5.082599,37.542203,Dressel 20,Écija,FE,Baetica
+38948,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12919,-5.52751,37.658961,Dressel 20,Lora del Río,RATAN,Baetica
+38792,-5.082599,37.542203,Dressel 20,Écija,GERMA,Baetica
+7183,-5.52751,37.658961,Dressel 20,Lora del Río,LIT,Baetica
+38844,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+11590,-5.107258,37.802053,Dressel 20,Posadas,MAT,Baetica
+13189,-5.666942,37.615058,Dressel 20,Alcolea del Río,III,Baetica
+13706,-5.52751,37.658961,Dressel 20,Lora del Río,CMM,Baetica
+27249,-6.035278,37.297222,Dressel 20,Huerta del Rincón,LICM,Baetica
+13686,-5.52751,37.658961,Dressel 20,Lora del Río,OFA,Baetica
+9546,-5.666942,37.615058,Dressel 20,Alcolea del Río,IIIMINICIOR,Baetica
+13012,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+10853,-5.082599,37.542203,Dressel 20,Écija,PSATPSTA,Baetica
+11138,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+12380,-5.082599,37.542203,Dressel 20,Écija,LFLVC,Baetica
+12314,-5.082599,37.542203,Dressel 20,Écija,LOCCAI,Baetica
+12354,-5.082599,37.542203,Dressel 20,Écija,MECI,Baetica
+11350,-5.281208,37.700239,Dressel 20,Palma del Río,BELCI,Baetica
+865,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+10916,-5.082599,37.542203,Dressel 20,Écija,AELIFVSCIANI,Baetica
+26710,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+33375,-5.646083,37.471248,Dressel 20,Carmona,MFX,Baetica
+12223,-5.09965,37.704938,Dressel 20,Fuente Palmera,CCNS,Baetica
+26666,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+33364,-5.646083,37.471248,Dressel 20,Carmona,ACIRGI,Baetica
+10991,-5.871389,37.549445,Dressel 20,Brenes,VIR,Baetica
+12385,-5.082599,37.542203,Dressel 20,Écija,GF,Baetica
+12405,-5.082599,37.542203,Dressel 20,Écija,LAEL,Baetica
+26740,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13669,-5.646083,37.471248,Dressel 20,Carmona,LSPBO,Baetica
+13123,-5.666942,37.615058,Dressel 20,Alcolea del Río,NPHILO,Baetica
+13233,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12450,-5.281208,37.700239,Dressel 20,Palma del Río,FCFIVSFM,Baetica
+12537,-6.041843,37.433953,Dressel 20,Santiponce,G,Baetica
+17756,-5.666942,37.615058,Dressel 20,Alcolea del Río,QV,Baetica
+12232,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+11223,-5.52751,37.658961,Dressel 20,Lora del Río,ICIFAFC,Baetica
+38871,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+28226,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38834,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13207,-5.666942,37.615058,Dressel 20,Alcolea del Río,III,Baetica
+10909,-5.082599,37.542203,Dressel 20,Écija,EIVAL,Baetica
+11341,-5.281208,37.700239,Dressel 20,Palma del Río,BEL,Baetica
+13671,-5.646083,37.471248,Dressel 20,Carmona,TFA,Baetica
+11910,-5.02037,37.810702,Dressel 20,Almodóvar del Río,THALI,Baetica
+12659,-5.666942,37.615058,Dressel 20,Alcolea del Río,CMM,Baetica
+11522,-5.233333,37.833333,Dressel 20,Hornachuelos,SBOGLVAELPAF,Baetica
+887,-5.233333,37.833333,Dressel 20,Hornachuelos,LFLVC,Baetica
+41700,-5.082599,37.542203,Dressel 20,Écija,EVCLK,Baetica
+13530,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNPHI,Baetica
+11881,-5.233333,37.833333,Dressel 20,Hornachuelos,CCVFI,Baetica
+17748,-5.666942,37.615058,Dressel 20,Alcolea del Río,LIVNIMELISSI,Baetica
+10931,-5.082599,37.542203,Dressel 20,Écija,SIP,Baetica
+12229,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+12281,-5.281208,37.700239,Dressel 20,Palma del Río,RE,Baetica
+11456,-5.281208,37.700239,Dressel 20,Palma del Río,LVIBICHROMIS,Baetica
+13251,-5.666942,37.615058,Dressel 20,Alcolea del Río,OE,Baetica
+893,-5.233333,37.833333,Dressel 20,Hornachuelos,LFLVC,Baetica
+11080,-5.52751,37.658961,Dressel 20,Lora del Río,LIT,Baetica
+12374,-5.082599,37.542203,Dressel 20,Écija,PLC,Baetica
+7017,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+38929,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12238,-5.09965,37.704938,Dressel 20,Fuente Palmera,VAR,Baetica
+9547,-5.666942,37.615058,Dressel 20,Alcolea del Río,IIIMINICIOR,Baetica
+13080,-5.666942,37.615058,Dressel 20,Alcolea del Río,TIT,Baetica
+11225,-5.52751,37.658961,Dressel 20,Lora del Río,CARLACARIAI,Baetica
+11411,-5.281208,37.700239,Dressel 20,Palma del Río,MIFRPN,Baetica
+12033,-5.02037,37.810702,Dressel 20,Almodóvar del Río,LPC,Baetica
+6824,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+6885,-5.52751,37.658961,Dressel 20,Lora del Río,PMPPR,Baetica
+13106,-5.666942,37.615058,Dressel 20,Alcolea del Río,CIM,Baetica
+6834,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+12250,-5.107258,37.802053,Dressel 20,Posadas,LFC,Baetica
+12943,-5.52751,37.658961,Dressel 20,Lora del Río,CONSFC,Baetica
+13519,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+28209,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12451,-5.281208,37.700239,Dressel 20,Palma del Río,TRLA,Baetica
+12880,-5.082599,37.542203,Dressel 20,Écija,FELICIS,Baetica
+38790,-5.082599,37.542203,Dressel 20,Écija,GERMA,Baetica
+38940,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12954,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+38896,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13228,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38804,-5.082599,37.542203,Dressel 20,Écija,LVIVCV,Baetica
+13094,-5.646083,37.471248,Dressel 20,Carmona,LMVE,Baetica
+13110,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38854,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+38832,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+11294,-5.281208,37.700239,Dressel 20,Palma del Río,LATECTREIN,Baetica
+11461,-5.281208,37.700239,Dressel 20,Palma del Río,CIALB,Baetica
+26533,-5.666942,37.615058,Dressel 20,Alcolea del Río,DOM,Baetica
+11440,-5.281208,37.700239,Dressel 20,Palma del Río,LVIBICHOMIS,Baetica
+11104,-5.52751,37.658961,Dressel 20,Lora del Río,MMR,Baetica
+41691,-5.52751,37.658961,Dressel 20,Lora del Río,QAEVER,Baetica
+38914,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12208,-5.09965,37.704938,Dressel 20,Fuente Palmera,VAR,Baetica
+38786,-5.082599,37.542203,Dressel 20,Écija,GERMA,Baetica
+38962,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+38923,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13485,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+28042,-5.281208,37.700239,Dressel 20,Palma del Río,BELLICIANA,Baetica
+11596,-5.107258,37.802053,Dressel 20,Posadas,MAT,Baetica
+13114,-5.666942,37.615058,Dressel 20,Alcolea del Río,CCLMM,Baetica
+5566,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+41668,-5.52751,37.658961,Dressel 20,Lora del Río,CCRASE,Baetica
+7010,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+13518,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+29599,-5.871389,37.549445,Dressel 20,Brenes,QVC,Baetica
+12658,-5.666942,37.615058,Dressel 20,Alcolea del Río,DFN,Baetica
+26736,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+6857,-5.52751,37.658961,Dressel 20,Lora del Río,ALF,Baetica
+13563,-5.666942,37.615058,Dressel 20,Alcolea del Río,DFN,Baetica
+13103,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+12910,-5.52751,37.658961,Dressel 20,Lora del Río,IFPVLFPV,Baetica
+12938,-5.52751,37.658961,Dressel 20,Lora del Río,IXPS,Baetica
+12340,-5.082599,37.542203,Dressel 20,Écija,C,Baetica
+11078,-5.52751,37.658961,Dressel 20,Lora del Río,LIT,Baetica
+26737,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11259,-5.082599,37.542203,Dressel 20,Écija,VNA,Baetica
+11272,-5.52751,37.658961,Dressel 20,Lora del Río,DIA,Baetica
+854,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+33324,-5.52751,37.658961,Dressel 20,Lora del Río,SFC,Baetica
+7020,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+6818,-5.52751,37.658961,Dressel 20,Lora del Río,POQHEHE,Baetica
+13532,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+38855,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+33379,-5.646083,37.471248,Dressel 20,Carmona,MSFPC,Baetica
+5568,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+13116,-5.666942,37.615058,Dressel 20,Alcolea del Río,BCCLLIMI,Baetica
+12386,-5.082599,37.542203,Dressel 20,Écija,LAVRELIGERMANI,Baetica
+33343,-5.52751,37.658961,Dressel 20,Lora del Río,AF,Baetica
+13510,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38955,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13162,-6.041843,37.433953,Dressel 20,Santiponce,IFMV,Baetica
+38860,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+38960,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13136,-5.646083,37.471248,Dressel 20,Carmona,ISP,Baetica
+6787,-5.52751,37.658961,Dressel 20,Lora del Río,CENNIHISPANI,Baetica
+13131,-5.646083,37.471248,Dressel 20,Carmona,LEF,Baetica
+870,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11268,-5.082599,37.542203,Dressel 20,Écija,LVALCHAE,Baetica
+13514,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+36983,-5.973167,37.382826,Dressel 20,Seville,LV,Baetica
+878,-5.233333,37.833333,Dressel 20,Hornachuelos,LFF,Baetica
+10993,-5.871389,37.549445,Dressel 20,Brenes,VIR,Baetica
+12548,-6.041843,37.433953,Dressel 20,Santiponce,RO,Baetica
+33376,-5.646083,37.471248,Dressel 20,Carmona,GIF,Baetica
+12099,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CALP,Baetica
+11131,-5.52751,37.658961,Dressel 20,Lora del Río,IARP,Baetica
+12434,-5.281208,37.700239,Dressel 20,Palma del Río,QI,Baetica
+28085,-5.666942,37.615058,Dressel 20,Alcolea del Río,LQS,Baetica
+13666,-5.646083,37.471248,Dressel 20,Carmona,LGG,Baetica
+6965,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+7003,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+12353,-5.082599,37.542203,Dressel 20,Écija,FABI,Baetica
+33325,-5.52751,37.658961,Dressel 20,Lora del Río,CONSFC,Baetica
+923,-5.281208,37.700239,Dressel 20,Palma del Río,TTLVC,Baetica
+11249,-5.281208,37.700239,Dressel 20,Palma del Río,QSYD,Baetica
+13491,-5.666942,37.615058,Dressel 20,Alcolea del Río,MM,Baetica
+26702,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11339,-5.281208,37.700239,Dressel 20,Palma del Río,BEL,Baetica
+11904,-5.02037,37.810702,Dressel 20,Almodóvar del Río,PASSERA,Baetica
+11247,-5.281208,37.700239,Dressel 20,Palma del Río,PFS,Baetica
+38901,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13212,-5.666942,37.615058,Dressel 20,Alcolea del Río,DL,Baetica
+12991,-5.666942,37.615058,Dressel 20,Alcolea del Río,CSTLA,Baetica
+11260,-5.082599,37.542203,Dressel 20,Écija,VNAI,Baetica
+13229,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11337,-5.281208,37.700239,Dressel 20,Palma del Río,AVRELIHERACLAE,Baetica
+6978,-5.52751,37.658961,Dressel 20,Lora del Río,POCODV,Baetica
+13616,-5.646083,37.471248,Dressel 20,Carmona,LSPBO,Baetica
+12660,-5.666942,37.615058,Dressel 20,Alcolea del Río,CMM,Baetica
+13240,-5.666942,37.615058,Dressel 20,Alcolea del Río,QFR,Baetica
+12947,-5.52751,37.658961,Dressel 20,Lora del Río,CA,Baetica
+13560,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+13130,-5.646083,37.471248,Dressel 20,Carmona,LER,Baetica
+12538,-6.041843,37.433953,Dressel 20,Santiponce,CCR,Baetica
+11592,-5.107258,37.802053,Dressel 20,Posadas,MAT,Baetica
+13677,-5.646083,37.471248,Dressel 20,Carmona,TATILIASIATICI,Baetica
+13524,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+6891,-5.52751,37.658961,Dressel 20,Lora del Río,MMR,Baetica
+11577,-5.107258,37.802053,Dressel 20,Posadas,DITR,Baetica
+13574,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+38835,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12921,-5.52751,37.658961,Dressel 20,Lora del Río,RHIVA,Baetica
+10944,-5.082599,37.542203,Dressel 20,Écija,ILVI,Baetica
+12388,-5.082599,37.542203,Dressel 20,Écija,LAVRELIGERMANI,Baetica
+13171,-5.666942,37.615058,Dressel 20,Alcolea del Río,BCLLM,Baetica
+7025,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+12324,-5.082599,37.542203,Dressel 20,Écija,LFCS,Baetica
+13509,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12889,-5.082599,37.542203,Dressel 20,Écija,SY,Baetica
+13533,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+38918,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+28180,-5.233333,37.833333,Dressel 20,Hornachuelos,PRIS,Baetica
+7004,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+13193,-5.666942,37.615058,Dressel 20,Alcolea del Río,N,Baetica
+26732,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+10881,-5.082599,37.542203,Dressel 20,Écija,CC,Baetica
+11246,-5.281208,37.700239,Dressel 20,Palma del Río,ELEPL,Baetica
+13536,-5.666942,37.615058,Dressel 20,Alcolea del Río,IICCLLM,Baetica
+13520,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+41674,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+38889,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+26744,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+41660,-5.52751,37.658961,Dressel 20,Lora del Río,MAEMRVS,Baetica
+26637,-5.233333,37.833333,Dressel 20,Hornachuelos,PAH,Baetica
+11213,-5.52751,37.658961,Dressel 20,Lora del Río,VPC,Baetica
+10840,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+38920,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13708,-5.52751,37.658961,Dressel 20,Lora del Río,SAES,Baetica
+13219,-5.666942,37.615058,Dressel 20,Alcolea del Río,PCICELI,Baetica
+11829,-5.09965,37.704938,Dressel 20,Fuente Palmera,CVA,Baetica
+11049,-5.082599,37.542203,Dressel 20,Écija,LVIVCV,Baetica
+13137,-5.646083,37.471248,Dressel 20,Carmona,STT,Baetica
+36985,-5.973167,37.382826,Dressel 20,Seville,GCR,Baetica
+12413,-5.082599,37.542203,Dressel 20,Écija,MC,Baetica
+26964,-5.233333,37.833333,Dressel 20,Hornachuelos,FIG,Baetica
+11336,-5.281208,37.700239,Dressel 20,Palma del Río,AVGN,Baetica
+11293,-5.281208,37.700239,Dressel 20,Palma del Río,LATECTREIN,Baetica
+11835,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+12987,-5.666942,37.615058,Dressel 20,Alcolea del Río,PCICELI,Baetica
+38958,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+12060,-5.02037,37.810702,Dressel 20,Almodóvar del Río,MART,Baetica
+6657,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+38908,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+6821,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+12412,-5.082599,37.542203,Dressel 20,Écija,LS,Baetica
+33350,-5.52751,37.658961,Dressel 20,Lora del Río,CMM,Baetica
+41447,-5.388371,37.780899,Dressel 20,La Puebla de los Infantes,IRCI,Baetica
+38870,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+38848,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+11418,-5.281208,37.700239,Dressel 20,Palma del Río,LVIBICHOMIS,Baetica
+38965,-5.082599,37.542203,Dressel 20,Écija,CORBEL,Baetica
+13448,-5.871389,37.549445,Dressel 20,Brenes,M,Baetica
+13512,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+9548,-5.666942,37.615058,Dressel 20,Alcolea del Río,IIIMINICIOR,Baetica
+12088,-5.02037,37.810702,Dressel 20,Almodóvar del Río,NICXIII,Baetica
+13499,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11174,-5.52751,37.658961,Dressel 20,Lora del Río,NERVAELVP,Baetica
+13087,-5.666942,37.615058,Dressel 20,Alcolea del Río,CHR,Baetica
+38837,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12290,-5.281208,37.700239,Dressel 20,Palma del Río,FAVSTINI,Baetica
+11435,-5.281208,37.700239,Dressel 20,Palma del Río,LCT,Baetica
+11576,-5.107258,37.802053,Dressel 20,Posadas,DITR,Baetica
+922,-5.281208,37.700239,Dressel 20,Palma del Río,TTLVC,Baetica
+11833,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+26688,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13065,-5.666942,37.615058,Dressel 20,Alcolea del Río,CN,Baetica
+26726,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11667,-5.02037,37.810702,Dressel 20,Almodóvar del Río,IREO,Baetica
+13624,-5.646083,37.471248,Dressel 20,Carmona,TATILIASIATICI,Baetica
+38857,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+26705,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13636,-5.646083,37.471248,Dressel 20,Carmona,LGG,Baetica
+41444,-5.388371,37.780899,Dressel 20,La Puebla de los Infantes,APFS,Baetica
+12255,-5.107258,37.802053,Dressel 20,Posadas,AELIFVSCIANI,Baetica
+38950,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+11837,-5.09965,37.704938,Dressel 20,Fuente Palmera,CCNS,Baetica
+13017,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11822,-5.09965,37.704938,Dressel 20,Fuente Palmera,NICEFVAR,Baetica
+12941,-5.52751,37.658961,Dressel 20,Lora del Río,CONSFC,Baetica
+13239,-5.666942,37.615058,Dressel 20,Alcolea del Río,QFR,Baetica
+6868,-5.52751,37.658961,Dressel 20,Lora del Río,LFO,Baetica
+6663,-5.52751,37.658961,Dressel 20,Lora del Río,QAELIOPTATI,Baetica
+11780,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CMARISILVANI,Baetica
+38798,-5.082599,37.542203,Dressel 20,Écija,SEDAVITI,Baetica
+9558,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11814,-5.02037,37.810702,Dressel 20,Almodóvar del Río,IBAE,Baetica
+26691,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11152,-5.52751,37.658961,Dressel 20,Lora del Río,GALI,Baetica
+10849,-5.082599,37.542203,Dressel 20,Écija,LIC,Baetica
+28063,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CASTELANI,Baetica
+38886,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+11907,-5.02037,37.810702,Dressel 20,Almodóvar del Río,SECV,Baetica
+12515,-5.52751,37.658961,Dressel 20,Lora del Río,CPCI,Baetica
+6751,-5.52751,37.658961,Dressel 20,Lora del Río,CEFP,Baetica
+11723,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CMARISILVANI,Baetica
+12936,-5.52751,37.658961,Dressel 20,Lora del Río,IIIIMMIRIV,Baetica
+7120,-5.52751,37.658961,Dressel 20,Lora del Río,LSERLVPI,Baetica
+26746,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+26756,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11838,-5.09965,37.704938,Dressel 20,Fuente Palmera,CCNS,Baetica
+38796,-5.082599,37.542203,Dressel 20,Écija,PSAVITI,Baetica
+12039,-5.02037,37.810702,Dressel 20,Almodóvar del Río,SO,Baetica
+12204,-5.107258,37.802053,Dressel 20,Posadas,CCNS,Baetica
+13190,-5.666942,37.615058,Dressel 20,Alcolea del Río,N,Baetica
+33373,-5.646083,37.471248,Dressel 20,Carmona,CFS,Baetica
+17760,-5.666942,37.615058,Dressel 20,Alcolea del Río,NOVVA,Baetica
+13108,-5.666942,37.615058,Dressel 20,Alcolea del Río,DEF,Baetica
+6830,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+12191,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CCHREST,Baetica
+41446,-5.388371,37.780899,Dressel 20,La Puebla de los Infantes,FSFAQVA,Baetica
+7027,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+13091,-5.646083,37.471248,Dressel 20,Carmona,TFA,Baetica
+38964,-5.082599,37.542203,Dressel 20,Écija,CAMILISILVESTRI,Baetica
+26667,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+33372,-5.646083,37.471248,Dressel 20,Carmona,IIIFFBOV,Baetica
+13504,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12398,-5.082599,37.542203,Dressel 20,Écija,FC,Baetica
+38947,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+17702,-5.666942,37.615058,Dressel 20,Alcolea del Río,LGG,Baetica
+38941,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+26686,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+13223,-5.666942,37.615058,Dressel 20,Alcolea del Río,ME,Baetica
+13009,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+41694,-5.082599,37.542203,Dressel 20,Écija,QCCFC,Baetica
+41670,-5.52751,37.658961,Dressel 20,Lora del Río,LFFV,Baetica
+13661,-5.646083,37.471248,Dressel 20,Carmona,VATR,Baetica
+38821,-5.082599,37.542203,Dressel 20,Écija,PSAVITI,Baetica
+13579,-5.666942,37.615058,Dressel 20,Alcolea del Río,SAXOFERREO,Baetica
+38907,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+33347,-5.52751,37.658961,Dressel 20,Lora del Río,CMM,Baetica
+13039,-5.666942,37.615058,Dressel 20,Alcolea del Río,COR,Baetica
+38946,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+13525,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+41662,-5.52751,37.658961,Dressel 20,Lora del Río,LCM,Baetica
+38793,-5.082599,37.542203,Dressel 20,Écija,PSAVITI,Baetica
+12541,-6.041843,37.433953,Dressel 20,Santiponce,ACI,Baetica
+26722,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+38849,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+38877,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13545,-5.666942,37.615058,Dressel 20,Alcolea del Río,MMCS,Baetica
+13517,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38887,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13220,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+6754,-5.52751,37.658961,Dressel 20,Lora del Río,GEF,Baetica
+12251,-5.107258,37.802053,Dressel 20,Posadas,LFC,Baetica
+38841,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+6822,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+6730,-5.52751,37.658961,Dressel 20,Lora del Río,CCEFP,Baetica
+13494,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+12533,-6.041843,37.433953,Dressel 20,Santiponce,FPAT,Baetica
+11133,-5.52751,37.658961,Dressel 20,Lora del Río,POPVLI,Baetica
+11612,-5.107258,37.802053,Dressel 20,Posadas,TMAR,Baetica
+12524,-5.646083,37.471248,Dressel 20,Carmona,RFP,Baetica
+12989,-5.666942,37.615058,Dressel 20,Alcolea del Río,CLODICIII,Baetica
+12259,-5.107258,37.802053,Dressel 20,Posadas,FRI,Baetica
+36981,-5.973167,37.382826,Dressel 20,Seville,MAR,Baetica
+26742,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+12090,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIR,Baetica
+11529,-5.233333,37.833333,Dressel 20,Hornachuelos,LFC,Baetica
+11102,-5.52751,37.658961,Dressel 20,Lora del Río,S,Baetica
+11283,-5.52751,37.658961,Dressel 20,Lora del Río,DIA,Baetica
+13665,-5.646083,37.471248,Dressel 20,Carmona,LGG,Baetica
+38882,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12227,-5.09965,37.704938,Dressel 20,Fuente Palmera,FCVCV,Baetica
+38827,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+10876,-5.082599,37.542203,Dressel 20,Écija,LACONELACONF,Baetica
+38833,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+6829,-5.52751,37.658961,Dressel 20,Lora del Río,MIM,Baetica
+11181,-5.52751,37.658961,Dressel 20,Lora del Río,LSERLVPI,Baetica
+12207,-5.09965,37.704938,Dressel 20,Fuente Palmera,CVVA,Baetica
+848,-5.233333,37.833333,Dressel 20,Hornachuelos,CELSI,Baetica
+28436,-5.02037,37.810702,Dressel 20,Almodóvar del Río,CIVLIBAR,Baetica
+13581,-5.666942,37.615058,Dressel 20,Alcolea del Río,CAMILIMELISSI,Baetica
+11521,-5.233333,37.833333,Dressel 20,Hornachuelos,CIAQBERO,Baetica
+13746,-5.281208,37.700239,Dressel 20,Palma del Río,BELLICI,Baetica
+12807,-5.09965,37.704938,Dressel 20,Fuente Palmera,CVFM,Baetica
+13174,-5.666942,37.615058,Dressel 20,Alcolea del Río,CN,Baetica
+13501,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+38893,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+13231,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNN,Baetica
+11611,-5.107258,37.802053,Dressel 20,Posadas,MARMA,Baetica
+10873,-5.082599,37.542203,Dressel 20,Écija,LFC,Baetica
+38926,-5.082599,37.542203,Dressel 20,Écija,CAMILIMELISSI,Baetica
+32347,-5.696078,37.447006,Dressel 20,Sevilla,AV,Baetica
+38875,-5.082599,37.542203,Dressel 20,Écija,LIVNIMELISSI,Baetica
+12243,-5.107258,37.802053,Dressel 20,Posadas,LFF,Baetica
+13919,-5.666942,37.615058,Dressel 20,Alcolea del Río,PNPHI,Baetica
+13224,-5.666942,37.615058,Dressel 20,Alcolea del Río,ES,Baetica
+6970,-5.52751,37.658961,Dressel 20,Lora del Río,POROCODV,Baetica
+13060,-5.666942,37.615058,Dressel 20,Alcolea del Río,DEF,Baetica
+41680,-5.52751,37.658961,Dressel 20,Lora del Río,FGRV,Baetica
