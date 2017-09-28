@@ -8,9 +8,9 @@ Created on Tue Sep 12 17:04:06 2017
 
 import csv, numpy
 
-stampFile = open('baeticadata.csv', "r")
+stampFile = open('baetica.csv', "r")
 #other option to open file '~/Documents/Edinburgh_research/data.csv'
-stamps = csv.reader(stampFile, delimiter = ";")
+stamps = csv.reader(stampFile, delimiter = ",")
 
 '''
 other option
