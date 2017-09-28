@@ -4,8 +4,8 @@ library('stats')
 library('graphics')
 library('ggplot2')
 library('ggdendro') #to create dendrograms
-library(ape) #to create different types of dendrograms based on https://rstudio-pubs-static.s3.amazonaws.com/1876_df0bf890dd54461f98719b461d987c3d.html
-library('ggtree')
+library('ape') #to create different types of dendrograms based on https://rstudio-pubs-static.s3.amazonaws.com/1876_df0bf890dd54461f98719b461d987c3d.html
+#library('ggtree')
 
 
 jac1= read.table("jaccardDist.txt")
