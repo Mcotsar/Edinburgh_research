@@ -1,0 +1,59 @@
+CAMBIOS REALIZADOS EN LA BASE DE DATOS BAETICA.CSV
+
+## Zona de Sevilla y San Luis tienen las mismas coordenadas sin embargo Parlamento tiene las coordenadas de Arva. Procedo a cambiar las coordenadas por las de Parlamento original. 37.40505	-5.988554
+
+
+## 10949 Las Delicias: hay un sello que pone nombre. Procedo a eliminarlo
+
+## 13152	37.587337	-5.79237	Dressel 20	Caserío Los Villares	AVG
+Cambio por Los Villares. Caserío de los Villares no está registrado en ningún sitio.
+
+## 10882	37.614189	-5.115609	Dressel 20	San Rafael	LFC
+12313	37.614189	-5.115609	Dressel 20	San Rafael	LFC
+Mismas coordenadas que Alcotrista. Base de datos de Berni no concluyente así que cambio por Alcotrista ambas.
+
+## 13048 Peña la Sal coincide con las coordenadas de Arva. No aparece registrado en ningún sitio así que procedo a homogeneizar las coordendas con otra Peña la sal que había 
+
+13576	37.619781	-5.610765	Dressel 20	Peña de la Sal	RVFIPALMAE
+
+## Las coordenadas de Huerta de Belén son erroneas coincidiendo con Arva que se encuentra al otro lado del río. Procedo a cambiarlas
+Nuevas coordenadas 37.423633 -5.182766
+Existen otras Huertas de Belén sueltas. Procedo a homogeneizar la muestra
+
+## Dejo El chorrillo con las mismas coordenadas que Arva porque parece que Ponsich dice que pertenecían al mismo sector
+
+## Cambio las coordenadas de Parlamento porque coincidian con las coordenadas de Arva
+37.40505	-5.988554
+
+## Cortijo de Judío no existe y cuenta con las mismas coordenadas que El judío. Berni cita a este cortijo como Cortijo de El Judío (oeste) y coincide con los sellos. Proceo a cambiar las coordenadas porque El Judío y El cortijo de El Judío no es lo mismo. Mantengo las coordenadas de El judío porque se corresponden pero cambio las de el cortijo
+Cambio nombre por Cortijo del Judío (oeste)
+Cambio coordenadas por 37.40016 -5.123344
+
+## Cortijo del Guerra tiene las mismas coordenadas que La Catria y se encuentra en diferente sitio. Coincide con Los Guerras que habla Berni en algunos sellos.
+Dejo Cortijo del Guerra pero cambio coordenadas por 37.382927 -5.284954
+
+## Imposibilidad de encontrar Villa Clara en el mapa para las coordenadas puesto que coincide con La Catria
+
+## Cortijo del Álamo pertence al Cortijo del Álamo Alto. Las coordenadas coincidian con Catria pero se han cambiado 
+37.372342 -5.314305
+
+## Cortijo de Villalata tiene las mismas coordenadas que Malpica. Aparece en el cartográfico como Villalata
+37.395957 -5.13462
+
+## Cortijo de Bramadero tiene las mismas coordenadas que Malpica y en el mapa está lejos. 
+Cambio basado por el sistema cartográfico por 
+37.425183	-5.82406
+
+##
+
+
+
+
+
+
+
+
+
+
+
+
