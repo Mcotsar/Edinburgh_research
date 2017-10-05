@@ -36,39 +36,51 @@ Dejo Cortijo del Guerra pero cambio coordenadas por
 Latitud: 37.657494 
 Longitud: -5.4878438 
 
-******
 ## Imposibilidad de encontrar Villa Clara en el mapa para las coordenadas puesto que coincide con La Catria
 
 ## Cortijo del Álamo pertence al Cortijo del Álamo Alto. Las coordenadas coincidian con Catria pero se han cambiado 
-37.372342 -5.314305
+Latitud: 37.624007 
+Longitud: -5.5309285 
 
 ## Cortijo de Villalata tiene las mismas coordenadas que Malpica. Aparece en el cartográfico como Villalata
-37.395957 -5.13462
+Latitud: 37.667029 
+Longitud: -5.2178121
 
 ## Cortijo de Bramadero tiene las mismas coordenadas que Malpica y en el mapa está lejos. 
 Cambio basado por el sistema cartográfico por 
-37.425183	-5.82406
+Latitud: 37.714814 
+Longitud: -5.1401296
 
 ## Cambio coordenadas del Acebuchal y la Rambla para que no se parezcan entre sí
+El Acebuchal
+Latitud: 37.653732  
+Longitud: -5.4745518 
 
-12488	37.674801	-5.377155	Dressel 20	El Acebuchal
-12489	37.394115	-5.263787	Dressel 20	La Rambla
+La Rambla
+Latitud: 37.660605 
+Longitud: -5.4433741 
 
 ## Cambio coordenadas de La Maria y el Berro 2 (aunque están cerca pero tienen las mismas coordenadas)
 
-37.395309	-5.271273	Dressel 20	La María
-37.403369	-5.26043	Dressel 20	El Berro 2
+La María
+Latitud: 37.664722
+Longitud: -5.4537624 
+
+El Berro 2
+Latitud: 37.675475 
+Longitud: -5.4336063 
 
 ## Homogeneizar la muestra de Picachos porque hay diferentes coordenadas
-
-37.766491	-5.125061
+37.766491, -5.125061
 
 ## Modifico coordenadas de Cerro de los Vuelos
-37.453048	-5.13644	Dressel 20	Cerro de los Vuelos
+Latitud: 37.760377 
+Longitud: -5.2199605 
 
 ## Madre Vieja 1, Villacisneros oeste y La corregidora tienen las mismas coordenadas pero están situados en diferentes zonas en el mapa. Las coordenadas de la base de datos perenecen a La corregidora (está al lado del Encinarejo) así que procedo a cambiar Madre Vieja 1
-
-37.651194	-5.420263	Dressel 20	Madre Vieja 1
+Madre Vieja
+Latitud: 37.652228
+Longitud: -5.4141491
 
 ## Finca de Antonio Serrano y la Estrella tienen las mismas coordenadas. En Berni, dice que no sabe dónde se situaba exactamente así que dejo las mismas coordenadas
 
@@ -80,17 +92,16 @@ como está cerca de Umbría de Moratalla dejo sus mismas coordenadas
 37.785936	-5.185289
 
 ## Cambio coordenadas de la Dehesilla porque era similar a Barranco del Pitacho
-37.769977 -5.111976 
-37.769977	-5.111976	Dressel 20	La Dehesilla
+Latitud: 37.764991 
+Longitud: -5.1175752 
 
 ## Cambio las Animas sin acenta por las coordenadas de Isla del Castillo porque parecen pertener a Isla del Castillo y no a Las Ánimas con acento
 
 # Casa del Encinarejo Bajo tiene las mismas coordenadas que Las Animas sin acento paso a cambiar las coordenadas porque
-37.7684235154, -5.1649925234
 37.768423	-5.1649925	Dressel 20	Casa del Encinarejo
 
 ## Cortijo de los Mochales no es lo mismo que Mochales. Cortijo está cerca de La Catria. Cambio coordenadas para especificar mejor
-37.630839 -5.5105712
+
 37.630839	-5.5105712	Dressel 20	Cortijo de los Mochales
 
 ## Paso a homogeneizar las coordenadas de Villacisneros oeste por las de Villacisneros y ha cambiar el nombre por Villacisneros en vez de Villacisnero oeste que es como le llamaba Ponsich
