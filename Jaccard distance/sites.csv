@@ -1,103 +1,96 @@
 id,name
-0,Las Delicias
-1,Alcotrista
-2,San Rafael
-3,Isla del Castillo
-4,Doña Mencia
-5,El Tesorillo de Doña Mencia
-6,Las Valbuenas
-7,Tarancón
-8,Fuente Pasa
-9,Villar de Brenes
-10,Cortijo de los Mochales
-11,Àlamo Alto
-12,Catria Alta
-13,La Catria
-14,Cortijo del Guerra
-15,Villa Clara
-16,Huerta del Río
-17,Haza del Olivo
-18,Manuel Nieto
-19,La Ramblilla
-20,Madre Vieja 1
-21,Madre Vieja 2
-22,El Marchante
-23,Cortijo de La Sesenta
-24,Cortijo del Judío
-25,Tarancón Oeste
-26,La Mayena
-27,La María
-28,El Berro 2
-29,El Tesoro
-30,La Botica
-31,Huertas de Belén
-32,Casas del Picón
-33,Cortijo de Romero
-34,Malpica Sur
-35,Tierras del Judío
-36,Cortijo de Villalata
-37,Malpica
-38,Isla de la Jurada
-39,Cerro de los Vuelos
-40,Villacisneros Oeste
-41,Villacisneros
-42,Dehesa de Arriba
-43,Mingaobez
-44,Casa del Guarda
-45,La Corregidora
-46,La Estrella
-47,Guadiato
-48,Villaseca
-49,El Temple
-50,El Temple (Este)
-51,Soto del Rey
-52,Barranco del Picacho
-53,La Dehesilla
-54,Umbría de Moratalla
-55,La Umbría de Moratalla
-56,Casa del Encinarejo
-57,Cortijo de Bramadero
-58,La Umbría de Moratalla.
-59,Almodóvar
-60,Moratalla
-61,Cortijo Nuevo
-62,Rodriguillo
-63,Picachos
-64,Las Monjas
-65,El Mohino
-66,Las Ánimas
-67,Las Animas
-68,El Portillo
-69,El Acebuchal
-70,La Rambla
-71,Arva
-72,Tostoneras
-73,Villar Tesoro
-74,Antonio Serrano
-75,El castillejo
-76,Lora la Vieja
-77,Azanaque-Castillejo
-78,Peña de la Sal
-79,Mejía
-80,El Tejarillo
-81,Adelfa
-82,Juan Barba
-83,Guadajoz
-84,Caserío Los Villares
-85,Alcala del Río
-86,Las Sesenta
-87,Cruz Verde
-88,Chorrillo
-89,Hacienda del Corzo
-90,Los Villares
-91,El Judío
-92,La Estacada de Herrera
-93,La Coscoja
-94,Cerro de los Pesebres
-95,Los Mochales
-96,Sevilla
-97,San Luis (SE)
-98,Parlamento
-99,Cortijo del Alamo
-100,Madueño
-101,La Graja
+0,Sevilla
+1,San Luis (SE)
+2,Parlamento
+3,Hacienda del Corzo
+4,Cruz Verde
+5,Villar de Brenes
+6,Guadajoz
+7,Adelfa
+8,Juan Barba
+9,Las Delicias
+10,Los Villares
+11,Villar Tesoro
+12,Mejía
+13,Tostoneras
+14,Alcotrista
+15,Alcala del Río
+16,El Tejarillo
+17,Azanaque-Castillejo
+18,Peña de la Sal
+19,Isla del Castillo
+20,Arva
+21,Chorrillo
+22,Cortijo del Alamo Alto
+23,El Judío
+24,Lora la Vieja
+25,Cortijo de los Mochales
+26,El Marchante
+27,Las Ánimas
+28,Àlamo Alto
+29,Doña Mencia
+30,El Tesorillo de Doña Mencia
+31,Los Mochales
+32,Catria Alta
+33,La Catria
+34,Villa Clara
+35,Tarancón
+36,Tarancón Oeste
+37,La Estacada de Herrera
+38,Madre Vieja 1
+39,Madre Vieja 2
+40,Las Valbuenas
+41,El Acebuchal
+42,La Ramblilla
+43,Cortijo del Guerra
+44,Manuel Nieto
+45,Huerta del Río
+46,La Rambla
+47,Cortijo de La Sesenta
+48,Las Sesenta
+49,Haza del Olivo
+50,La María
+51,Cortijo del Judío  (oeste)
+52,Cortijo de Villalata
+53,Tierras del Judío
+54,Malpica
+55,La Mayena
+56,El Berro 2
+57,Malpica Sur
+58,La Graja
+59,Madueño
+60,Casas del Picón
+61,El Portillo
+62,La Botica
+63,Las Monjas
+64,El Tesoro
+65,Fuente Pasa
+66,Huertas de Belén
+67,Cortijo de Bramadero
+68,La Coscoja
+69,El Mohino
+70,Isla de la Jurada
+71,El castillejo
+72,Cerro de los Pesebres
+73,Cerro de los Vuelos
+74,Villacisneros
+75,La Dehesilla
+76,Picachos
+77,Barranco del Picacho
+78,Soto del Rey
+79,Casa del Encinarejo
+80,Cortijo de Romero
+81,La Corregidora
+82,La Estrella
+83,Antonio Serrano
+84,La Umbría de Moratalla
+85,Casa del Guarda
+86,Villaseca
+87,Almodóvar
+88,Rodriguillo
+89,Mingaobez
+90,Cortijo Nuevo
+91,Dehesa de Arriba
+92,El Temple (Este)
+93,El Temple
+94,Guadiato
