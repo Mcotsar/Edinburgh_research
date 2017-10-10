@@ -19,13 +19,13 @@ colnames(jac1) <- nameSites$name
 #install manually sudo apt-get install r-cran-ggplot2
 
 HC = hclust(dist(jac1), method='complete')
-plot(HC, main= "dendrograma de mierder")
+plot(HC, main= "dendrogram? my ass")
 
 #with ggdendro
 #ggdendrogram(HT)
 
 #keep the results
-svg('resultados.svg', width=15, height=8)    
+pdf('resultados.pdf', width=15, height=8)    
 plot(HC)
 dev.off()
 
