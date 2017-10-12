@@ -25,6 +25,6 @@ file=open('baeticatest.csv','r')
 for line in file:
 	row=line.split(",")
 	site=row[4] 	#here you have to select the row where is the name of the site
-	if allSite[site] > 4 :
+	if allSite[site] >= 10 :
 		output.write(line)
 print("finish")
