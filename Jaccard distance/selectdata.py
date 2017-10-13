@@ -16,7 +16,7 @@ for line in file:
     site=row[4] #here you have to select the row where is the name of the site 
     if site in allSite:
     #if allSite.has_key(site): doesnt work in this version on Python
-     allSite[site] = allSite[site]+1
+        allSite[site] = allSite[site]+1
     else:
         allSite[site]=1            
 file=open('baeticatest.csv','r')
@@ -25,6 +25,6 @@ file=open('baeticatest.csv','r')
 for line in file:
 	row=line.split(",")
 	site=row[4] 	#here you have to select the row where is the name of the site
-	if allSite[site] >= 10 :
+	if allSite[site] >= 50 :
 		output.write(line)
 print("finish")
