@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.2)  22 JAN 2018 17:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.2)  25 JAN 2018 19:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -542,41 +542,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Package natbib Warning: Citation `rodriguez_economioleicola_1977' on page 1 und
 efined on input line 26.
 
-
-Package natbib Warning: Citation `horn_measurement_1966' on page 1 undefined on
- input line 45.
-
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./jaccardbaetica.bbl)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package natbib Warning: Citation `horn_measurement_1966' on page 2 undefined on
+ input line 45.
+
+
+Overfull \hbox (6.58382pt too wide) in paragraph at lines 45--46
+[]\OT1/cmr/m/n/10 As a com-ple-ment of Jac-card dis-tance, we use the sta-tis-t
+i-cal tech-nique Morisita-
+ []
+
+(./jaccardbaetica.bbl)
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
  (./jaccardbaetica.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `jaccardbaetica.out' has not changed.
-(rerunfilecheck)             Checksum: 56E1CD0D36DF4E103ADF775EF2F8C0AD;343.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
+(rerunfilecheck)             Checksum: FA34FD0374FB8F7724CE60C5855DEB74;394.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  ) 
 Here is how much of TeX's memory you used:
- 6464 strings out of 493304
- 91463 string characters out of 6139872
- 184431 words of memory out of 5000000
- 9859 multiletter control sequences out of 15000+600000
+ 6466 strings out of 493304
+ 91483 string characters out of 6139872
+ 183431 words of memory out of 5000000
+ 9860 multiletter control sequences out of 15000+600000
  4984 words of font info for 18 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 34i,5n,35p,779b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,5n,35p,780b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on jaccardbaetica.pdf (2 pages, 52437 bytes).
+Output written on jaccardbaetica.pdf (2 pages, 54669 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 60 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
