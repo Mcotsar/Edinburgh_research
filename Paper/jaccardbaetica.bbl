@@ -1,4 +1,4 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{4}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -21,7 +21,7 @@
 %Type = Article
 \bibitem[{Horn(1966)}]{horn_measurement_1966}
 \bibinfo{author}{Horn, H.S.}, \bibinfo{year}{1966}.
-\newblock \bibinfo{title}{{Measurement of" overlap" in comparative ecological
+\newblock \bibinfo{title}{{Measurement of "overlap" in comparative ecological
   studies}}.
 \newblock \bibinfo{journal}{The American Naturalist} \bibinfo{volume}{100},
   \bibinfo{pages}{419--424}.
@@ -32,5 +32,11 @@
   formas de an{\'a}lisis}}.
 \newblock \bibinfo{journal}{Archivo Espa{\~n}ol de Arqueolog{\'i}a}
   \bibinfo{volume}{50}, \bibinfo{pages}{87--144}.
+%Type = Article
+\bibitem[{Wolda(1981)}]{wolda_similarity_1981}
+\bibinfo{author}{Wolda, H.}, \bibinfo{year}{1981}.
+\newblock \bibinfo{title}{{Similarity indices, sample size and diversity}}.
+\newblock \bibinfo{journal}{Oecologia} \bibinfo{volume}{50},
+  \bibinfo{pages}{296--302}.
 
 \end{thebibliography}
