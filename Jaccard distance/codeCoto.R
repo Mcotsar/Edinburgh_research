@@ -19,6 +19,7 @@ plot(hclust(baeDistance))
 ##plot matrix
 
 library(reshape)
+library(ggplot2)
 roo <- melt(as.matrix(baeDistance))
 ggplot(roo, aes(x=X1, y=X2, fill=value, label=round(value, 2))) + geom_raster() + geom_text() #always use X1, X2
 
@@ -26,3 +27,15 @@ ggplot(roo, aes(x=X1, y=X2, fill=value, label=round(value, 2))) + geom_raster() 
 pdf('resultadosnew.pdf', width=15, height=8)    
 plot(hclust(baeDistance))
 dev.off()
+
+#print the matrix
+pdf('resultadosmatrix.pdf', width=35, height=10) 
+ggplot(roo, aes(x=X1, y=X2, fill=value, label=round(value, 2))) + geom_raster() + geom_text()
+dev.off()
+
+#para contar de que datos se disponen
+
+count(mydata$site) 
+names(mydata) #para saber el nombre de los valores (columnas)
+
+
