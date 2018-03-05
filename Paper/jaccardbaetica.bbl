@@ -1,4 +1,4 @@
-\begin{thebibliography}{8}
+\begin{thebibliography}{9}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -25,6 +25,12 @@
   stamp contents}}.
 \newblock \bibinfo{journal}{established by: Mauro Cristofani and Riccardo
   Francovich} , \bibinfo{pages}{751--770}.
+%Type = Article
+\bibitem[{Dressel(1878)}]{dressel}
+\bibinfo{author}{Dressel, H.}, \bibinfo{year}{1878}.
+\newblock \bibinfo{title}{{Ricerche sul Monte Testaccio}}.
+\newblock \bibinfo{journal}{Annali dell'Instituto di Corrispondenza
+  Archeologica} \bibinfo{volume}{50}, \bibinfo{pages}{118--192}.
 %Type = Article
 \bibitem[{Horn(1966)}]{horn_measurement_1966}
 \bibinfo{author}{Horn, H.S.}, \bibinfo{year}{1966}.
