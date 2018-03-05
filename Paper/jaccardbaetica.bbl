@@ -11,6 +11,13 @@
 \providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Berni(1996)}]{berni_millet_amphora_1996}
+\bibinfo{author}{Berni, P.}, \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{{Amphora {Epigraphy}: proposals for the study of
+  stamp contents}}.
+\newblock \bibinfo{journal}{established by: Mauro Cristofani and Riccardo
+  Francovich} , \bibinfo{pages}{751--770}.
 %Type = Book
 \bibitem[{Berni(2008)}]{berni_millet_epigrafianforica_2008}
 \bibinfo{author}{Berni, P.}, \bibinfo{year}{2008}.
@@ -18,13 +25,6 @@
   {Nuevas} formas de an{\'a}lisis}}. volume~\bibinfo{volume}{29}.
 \newblock \bibinfo{publisher}{Col .lecci{\'o} Instrumenta. Universitat de
   Barcelona}.
-%Type = Article
-\bibitem[{{Berni Millet}(1996)}]{berni_millet_amphora_1996}
-\bibinfo{author}{{Berni Millet}, P.}, \bibinfo{year}{1996}.
-\newblock \bibinfo{title}{{Amphora {Epigraphy}: proposals for the study of
-  stamp contents}}.
-\newblock \bibinfo{journal}{established by: Mauro Cristofani and Riccardo
-  Francovich} , \bibinfo{pages}{751--770}.
 %Type = Article
 \bibitem[{Dressel(1878)}]{dressel}
 \bibinfo{author}{Dressel, H.}, \bibinfo{year}{1878}.
