@@ -14,6 +14,7 @@ baeDistance = vegdist(baeMatrix, method="horn")
 #baeDistance = vegdist(baeMatrix, method= "horn", na.rm= TRUE) na.rm when data is missing. Read ?vedist
 baeDistance
 hclust(baeDistance)
+#use summary to see the results
 plot(hclust(baeDistance))
 
 ##plot matrix
