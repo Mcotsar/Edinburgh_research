@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.2)  5 MAR 2018 19:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.2)  6 MAR 2018 19:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -534,38 +534,38 @@ LaTeX Info: Redefining \nameref on input line 17.
 \openout4 = `jaccardbaetica.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 37.
+(Font)              <7> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 37.
+(Font)              <5> on input line 35.
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (./jaccardbaetica.
-bbl [4])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] (./jaccardbaet
+ica.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
 
 (./jaccardbaetica.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
 Package rerunfilecheck Info: File `jaccardbaetica.out' has not changed.
 (rerunfilecheck)             Checksum: 7847ABADF99B31885280860215D49849;459.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
  ) 
 Here is how much of TeX's memory you used:
  6531 strings out of 493304
- 92864 string characters out of 6139872
- 183722 words of memory out of 5000000
+ 92862 string characters out of 6139872
+ 184722 words of memory out of 5000000
  9909 multiletter control sequences out of 15000+600000
  5933 words of font info for 21 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 34i,5n,35p,758b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,5n,35p,758b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on jaccardbaetica.pdf (5 pages, 76542 bytes).
+Output written on jaccardbaetica.pdf (5 pages, 77149 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream
