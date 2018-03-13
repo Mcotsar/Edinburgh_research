@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{12}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -19,6 +19,13 @@
 \newblock \bibinfo{journal}{established by: Mauro Cristofani and Riccardo
   Francovich} , \bibinfo{pages}{751--770}.
 %Type = Book
+\bibitem[{Berni(1998)}]{millet_anforas_1998}
+\bibinfo{author}{Berni, P.}, \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{{Las {\'a}nforas de aceite de la {B{\'e}tica} y su
+  presencia en la {Catalu{\~n}a} romana}}. volume~\bibinfo{volume}{4}.
+\newblock \bibinfo{publisher}{Col .lecci{\'o} Instrumenta. Universitat de
+  Barcelona}.
+%Type = Book
 \bibitem[{Berni(2008)}]{berni_millet_epigrafianforica_2008}
 \bibinfo{author}{Berni, P.}, \bibinfo{year}{2008}.
 \newblock \bibinfo{title}{{Epigraf{\'i}a anf{\'o}rica de la {B{\'e}tica}.
@@ -36,6 +43,17 @@
 \newblock \bibinfo{title}{{Ricerche sul Monte Testaccio}}.
 \newblock \bibinfo{journal}{Annali dell'Instituto di Corrispondenza
   Archeologica} \bibinfo{volume}{50}, \bibinfo{pages}{118--192}.
+%Type = Incollection
+\bibitem[{{Garc{\'i}a Vargas}(2010)}]{garcia_vargas_enrique_formal_2010}
+\bibinfo{author}{{Garc{\'i}a Vargas}, E.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{Formal {Romanisation} and the {Atlantic}
+  {Projection} of {Amphorae} from the {Guadalquivir} {Valley}}}, in:
+  \bibinfo{booktitle}{{The {Western} {Roman} {Atlantic} {Fa\c{c}ade}: {A} study
+  of the economy and trade in the {Mar} {Exterior} from the {Republic} to the
+  {Principate}}}. \bibinfo{edition}{archaeopress} ed..
+  \bibinfo{address}{Oxford, England}. number \bibinfo{number}{2162} in
+  \bibinfo{series}{{{BAR} {International} {Series}}}, pp.
+  \bibinfo{pages}{55--66}.
 %Type = Article
 \bibitem[{Horn(1966)}]{horn_measurement_1966}
 \bibinfo{author}{Horn, H.S.}, \bibinfo{year}{1966}.

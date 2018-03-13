@@ -3,50 +3,54 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: jaccardbaetica.aux
 The style file: model2-names.bst.bst
 Database file #1: bibliotex.bib
+Repeated entry---line 105 of file bibliotex.bib
+ : @book{millet_anforas_1998
+ :                          ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 114 of file bibliotex.bib
  : @book{berni_millet_epigrafianforica_2008
  :                                         ,
 I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 10 entries,
+You've used 12 entries,
             2990 wiz_defined-function locations,
-            795 strings with 7813 characters,
-and the built_in function-call counts, 5287 in all, are:
-= -- 410
-> -- 100
-< -- 12
-+ -- 40
-- -- 30
-* -- 467
-:= -- 781
-add.period$ -- 30
-call.type$ -- 10
-change.case$ -- 57
-chr.to.int$ -- 10
-cite$ -- 10
-duplicate$ -- 438
-empty$ -- 479
-format.name$ -- 40
-if$ -- 1007
+            807 strings with 8304 characters,
+and the built_in function-call counts, 6504 in all, are:
+= -- 503
+> -- 120
+< -- 17
++ -- 48
+- -- 36
+* -- 584
+:= -- 940
+add.period$ -- 35
+call.type$ -- 12
+change.case$ -- 69
+chr.to.int$ -- 12
+cite$ -- 12
+duplicate$ -- 548
+empty$ -- 593
+format.name$ -- 48
+if$ -- 1255
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 80
-newline$ -- 65
-num.names$ -- 40
-pop$ -- 161
+missing$ -- 101
+newline$ -- 74
+num.names$ -- 48
+pop$ -- 201
 preamble$ -- 1
-purify$ -- 50
+purify$ -- 60
 quote$ -- 0
-skip$ -- 148
+skip$ -- 189
 stack$ -- 0
-substring$ -- 282
-swap$ -- 258
-text.length$ -- 2
+substring$ -- 328
+swap$ -- 332
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 81
+type$ -- 96
 warning$ -- 0
-while$ -- 44
+while$ -- 53
 width$ -- 0
-write$ -- 152
-(There was 1 error message)
+write$ -- 182
+(There were 2 error messages)
