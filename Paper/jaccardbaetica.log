@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.2)  15 MAR 2018 18:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.2)  16 MAR 2018 16:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -549,15 +549,15 @@ Package pdftex.def Info: figs/dendro.pdf used on input line 109.
 (pdftex.def)             Requested size: 345.0pt x 184.00044pt.
  [4 <./figs/dendro.pdf>] [5] (./jaccardbaetica.bbl
 [6])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
  (./jaccardbaetica.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
 Package rerunfilecheck Info: File `jaccardbaetica.out' has not changed.
 (rerunfilecheck)             Checksum: 7847ABADF99B31885280860215D49849;459.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 159.
  ) 
 Here is how much of TeX's memory you used:
  6565 strings out of 493304
@@ -572,7 +572,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on jaccardbaetica.pdf (7 pages, 100939 bytes).
+Output written on jaccardbaetica.pdf (7 pages, 101147 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
  131 compressed objects within 2 object streams
