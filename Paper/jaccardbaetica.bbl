@@ -1,4 +1,4 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{20}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -40,6 +40,16 @@
   \bibinfo{booktitle}{{Producci{\'o}n y comercio del aceite en la
   antig{\"u}edad. {Primer} {Congreso} {Internacional}}}.
   \bibinfo{address}{Madrid}, pp. \bibinfo{pages}{19--46}.
+%Type = Article
+\bibitem[{Brughmans and Poblome(2016)}]{brughmans_roman_2016}
+\bibinfo{author}{Brughmans, T.}, \bibinfo{author}{Poblome, J.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{Roman bazaar or market economy? {Explaining}
+  tableware distributions through computational modelling}}.
+\newblock \bibinfo{journal}{Antiquity} \bibinfo{volume}{90},
+  \bibinfo{pages}{393--408}.
+\newblock \URLprefix
+  \url{http://www.journals.cambridge.org/abstract_S0003598X16000351}.
 %Type = Book
 \bibitem[{Callender(1965)}]{callender}
 \bibinfo{author}{Callender, M.}, \bibinfo{year}{1965}.
@@ -69,6 +79,13 @@
   studies}}.
 \newblock \bibinfo{journal}{The American Naturalist} \bibinfo{volume}{100},
   \bibinfo{pages}{419--424}.
+%Type = Inproceedings
+\bibitem[{Isaksen(2006)}]{isaksen_network_2006}
+\bibinfo{author}{Isaksen, L.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{{Network analysis of transport vectors in {Roman}
+  {Baetica}}}, in: \bibinfo{booktitle}{{Digital discovery: exploring new
+  frontiers in human heritage. {Proceedings} of the 34th {CAA} {Conference},
+  {Fargo}}}, pp. \bibinfo{pages}{76--87}.
 %Type = Book
 \bibitem[{Martin-Kilcher(1987)}]{martin-kilcher_romischen_1994}
 \bibinfo{author}{Martin-Kilcher, S.}, \bibinfo{year}{1987}.
@@ -91,6 +108,17 @@
   analysis of the distribution patterns}}.
 \newblock \bibinfo{journal}{Memoirs of the Faculty of Science, Kyushu
   University, ser. E (Biology)} \bibinfo{volume}{2}, \bibinfo{pages}{215--235}.
+%Type = Article
+\bibitem[{Orengo and Livarda(2016)}]{orengo_seeds_2016}
+\bibinfo{author}{Orengo, H.A.}, \bibinfo{author}{Livarda, A.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{The seeds of commerce: {A} network analysis-based
+  approach to the {Romano}-{British} transport system}}.
+\newblock \bibinfo{journal}{Journal of Archaeological Science}
+  \bibinfo{volume}{66}, \bibinfo{pages}{21--35}.
+\newblock \URLprefix
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0305440315003192},
+  \DOIprefix\doi{10.1016/j.jas.2015.12.003}.
 %Type = Article
 \bibitem[{Remesal(1977)}]{rodriguez_economioleicola_1977}
 \bibinfo{author}{Remesal, J.}, \bibinfo{year}{1977}.
@@ -123,6 +151,15 @@
 \newblock \bibinfo{title}{{Centro para el {Estudio} de la {Interdependencia}
   {Provincial} en la {Antig{\"u}edad} {Cl{\'a}sica} ({CEIPAC})}}.
 \newblock \bibinfo{journal}{Pyrenae} , \bibinfo{pages}{245--275}.
+%Type = Article
+\bibitem[{Rubio-Campillo et~al.(2017)Rubio-Campillo, Coto-Sarmiento and
+  Remesal}]{coto-sarmiento_maria_bayesian_????}
+\bibinfo{author}{Rubio-Campillo, X.}, \bibinfo{author}{Coto-Sarmiento, M.},
+  \bibinfo{author}{Remesal, J.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{Bayesian analysis and free market trade within the
+  {Roman} {Empire}}}.
+\newblock \bibinfo{journal}{Antiquity} \bibinfo{volume}{91},
+  \bibinfo{pages}{1241--1252}.
 %Type = Article
 \bibitem[{Wolda(1981)}]{wolda_similarity_1981}
 \bibinfo{author}{Wolda, H.}, \bibinfo{year}{1981}.
