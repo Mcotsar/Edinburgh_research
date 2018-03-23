@@ -39,4 +39,5 @@ dev.off()
 count(mydata$site) 
 names(mydata) #para saber el nombre de los valores (columnas)
 
-
+#check by different region: Hispalis, Corduba and Astigi. Download the baezone.csv
+myData= subset(foo, region %in% c("Hispalis")) 
