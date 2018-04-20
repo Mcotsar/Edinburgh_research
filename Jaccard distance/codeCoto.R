@@ -50,33 +50,32 @@ library(ggplot2)
 
 ggplot(stamp, aes(y = region, x = code)) + geom_point()
 
-#library plyr (no confuse with dplyr)
+#library plyr (no confuse with dplyr) to calculate the frequency of stamps
 count(stamp$code)
 
-sasa = count(stamp$code)
-idiot = sasa$freq
+##doing a matrix
 
-matrix 
+stamp = read.csv("baezone.csv")
+
 
 #list of all the sites to make a matrix
-sites=sort(unique(foo$site))
+sites=sort(unique(stamp$site))
 #to add the regions
-sites = unique(foo[,c("site","region")])
+sites = unique(stamp[,c("site","region")])
 
 #to order the lsi tof sites with the regions
 sites = sites[order(sites$site),]
-
 
 foo=as.matrix(table(unique(stamp[,c("site","code")])))
 write.csv(foo,"matrixfoo.csv")
 
 how to make a matrix
 
-sites$foo = rowSums(matrix)
+sites$foo = rowSums(foo)
 
+pdf('frequency.pdf', width= 15, height=5)
 ggplot(sites, aes(y=reorder(region, foo, FUN=sum), x=foo, fill=region)) + geom_jitter(col="grey50", alpha=0.5, shape=21, height=0.2, width=0.3, size=3) + scale_colour_manual(values=myPalette) + theme_bw() + theme(legend.position="None") + xlab("number of code stamps") + ylab("region")
-
-
+dev.off()
 
 
 
