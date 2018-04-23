@@ -1,4 +1,4 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{24}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -172,6 +172,16 @@
 \newblock \bibinfo{title}{{Centro para el {Estudio} de la {Interdependencia}
   {Provincial} en la {Antig{\"u}edad} {Cl{\'a}sica} ({CEIPAC})}}.
 \newblock \bibinfo{journal}{Pyrenae} , \bibinfo{pages}{245--275}.
+%Type = Article
+\bibitem[{Remesal et~al.(1997)Remesal, Revilla, Berni and {Carreras
+  Monfort}}]{arva_1997}
+\bibinfo{author}{Remesal, J.}, \bibinfo{author}{Revilla, V.},
+  \bibinfo{author}{Berni, P.}, \bibinfo{author}{{Carreras Monfort}, C.},
+  \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{{Arva: prospecciones en un centro productor de
+  {\'a}nforas {Dressel} 20 ({Alcolea} del {R{\'i}o}, {Sevilla})}}.
+\newblock \bibinfo{journal}{Pyrenae} \bibinfo{volume}{28},
+  \bibinfo{pages}{151--178}.
 %Type = Article
 \bibitem[{Rubio-Campillo et~al.(2017)Rubio-Campillo, Coto-Sarmiento and
   Remesal}]{coto-sarmiento_maria_bayesian_????}
