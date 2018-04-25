@@ -110,12 +110,21 @@ AQUÍ QUIZÁS HABLAR DE SELLOS NO?
 
 %quizás habría que hablar también del filtrado de códigos que se hizo en python porque antes había 3783 stamps pero se filtró por el número de letras...
 
-The approach proposed here is based on the idea of measuring the similarity between amphora workshops by quantifying similar stamps. A measure of dissimilarity has been chosen to analyse the dataset. We use the statistical technique Morisita-Horn index. The formula can be described as follows
+The approach proposed here is based on the idea of measuring the similarity between amphora workshops by quantifying similar stamps. A measure of dissimilarity has been chosen to analyse the dataset. We use the statistical technique Morisita-Horn index \citep{morisita_measuring_1959, horn_measurement_1966}. This method was performed to measure the overlap between different samples of sets. Generally, it describes the dissimilarity between the system of two communities based on the idea of inverse correlation between diversity and species (CITAR AQUI MANGURRIAN)
 
-(FORMULA Y DESCRIPCIÓN)
+The formula can be described as follows \citep{magurran_measuring_2013}:
 
+\begin{equation}
+D(MH) = 1- \frac{2 \sum(a_{i} \cdot b_{i})}{(d_{a} + d_{b}) \cdot (N_{a} \cdot N_{b})}
+\end{equation} \\
 
-This method was performed to measure the overlap between different samples of sets \citep{morisita_measuring_1959, horn_measurement_1966}. In Ecology, it describes the dissimilarity between the system of two communities. 
+$d_{a}$ and $d_{b}$ are given by the following equation:
+
+\begin{equation}
+d_{a} = \frac{\sum a_{i}^{2}}{N_{a}^{2}} 
+\end{equation} \\
+
+where $N_{a}$ is the total number of stamps in workshop A; $N_{b}$ is the total number of stamps in workshop B; $a_{i}$ is the number of different stamps for workshop A and $b_{i}$ is the number of different stamps for workhop B.
 
 Considering our dataset as non-uniform sample, this method provides a useful tool to handle large samples with different sizes and diversity \citep{wolda_similarity_1981}. Morisita-Horn index can be expressed considering 0 as total presence of similarity of stamps and 1 a totally dissimilarity between stamps. In our case, it will be calculated the number of times that one stamp appear in a amphora workshop. This method allows to bear in mind the similar number of times for each repeated stamp per workshop. 
 %quizas ampliar con el método de xavielin
@@ -155,8 +164,6 @@ On the other hand, it can be interpreted somehow a batch systematic organization
 
 
 it could be somehow a batch systematic organization to prepare and distribute the commodity, considering that Dressel 20 was not marked in several cases. This method was used of counting BLA BAL 
-
- 
 
 An any case, 
 
