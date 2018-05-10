@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{27}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -127,6 +127,16 @@
   analysis of the distribution patterns}}.
 \newblock \bibinfo{journal}{Memoirs of the Faculty of Science, Kyushu
   University, ser. E (Biology)} \bibinfo{volume}{2}, \bibinfo{pages}{215--235}.
+%Type = Article
+\bibitem[{Oksanen et~al.(2007)Oksanen, Kindt, Legendre, O{\rq}Hara, Stevens,
+  Oksanen and Suggests}]{oksanen_vegan_2007}
+\bibinfo{author}{Oksanen, J.}, \bibinfo{author}{Kindt, R.},
+  \bibinfo{author}{Legendre, P.}, \bibinfo{author}{O{\rq}Hara, B.},
+  \bibinfo{author}{Stevens, M.H.H.}, \bibinfo{author}{Oksanen, M.J.},
+  \bibinfo{author}{Suggests, M.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{{The vegan package}}.
+\newblock \bibinfo{journal}{Community ecology package} \bibinfo{volume}{10},
+  \bibinfo{pages}{631--637}.
 %Type = Article
 \bibitem[{Orengo and Livarda(2016)}]{orengo_seeds_2016}
 \bibinfo{author}{Orengo, H.A.}, \bibinfo{author}{Livarda, A.},
