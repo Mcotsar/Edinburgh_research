@@ -53,6 +53,8 @@ ggplot(stamp, aes(y = region, x = code)) + geom_point()
 #library plyr (no confuse with dplyr) to calculate the frequency of stamps
 count(stamp$code)
 
+#function table to see how many items have a variable table(stamp$code) for example
+
 ##doing a matrix
 
 stamp = read.csv("baezone.csv")
