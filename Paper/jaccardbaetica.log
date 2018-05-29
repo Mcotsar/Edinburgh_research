@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.4.23)  28 MAY 2018 14:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.4.23)  29 MAY 2018 19:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -541,61 +541,55 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-<figs/workshop.pdf, id=117, 845.1575pt x 597.23125pt>
+<figs/workshop.pdf, id=122, 845.1575pt x 597.23125pt>
 File: figs/workshop.pdf Graphic file (type pdf)
  <use figs/workshop.pdf>
-Package pdftex.def Info: figs/workshop.pdf used on input line 95.
+Package pdftex.def Info: figs/workshop.pdf used on input line 94.
 (pdftex.def)             Requested size: 345.0pt x 243.80017pt.
 
-
-Package natbib Warning: Citation `chic2005comercio' on page 4 undefined on inpu
-t line 102.
-
 [4] [5 <./figs/workshop.pdf>]
-<figs/frequency.pdf, id=152, 867.24pt x 505.89pt>
+<figs/frequency.pdf, id=161, 867.24pt x 505.89pt>
 File: figs/frequency.pdf Graphic file (type pdf)
  <use figs/frequency.pdf>
-Package pdftex.def Info: figs/frequency.pdf used on input line 112.
+Package pdftex.def Info: figs/frequency.pdf used on input line 111.
 (pdftex.def)             Requested size: 345.0pt x 201.24855pt.
 
 [6 <./figs/frequency.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
-<figs/dendro.pdf, id=179, 1084.05pt x 361.35pt>
+[7] <figs/dendro.pdf, id=202, 1084.05pt x 361.35pt>
 File: figs/dendro.pdf Graphic file (type pdf)
  <use figs/dendro.pdf>
-Package pdftex.def Info: figs/dendro.pdf used on input line 158.
+Package pdftex.def Info: figs/dendro.pdf used on input line 156.
 (pdftex.def)             Requested size: 345.0pt x 115.00027pt.
- [7]
-[8 <./figs/dendro.pdf>] [9] (./jaccardbaetica.bbl [10] [11])
 
-Package natbib Warning: There were undefined citations.
+[8 <./figs/dendro.pdf>] [9] (./jaccardbaetica.bbl [10] [11] [12])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
+ [13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
-[12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
- (./jaccardbaetica.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 212.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 212.
+(./jaccardbaetica.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 209.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 209.
 Package rerunfilecheck Info: File `jaccardbaetica.out' has not changed.
 (rerunfilecheck)             Checksum: 5A012C6B72F00D65944DB871BF163333;536.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 209.
  ) 
 Here is how much of TeX's memory you used:
- 6649 strings out of 493304
- 95472 string characters out of 6139871
- 187093 words of memory out of 5000000
- 9990 multiletter control sequences out of 15000+600000
+ 6662 strings out of 493304
+ 95832 string characters out of 6139871
+ 187181 words of memory out of 5000000
+ 9999 multiletter control sequences out of 15000+600000
  6101 words of font info for 22 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 34i,6n,35p,835b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,6n,35p,872b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -607,10 +601,10 @@ lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 t10.pfb>
-Output written on jaccardbaetica.pdf (12 pages, 1028257 bytes).
+Output written on jaccardbaetica.pdf (13 pages, 1030320 bytes).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
- 252 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
+ 299 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
  88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
