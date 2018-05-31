@@ -1,4 +1,4 @@
-\begin{thebibliography}{30}
+\begin{thebibliography}{31}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -115,6 +115,12 @@
   {Baetica}}}, in: \bibinfo{booktitle}{{Digital discovery: exploring new
   frontiers in human heritage. {Proceedings} of the 34th {CAA} {Conference},
   {Fargo}}}, pp. \bibinfo{pages}{76--87}.
+%Type = Incollection
+\bibitem[{Magurran(1988)}]{magurran_why_1988}
+\bibinfo{author}{Magurran, A.E.}, \bibinfo{year}{1988}.
+\newblock \bibinfo{title}{{Why diversity?}}, in:
+  \bibinfo{booktitle}{{Ecological diversity and its measurement}}.
+  \bibinfo{publisher}{Springer}, pp. \bibinfo{pages}{1--5}.
 %Type = Book
 \bibitem[{Magurran(2004)}]{magurran_measuring_2013}
 \bibinfo{author}{Magurran, A.E.}, \bibinfo{year}{2004}.

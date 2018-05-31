@@ -1,47 +1,47 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: jaccardbaetica.aux
 The style file: model2-names.bst.bst
 Database file #1: bibliotex.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 30 entries,
+You've used 31 entries,
             2990 wiz_defined-function locations,
-            922 strings with 12081 characters,
-and the built_in function-call counts, 18213 in all, are:
-= -- 1430
-> -- 492
-< -- 34
-+ -- 192
-- -- 162
-* -- 1773
-:= -- 2613
-add.period$ -- 88
-call.type$ -- 30
-change.case$ -- 198
-chr.to.int$ -- 30
-cite$ -- 30
-duplicate$ -- 1456
-empty$ -- 1530
-format.name$ -- 210
-if$ -- 3508
+            927 strings with 12168 characters,
+and the built_in function-call counts, 18849 in all, are:
+= -- 1483
+> -- 502
+< -- 36
++ -- 196
+- -- 165
+* -- 1826
+:= -- 2698
+add.period$ -- 90
+call.type$ -- 31
+change.case$ -- 204
+chr.to.int$ -- 31
+cite$ -- 31
+duplicate$ -- 1514
+empty$ -- 1593
+format.name$ -- 214
+if$ -- 3643
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 271
-newline$ -- 163
-num.names$ -- 120
-pop$ -- 520
+missing$ -- 279
+newline$ -- 167
+num.names$ -- 124
+pop$ -- 541
 preamble$ -- 1
-purify$ -- 174
+purify$ -- 179
 quote$ -- 0
-skip$ -- 493
+skip$ -- 516
 stack$ -- 0
-substring$ -- 901
-swap$ -- 956
-text.length$ -- 9
+substring$ -- 928
+swap$ -- 989
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 249
+type$ -- 258
 warning$ -- 0
-while$ -- 141
+while$ -- 147
 width$ -- 0
-write$ -- 437
+write$ -- 451
