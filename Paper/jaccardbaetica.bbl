@@ -1,4 +1,4 @@
-\begin{thebibliography}{31}
+\begin{thebibliography}{32}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -197,6 +197,13 @@
   {Romano}}}.
 \newblock \bibinfo{publisher}{Real Academia de la Historia},
   \bibinfo{address}{Madrid}.
+%Type = Article
+\bibitem[{Remesal(2016)}]{remesal_sellar_2016}
+\bibinfo{author}{Remesal, J.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{Sellar, ?`para qu{\'e}? {El} sistema de
+  comunicaci{\'o}n en los sellos de las {\'a}nforas {Dressel} 20}}.
+\newblock \bibinfo{journal}{Antichit{\`a} AltoAdriatiche} \bibinfo{volume}{83},
+  \bibinfo{pages}{73--90}.
 %Type = Article
 \bibitem[{Remesal et~al.(2015)Remesal, Aguilera, {Garc{\'i}a S{\'a}nchez},
   Mart{\'i}n-Arroyo, {P{\'e}rez Gonz{\'a}lez} and
