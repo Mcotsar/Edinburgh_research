@@ -1,4 +1,4 @@
-\begin{thebibliography}{32}
+\begin{thebibliography}{34}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -115,6 +115,17 @@
   {Baetica}}}, in: \bibinfo{booktitle}{{Digital discovery: exploring new
   frontiers in human heritage. {Proceedings} of the 34th {CAA} {Conference},
   {Fargo}}}, pp. \bibinfo{pages}{76--87}.
+%Type = Article
+\bibitem[{Li et~al.(2014)Li, Bevan, Martin{\'o}n-Torres, Rehren, Cao, Xia and
+  Zhao}]{li_crossbows_2014}
+\bibinfo{author}{Li, X.J.}, \bibinfo{author}{Bevan, A.},
+  \bibinfo{author}{Martin{\'o}n-Torres, M.}, \bibinfo{author}{Rehren, T.},
+  \bibinfo{author}{Cao, W.}, \bibinfo{author}{Xia, Y.}, \bibinfo{author}{Zhao,
+  K.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{{Crossbows and imperial craft organisation: the
+  bronze triggers of {China}'s {Terracotta} {Army}}}.
+\newblock \bibinfo{journal}{Antiquity} \bibinfo{volume}{88},
+  \bibinfo{pages}{126--140}.
 %Type = Incollection
 \bibitem[{Magurran(1988)}]{magurran_why_1988}
 \bibinfo{author}{Magurran, A.E.}, \bibinfo{year}{1988}.
@@ -254,6 +265,13 @@
   provincial connectivity with similarity measures}}.
 \newblock \bibinfo{journal}{Journal of Archaeological Science}
   \bibinfo{volume}{92}, \bibinfo{pages}{37--47}.
+%Type = Article
+\bibitem[{Wickham et~al.(2016)Wickham, Chang and {others}}]{ggplot2:_2016}
+\bibinfo{author}{Wickham, H.}, \bibinfo{author}{Chang, W.},
+  \bibinfo{author}{{others}}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{ggplot2: create elegant data visualisations using
+  the grammar of graphics}}.
+\newblock \bibinfo{journal}{R package version} \bibinfo{volume}{2}.
 %Type = Article
 \bibitem[{Wolda(1981)}]{wolda_similarity_1981}
 \bibinfo{author}{Wolda, H.}, \bibinfo{year}{1981}.
