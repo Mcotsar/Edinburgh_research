@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.4.23)  7 JUN 2018 18:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.4.23)  18 JUN 2018 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -548,7 +548,7 @@ Package pdftex.def Info: figs/workshop.pdf used on input line 92.
 (pdftex.def)             Requested size: 345.0pt x 243.80017pt.
 
 [4] [5 <./figs/workshop.pdf>]
-<figs/frequency.pdf, id=168, 867.24pt x 505.89pt>
+<figs/frequency.pdf, id=167, 867.24pt x 505.89pt>
 File: figs/frequency.pdf Graphic file (type pdf)
  <use figs/frequency.pdf>
 Package pdftex.def Info: figs/frequency.pdf used on input line 107.
@@ -564,7 +564,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
-[7] <figs/dendro.pdf, id=214, 1084.05pt x 361.35pt>
+[7] <figs/dendro.pdf, id=213, 1084.05pt x 361.35pt>
 File: figs/dendro.pdf Graphic file (type pdf)
  <use figs/dendro.pdf>
 Package pdftex.def Info: figs/dendro.pdf used on input line 151.
@@ -589,7 +589,7 @@ Here is how much of TeX's memory you used:
  10010 multiletter control sequences out of 15000+600000
  6101 words of font info for 22 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 34i,6n,35p,1376b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,6n,35p,1374b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -602,7 +602,7 @@ fonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 >
-Output written on jaccardbaetica.pdf (14 pages, 1043559 bytes).
+Output written on jaccardbaetica.pdf (14 pages, 1043336 bytes).
 PDF statistics:
  326 PDF objects out of 1000 (max. 8388607)
  289 compressed objects within 3 object streams
