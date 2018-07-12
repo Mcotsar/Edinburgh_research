@@ -79,7 +79,8 @@ pdf('frequency.pdf', width= 15, height=5)
 ggplot(sites, aes(y=reorder(region, foo, FUN=sum), x=foo, fill=region)) + geom_jitter(col="grey50", alpha=0.5, shape=21, height=0.2, width=0.3, size=3) + scale_colour_manual(values=myPalette) + theme_bw() + theme(legend.position="None") + xlab("number of code stamps") + ylab("region")
 dev.off()
 
-
+#para adaptarlo al gráfico dendrograma con los mismos colores. No se puede usar si tenemos la paleta scale_colour_manual
+ggplot(sites, aes(y=reorder(region, foo, FUN=sum), x=foo, fill=region)) + geom_jitter(col="grey50", alpha=0.5, shape=21, height=0.2, width=0.3, size=5) + scale_fill_manual(values=c("olivedrab","steelblue4","tomato")) + theme_bw() + theme(axis.text=element_text(size=13),legend.position="None") + xlab("Number of code stamps") + ylab("")
 
 
 
