@@ -45,9 +45,9 @@ myData= subset(foo, region %in% c("Hispalis"))
 
 ###plot de puntitos para hacer frequencia
 
-
 library(ggplot2)
 
+stamp = read.csv("baezone.csv")
 ggplot(stamp, aes(y = region, x = code)) + geom_point()
 
 #library plyr (no confuse with dplyr) to calculate the frequency of stamps
@@ -55,7 +55,9 @@ count(stamp$code)
 
 #function table to see how many items have a variable table(stamp$code) for example
 
-##doing a matrix
+##doing a matrix 
+
+library(ggplot2)
 
 stamp = read.csv("baezone.csv")
 
