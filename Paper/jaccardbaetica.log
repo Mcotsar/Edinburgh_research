@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.4.23)  13 JUL 2018 16:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.4.23)  16 JUL 2018 17:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -541,54 +541,54 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-<figs/workshop.pdf, id=131, 845.1575pt x 597.23125pt>
+<figs/workshop.pdf, id=139, 845.1575pt x 597.23125pt>
 File: figs/workshop.pdf Graphic file (type pdf)
  <use figs/workshop.pdf>
 Package pdftex.def Info: figs/workshop.pdf used on input line 98.
 (pdftex.def)             Requested size: 345.0pt x 243.80017pt.
 
-[5 <./figs/workshop.pdf>] <figs/frequency.pdf, id=162, 1011.78pt x 578.16pt>
+[5 <./figs/workshop.pdf>] <figs/frequency.pdf, id=171, 1011.78pt x 578.16pt>
 File: figs/frequency.pdf Graphic file (type pdf)
 
 <use figs/frequency.pdf>
-Package pdftex.def Info: figs/frequency.pdf used on input line 115.
+Package pdftex.def Info: figs/frequency.pdf used on input line 119.
 (pdftex.def)             Requested size: 345.0pt x 197.14522pt.
- [6]
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
+ [6] [7 <./figs/frequency.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
-[7 <./figs/frequency.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
-<figs/dendro.pdf, id=209, 1084.05pt x 361.35pt>
+[8] <figs/dendro.pdf, id=224, 1084.05pt x 361.35pt>
 File: figs/dendro.pdf Graphic file (type pdf)
  <use figs/dendro.pdf>
-Package pdftex.def Info: figs/dendro.pdf used on input line 167.
+Package pdftex.def Info: figs/dendro.pdf used on input line 178.
 (pdftex.def)             Requested size: 345.0pt x 115.00027pt.
- [8]
-[9 <./figs/dendro.pdf>] [10] (./jaccardbaetica.bbl [11] [12] [13])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
- [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
 
-(./jaccardbaetica.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
+[9 <./figs/dendro.pdf>] [10] (./jaccardbaetica.bbl [11] [12] [13] [14])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 225.
+
+[15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
+ (./jaccardbaetica.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
 Package rerunfilecheck Info: File `jaccardbaetica.out' has not changed.
-(rerunfilecheck)             Checksum: 519168D91A1F261AEB2115B38BDE0C90;541.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
+(rerunfilecheck)             Checksum: A03BA64B242AB7D09DE1DE3D8C42A244;675.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 6680 strings out of 493304
- 96223 string characters out of 6139871
+ 6685 strings out of 493304
+ 96310 string characters out of 6139871
  187362 words of memory out of 5000000
- 10012 multiletter control sequences out of 15000+600000
+ 10014 multiletter control sequences out of 15000+600000
  6101 words of font info for 22 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 34i,6n,35p,1340b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,6n,35p,1340b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -601,10 +601,10 @@ fonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 >
-Output written on jaccardbaetica.pdf (14 pages, 1046283 bytes).
+Output written on jaccardbaetica.pdf (15 pages, 1046906 bytes).
 PDF statistics:
- 325 PDF objects out of 1000 (max. 8388607)
- 288 compressed objects within 3 object streams
- 63 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 337 PDF objects out of 1000 (max. 8388607)
+ 299 compressed objects within 3 object streams
+ 66 named destinations out of 1000 (max. 500000)
+ 104 words of extra memory for PDF output out of 10000 (max. 10000000)
 
