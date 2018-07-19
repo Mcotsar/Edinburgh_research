@@ -20,7 +20,7 @@ removedata= countdata[countdata<10] #take the site less than 10 rows
 badcities=names(removedata)
 dataset= foo[!(foo$site %in% badcities),]
 #to keep in a new file
-write.csv(file="newfile.csv",newfile)
+write.csv(file="newfile.csv",dataset)
 
 
 
