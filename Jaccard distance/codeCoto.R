@@ -85,7 +85,25 @@ dev.off()
 ggplot(sites, aes(y=reorder(region, foo, FUN=sum), x=foo, fill=region)) + geom_jitter(col="grey50", alpha=0.5, shape=21, height=0.2, width=0.3, size=5) + scale_fill_manual(values=c("olivedrab","steelblue4","tomato")) + theme_bw() + theme(axis.text=element_text(size=13),legend.position="None") + xlab("Number of code stamps") + ylab("")
 
 
+##how to make a histogram with frequency of stamps 
 
+
+
+library(ggplot2)
+library(dplyr)
+
+foo = read.csv("baezone.csv")
+data = table(foo$site)
+#doing without ggplot
+hist(data,breaks=50)
+df = as.data.frame(data)
+ggplot(df, aes(x=Freq)) + geom_histogram()
+#to scale (poner más junto básicamente)
+ggplot(df, aes(x=Freq)) + geom_histogram()+scale_x_log10()
+
+#add color, alpha is the transparency
+
+ggplot(df, aes(x=Freq)) + geom_histogram(fill="blue", col="grey", alpha=.4) + scale_x_log10()
 
 
 
