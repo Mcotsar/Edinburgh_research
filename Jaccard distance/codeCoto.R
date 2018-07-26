@@ -103,7 +103,10 @@ ggplot(df, aes(x=Freq)) + geom_histogram()+scale_x_log10()
 
 #add color, alpha is the transparency
 
-ggplot(df, aes(x=Freq)) + geom_histogram(fill="blue", col="grey", alpha=.4) + scale_x_log10()
+ggplot(df, aes(x=Freq)) + geom_histogram(bins=30, fill="blue", col="grey", alpha=.4) + scale_x_log10()
+ggplot(df, aes(x=Freq)) + geom_histogram(bins=30, fill="blue", col="grey", alpha=.3) + scale_x_log10() + labs(x="Number of Stamps", y="Frequency") + theme(panel.background = element_rect(fill = "white", colour = "grey50"))
+#other example is use + theme_classic()
+ggplot(df, aes(x=Freq)) + geom_histogram(bins=30, fill="lightcoral", col="gray25") + scale_x_log10() + labs(x="Number of Stamps", y="Frequency") + theme_classic()
 
 
 
