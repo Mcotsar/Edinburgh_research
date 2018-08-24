@@ -1,4 +1,4 @@
-id,lat,long,type,site,code,CountryTitle,LocationTypeTitle
+id,lat,long,type,site,code,country,locationtype
 15599,51.833333,-3.016667,Dressel 20,Abergavenny,CANTONIQVIETI,UK,Military Camp
 16814,51.833333,-3.016667,Dressel 20,Abergavenny,SAENIANES,UK,Military Camp
 16376,54.416667,-2.966667,Dressel 20,Ambleside,QMR,UK,Military Camp
