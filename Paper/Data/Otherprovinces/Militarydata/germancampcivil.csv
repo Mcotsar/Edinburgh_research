@@ -1,4 +1,4 @@
-id,lat,long,type,site,code,CountryTitle,LocationTypeTitle
+id,lat,long,type,site,code,country,locationtype
 18861,51.733333,6.283333,Dressel 20,Altkalkar,SAXOFERRI,Germany,Military Camp
 18862,51.733333,6.283333,Dressel 20,Altkalkar,TATASIATICCI,Germany,Military Camp
 18863,51.733333,6.283333,Dressel 20,Altkalkar,QIAF,Germany,Military Camp
