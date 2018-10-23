@@ -1,0 +1,57 @@
+QUERY SELECION GERMANY (numeración con identificación incluida/hay que restarle menos uno)
+
+Base de datos seleccionando solo military camps y demás --- 540 
+
+Base de datos seleccionando solo Germany ----- 2274  
+
+  - Solo seleccionando Dressel 20 ---- 2082 
+  - Eliminando ruido como ilegibile, ? ------ 2053
+  - Base de datos filtrada con python --- 1744 
+
+*** ATENCIÓN *******
+
+- Se detectan mismo código para distinto sello : eso quiere decir que había dos sellos en una misma ánfora
+- cuando se hace el filtro en la página web por sellos se detectan menos que si se hace solo por Germany. 
+- En el filtrado entero con Dressel 20 y quitando los ilegible dan un total de 2047 mientras que en la otra es 2053, se usa la otra por contener más
+- Los sellos duplicados se debe a porque pertenecían a diferentes centros de producción. Por ejemplo un sello con dos referencias que pertenezcan a dos centros de producción diferentes de la Bética
+- Recalcar que se han dejado los duplicados de una sola ánfora (cuando hay dos)
+- Se añaden el location type consultando la base de datos que da como resultado la busqueda de military camp y la página http://dare.ht.lu.se/places/2164.html. No se puede buscar fort en roman open data
+- En la base de datos del ceipac se confunden fort con military camp, vamos que lo usan para lo mismo
+- Algunos sitios no aparecen en base anteriores y hemos completado con la página web de los campamentos.
+- Especificar también que hay algunas que pueden ser zonas militarizadas y civiles también que no hay distinción (especificar lo de zonas militarizas y civiles y el problema que hay)
+
+CONFLICTOS
+
+Weißenthurm aparece como military camp y en la base de datos de dare aparece como ciudad (dejo military camp)
+Passau aparece como civil y en la web como military camp se pone military camp
+
+Xanten: aparece como ciudad Colonia Ulpia Trajana pero se deja campamento militar 
+Nida-Heddernheim> aparece también como ciudad grande pero la pongo campamento por la base de datos de remesal
+Neuenheim: aprece en la base de datos del ceipac como civil pero en la web como fort. Dejo fort
+Wiesbaden: aparec een la web como civitas o ciudad pero en la base de datos como military camp. Se deja military camp.
+Worms: igual que anterior. aparece como civitas
+Mainz: aparece como ciudad en la web que la diferencia del fort Mainz-Kastel. Se deja como estaba en la base de datos Military camp 
+Ladenburg (Lopodunum): aparece en la web como civitas pero en la base de datos como military. Se deja military porque aprece en la bibliografía
+Köln: igual que el anterior
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
