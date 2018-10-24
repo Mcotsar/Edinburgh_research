@@ -1,4 +1,4 @@
-QUERY SELECION GERMANY (numeración con identificación incluida/hay que restarle menos uno)
+******************************QUERY SELECION GERMANY (numeración con identificación incluida/hay que restarle menos uno)**********************************************************
 
 Base de datos seleccionando solo military camps y demás --- 540 
 
@@ -33,6 +33,26 @@ Worms: igual que anterior. aparece como civitas
 Mainz: aparece como ciudad en la web que la diferencia del fort Mainz-Kastel. Se deja como estaba en la base de datos Military camp 
 Ladenburg (Lopodunum): aparece en la web como civitas pero en la base de datos como military. Se deja military porque aprece en la bibliografía
 Köln: igual que el anterior
+
+
+
+******************************QUERY SELECION BRITANNIA (numeración con identificación incluida/hay que restarle menos uno)**********************************************************
+
+- Base de datos seleccionando solo United Kingdom ----- 2393
+- Solo seleccionando Dressel 20 ---- 2220
+- Base de datos filtrada con python ----- 1948
+
+
+Cambio St. Albans por St Albans que es su nombre original y en la web me da civil
+Tayside correspnde a la parte escocesa pero mirar si corresponde al imperio romano britannia
+Chichester no viene en ningún sitio. Aparece ne la web como city y buscoen internet y parece que fue un campamento militar
+ 
+ 
+
+
+
+
+
 
 
 
