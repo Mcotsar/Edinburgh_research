@@ -39,7 +39,7 @@ Köln: igual que el anterior
 ******************************QUERY SELECION BRITANNIA (numeración con identificación incluida/hay que restarle menos uno)**********************************************************
 
 - Base de datos seleccionando solo United Kingdom ----- 2393
-- Solo seleccionando Dressel 20 ---- 2220
+- Solo seleccionando Dressel 20 y descartando ruido como ilegibile, etc---- 2220
 - Base de datos filtrada con python ----- 1948
 
 
