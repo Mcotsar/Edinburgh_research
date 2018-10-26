@@ -5,8 +5,8 @@ import re
 # this script removes everything except for lat, long and code. The code only has alphabetic characters and all of them are finally transformed to uppercase.
 
 sep = ';'
-stamps = open("cleangerman.csv", "r")
-output = open("cleanedStamps1.csv", "w")
+stamps = open("allUK.csv", "r")
+output = open("cleanedStamps2.csv", "w")
 output.write("id"+sep+"lat"+sep+"long"+sep+"type"+sep+"site"+sep+"code\n")
 
 listIds = list()
