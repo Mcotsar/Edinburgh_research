@@ -20,10 +20,11 @@ model = hclust(baeDistance)
 pepedend = as.dendrogram(model)
 
 #regioncolors = c("red","blue","yellow")
-
- all_workshop_label=labels(pepedend)
+all_workshop_label=labels(pepedend)
  #all_workshop_label=labels(pepedend)
 
+ 
+ 
 all_regions = c()
 color_regions=c("olivedrab","steelblue4","tomato")
 for (leaf in 1:length(all_workshop_label)){
@@ -38,7 +39,7 @@ print(reg)
 ###military camps versus civil setlements 
 
 all_regions = c()
-color_regions=c("olivedrab","tomato")
+color_regions=c("olivedrab","tomato", "darkgrey")
 for (leaf in 1:length(all_workshop_label)){
 print(leaf)
 reg=unique(foo$locationtype[ foo$site == all_workshop_label[leaf]])
@@ -57,7 +58,7 @@ plot(pepedend)
 
 #to keep it 
 
-pdf('dendro5brit.pdf', width= 15, height=5)
+pdf('dendrocolor5brit.pdf', width= 15, height=5)
 #define the margen
 par(mar=c(12,2,1,1))
 plot(pepedend)
