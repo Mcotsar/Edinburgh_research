@@ -46,9 +46,95 @@ Köln: igual que el anterior
 Cambio St. Albans por St Albans que es su nombre original y en la web me da civil
 Tayside correspnde a la parte escocesa pero mirar si corresponde al imperio romano britannia
 Chichester no viene en ningún sitio. Aparece ne la web como city y buscoen internet y parece que fue un campamento militar
- 
- 
 
+************************** RESULTADO CON =<5 SELLOS ********************************************************************
+
+BRITANNIA (1765)
+
+46 sites
+968 codes
+
+Civil: 379
+Military: 1347
+Others: 39
+
+GERMANIA (1621)
+
+41 sites
+850 codes
+
+Civil: 366
+Military: 1215
+Other: 40
+ 
+ ************************* RESULTADO CON =<12 SITIOS *******************************************************************
+ 
+ Se descartaron los sitios que tuviesen menos de 12 sellos
+ 
+BRITANNIA (1662)
+ 
+ 31 sites
+ 928 codes
+ 
+Civil: 360
+Military: 1268
+Others: 34
+ 
+GERMANIA (1535)
+ 
+28 sites
+826 codes
+ 
+Civil: 366
+Military: 1136
+Others: 33
+
+
+**** TABLAS EN LATEX BRITANNIA******
+
+\begin{table}[htb]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{2}{|c|}{Britannia} \\ \hline
+\hline
+Centros militares & 1347 \\ \hline
+Centros civiles & 379\\ \hline
+Otros &  \\ 39 \hline
+\end{tabular}
+\caption{Resultado final del análisis de la base de datos en la zona de Britannia con igual o más de 5 sellos con un total de 1765 referencias divididas entre 46 sitios y 968 sellos diferentes}
+\label{tabla:britannia5}
+\end{table}
+
+\begin{table}[htb]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{2}{|c|}{Britannia} \\ \hline
+\hline
+Centros militares & 1268 \\ \hline
+Centros civiles & 360 \\ \hline
+Otros & 34 \\ \hline
+\end{tabular}
+\caption{Resultado final del análisis de la base de datos en la zona de Britannia con igual o más de 12 sellos con un total de 1662 referencias divididas entre 31 sitios y 928 sellos diferentes}
+\label{tabla:britannia}
+\end{table}
+
+**** TABLA LATEX GERMANIA*****
+
+\begin{table}[htb]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{2}{|c|}{Germania} \\ \hline
+\hline
+Centros militares & 1136 \\ \hline
+Centros civiles & 366 \\ \hline
+Otros & 33 \\ \hline
+\end{tabular}
+\caption{Resultado final del análisis de la base de datos en la zona de Germania dividido entre 28 sitios y 826 sellos diferentes}
+\label{tabla:germania}
+\end{table}
 
 
 
