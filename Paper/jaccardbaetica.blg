@@ -2,46 +2,51 @@ This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: jaccardbaetica.aux
 The style file: model2-names.bst.bst
-Database file #1: bibliotex.bib
+Database file #1: bibtesis.bib
+Warning--I didn't find a database entry for "coto-sarmiento_maria_bayesian_????"
+Warning--I didn't find a database entry for "dressel"
+Warning--I didn't find a database entry for "callender"
+Warning--I didn't find a database entry for "chic_datos_2001"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 34 entries,
+You've used 40 entries,
             2990 wiz_defined-function locations,
-            942 strings with 12721 characters,
-and the built_in function-call counts, 20893 in all, are:
-= -- 1632
-> -- 596
-< -- 37
-+ -- 232
-- -- 198
-* -- 2055
-:= -- 3002
-add.period$ -- 99
-call.type$ -- 34
-change.case$ -- 230
-chr.to.int$ -- 34
-cite$ -- 34
-duplicate$ -- 1666
-empty$ -- 1736
-format.name$ -- 254
-if$ -- 4015
+            977 strings with 14001 characters,
+and the built_in function-call counts, 24524 in all, are:
+= -- 1931
+> -- 664
+< -- 48
++ -- 259
+- -- 219
+* -- 2389
+:= -- 3496
+add.period$ -- 116
+call.type$ -- 40
+change.case$ -- 267
+chr.to.int$ -- 40
+cite$ -- 40
+duplicate$ -- 1981
+empty$ -- 2058
+format.name$ -- 291
+if$ -- 4743
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 310
-newline$ -- 182
-num.names$ -- 136
-pop$ -- 596
+missing$ -- 363
+newline$ -- 211
+num.names$ -- 160
+pop$ -- 709
 preamble$ -- 1
-purify$ -- 202
+purify$ -- 233
 quote$ -- 0
-skip$ -- 556
+skip$ -- 669
 stack$ -- 0
-substring$ -- 1005
-swap$ -- 1101
-text.length$ -- 10
+substring$ -- 1175
+swap$ -- 1300
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 285
+type$ -- 336
 warning$ -- 0
-while$ -- 160
+while$ -- 188
 width$ -- 0
-write$ -- 493
+write$ -- 581
+(There were 4 warnings)
