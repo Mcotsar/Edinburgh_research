@@ -3,50 +3,47 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: jaccardbaetica.aux
 The style file: model2-names.bst.bst
 Database file #1: bibtesis.bib
-Warning--I didn't find a database entry for "coto-sarmiento_maria_bayesian_????"
-Warning--I didn't find a database entry for "dressel"
 Warning--I didn't find a database entry for "callender"
-Warning--I didn't find a database entry for "chic_datos_2001"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 40 entries,
+You've used 46 entries,
             2990 wiz_defined-function locations,
-            977 strings with 14001 characters,
-and the built_in function-call counts, 24524 in all, are:
-= -- 1931
-> -- 664
-< -- 48
-+ -- 259
-- -- 219
-* -- 2389
-:= -- 3496
-add.period$ -- 116
-call.type$ -- 40
-change.case$ -- 267
-chr.to.int$ -- 40
-cite$ -- 40
-duplicate$ -- 1981
-empty$ -- 2058
-format.name$ -- 291
-if$ -- 4743
+            1008 strings with 15031 characters,
+and the built_in function-call counts, 28354 in all, are:
+= -- 2236
+> -- 772
+< -- 54
++ -- 301
+- -- 255
+* -- 2775
+:= -- 4034
+add.period$ -- 133
+call.type$ -- 46
+change.case$ -- 307
+chr.to.int$ -- 46
+cite$ -- 46
+duplicate$ -- 2282
+empty$ -- 2376
+format.name$ -- 341
+if$ -- 5481
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 363
-newline$ -- 211
-num.names$ -- 160
-pop$ -- 709
+missing$ -- 417
+newline$ -- 240
+num.names$ -- 184
+pop$ -- 821
 preamble$ -- 1
-purify$ -- 233
+purify$ -- 269
 quote$ -- 0
-skip$ -- 669
+skip$ -- 765
 stack$ -- 0
-substring$ -- 1175
-swap$ -- 1300
-text.length$ -- 14
+substring$ -- 1385
+swap$ -- 1501
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 336
+type$ -- 387
 warning$ -- 0
-while$ -- 188
+while$ -- 216
 width$ -- 0
-write$ -- 581
-(There were 4 warnings)
+write$ -- 665
+(There was 1 warning)

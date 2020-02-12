@@ -1,4 +1,4 @@
-\begin{thebibliography}{40}
+\begin{thebibliography}{46}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -41,6 +41,17 @@
   {Nuevas} formas de an{\'a}lisis}}. volume~\bibinfo{volume}{29}.
 \newblock \bibinfo{publisher}{Col .lecci{\'o} Instrumenta. Universitat de
   Barcelona}.
+%Type = Incollection
+\bibitem[{Berni and Wei{\ss}-K{\"o}nig(2017)}]{berni_piero_chapter_2017}
+\bibinfo{author}{Berni, P.}, \bibinfo{author}{Wei{\ss}-K{\"o}nig, S.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{{Amphorae}-{Epigraphy}: {Stamps}, {Graffiti} and
+  {Tituli} {Picti} from {Roman} {Nijmegen}}}, in: \bibinfo{booktitle}{{Amphorae
+  from the {Kops} {Plateau} ({Nijmegen}): trade and supply to the
+  {Lower}-{Rhineland} from the {Augustan} period to {AD} 69/70}}.
+  \bibinfo{publisher}{Archaeopress Archaeology}, \bibinfo{address}{Oxford}.
+  volume~\bibinfo{volume}{20} of \textit{\bibinfo{series}{{Archaeopress {Roman}
+  {Archaeology}}}}, pp. \bibinfo{pages}{185--282, 289--343}.
 %Type = Article
 \bibitem[{Bevan(2014)}]{bevan_mediterranean_2014}
 \bibinfo{author}{Bevan, A.}, \bibinfo{year}{2014}.
@@ -66,6 +77,11 @@
   tableware distributions through computational modelling}}.
 \newblock \bibinfo{journal}{Antiquity} \bibinfo{volume}{90},
   \bibinfo{pages}{393--408}.
+%Type = Book
+\bibitem[{Callender(1965)}]{callenderindex}
+\bibinfo{author}{Callender, M.}, \bibinfo{year}{1965}.
+\newblock \bibinfo{title}{{Roman Amphorae, with Index of Stamps}}.
+\newblock \bibinfo{publisher}{Oxford University Press}.
 %Type = Article
 \bibitem[{Carreras and Morais(2012)}]{carreras_atlantic_2012}
 \bibinfo{author}{Carreras, C.}, \bibinfo{author}{Morais, R.},
@@ -98,12 +114,34 @@
 \newblock \bibinfo{title}{{El abastecimiento militar romano en {Britannia}: una
   perspectiva arqueol{\'o}gica}}.
 \newblock \bibinfo{journal}{ArqueoWeb} \bibinfo{volume}{5}.
+%Type = Book
+\bibitem[{Chic(2001)}]{chicdatos2001}
+\bibinfo{author}{Chic, G.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{{Datos para un estudio socioecon{\'o}mico de la
+  {B{\'e}tica}: marcas de alfar sobre {\'a}nforas olearias}}. volume
+  \bibinfo{volume}{1-2}.
+\newblock \bibinfo{publisher}{Gr{\'a}ficas Sol}.
 %Type = Article
 \bibitem[{Chic(2005)}]{chic2005comercio}
 \bibinfo{author}{Chic, G.}, \bibinfo{year}{2005}.
 \newblock \bibinfo{title}{{El comercio de la B{\'e}tica altoimperial}}.
 \newblock \bibinfo{journal}{Habis} \bibinfo{volume}{36},
   \bibinfo{pages}{313--332}.
+%Type = Article
+\bibitem[{Coto-Sarmiento et~al.(2018)Coto-Sarmiento, Rubio-Campillo and
+  Remesal}]{coto-sarmiento_identifying_2018}
+\bibinfo{author}{Coto-Sarmiento, M.}, \bibinfo{author}{Rubio-Campillo, X.},
+  \bibinfo{author}{Remesal, J.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{{Identifying social learning between {Roman} amphorae
+  workshops through morphometric similarity}}.
+\newblock \bibinfo{journal}{Journal of Archaeological Science}
+  \bibinfo{volume}{96}, \bibinfo{pages}{117--123}.
+%Type = Article
+\bibitem[{Dressel(1878)}]{dressel_ricerche_1878}
+\bibinfo{author}{Dressel, H.}, \bibinfo{year}{1878}.
+\newblock \bibinfo{title}{{Ricerche sul {Monte} {Testaccio}}}.
+\newblock \bibinfo{journal}{Annali dell'Instituto di Corrispondenza
+  Archeologica} \bibinfo{volume}{50}, \bibinfo{pages}{118--192}.
 %Type = Article
 \bibitem[{Funari(2005)}]{funari_economic_2005}
 \bibinfo{author}{Funari, P.}, \bibinfo{year}{2005}.
@@ -171,14 +209,6 @@
 \bibinfo{author}{Magurran, A.E.}, \bibinfo{year}{2004}.
 \newblock \bibinfo{title}{{Measuring biological diversity}}.
 \newblock \bibinfo{publisher}{Blackwell Science Ltd}.
-%Type = Book
-\bibitem[{Martin-Kilcher(1987)}]{martin-kilcher_romischen_1994}
-\bibinfo{author}{Martin-Kilcher, S.}, \bibinfo{year}{1987}.
-\newblock \bibinfo{title}{{Die r{\"o}mischen Amphoren aus Augst und
-  Kaiseraugst. Ein Beitrag zur r{\"o}mischen Handels- und Kulturgeschichte, 1.
-  Die s{\"u}dspanischen {\"O}lamphoren (Gruppe 1)}}. volume
-  \bibinfo{volume}{7/1}.
-\newblock \bibinfo{publisher}{Forschungen in Augst}.
 %Type = Article
 \bibitem[{Mattingly(1988)}]{mattingly_d.j._oil_1988}
 \bibinfo{author}{Mattingly, D.J.}, \bibinfo{year}{1988}.
@@ -193,6 +223,13 @@
   analysis of the distribution patterns}}.
 \newblock \bibinfo{journal}{Memoirs of the Faculty of Science, Kyushu
   University, ser. E (Biology)} \bibinfo{volume}{2}, \bibinfo{pages}{215--235}.
+%Type = Phdthesis
+\bibitem[{Moros(2018)}]{juanmorostesis}
+\bibinfo{author}{Moros, J.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{{An{\'a}lisis epigr{\'a}fico de los sellos olearios
+  b{\'e}ticos hallados en centros de producci{\'o}n: el caso de la zona
+  productora de Scalensia}}.
+\newblock Ph.D. thesis. Universitat de Barcelona.
 %Type = Article
 \bibitem[{Oksanen et~al.(2007)Oksanen, Kindt, Legendre, O{\rq}Hara, Stevens,
   Oksanen and Suggests}]{oksanen_vegan_2007}
@@ -302,6 +339,16 @@
   {Graecae} et {Latinae}}}, \bibinfo{publisher}{Monografies de la Secci{\'o}
   Hist{\`o}rico-Arqueol{\`o}gica}, \bibinfo{address}{Barcelona}. pp.
   \bibinfo{pages}{1255--1262}.
+%Type = Article
+\bibitem[{Rubio-Campillo et~al.(2017)Rubio-Campillo, Coto-Sarmiento, Remesal
+  and {P{\'e}rez Gonz{\'a}lez}}]{bayesian_2018}
+\bibinfo{author}{Rubio-Campillo, X.}, \bibinfo{author}{Coto-Sarmiento, M.},
+  \bibinfo{author}{Remesal, J.}, \bibinfo{author}{{P{\'e}rez Gonz{\'a}lez},
+  J.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{Bayesian analysis and free market trade within the
+  {Roman} {Empire}}}.
+\newblock \bibinfo{journal}{Antiquity} \bibinfo{volume}{91},
+  \bibinfo{pages}{1241--1252}.
 %Type = Article
 \bibitem[{Rubio-Campillo et~al.(2018)Rubio-Campillo, Montanier, Rull,
   {Berm{\'u}dez Lorenzo}, {Moros D{\'i}az}, {P{\'e}rez Gonz{\'a}lez} and
