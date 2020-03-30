@@ -1,4 +1,4 @@
-\begin{thebibliography}{46}
+\begin{thebibliography}{48}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -20,6 +20,17 @@
   {Graecae} et {Latinae}}}, \bibinfo{publisher}{Monografies de la Secci{\'o}
   Hist{\`o}rico-Arqueol{\`o}gica}, \bibinfo{address}{Barcelona}. pp.
   \bibinfo{pages}{15--22}.
+%Type = Article
+\bibitem[{Ayll{\'o}n-Mart{\'i}n et~al.(2018)Ayll{\'o}n-Mart{\'i}n, {P{\'e}rez
+  Gonz{\'a}lez} and {Remesal Rodr{\'i}guez}}]{ayllon_olive_2018}
+\bibinfo{author}{Ayll{\'o}n-Mart{\'i}n, R.}, \bibinfo{author}{{P{\'e}rez
+  Gonz{\'a}lez}, J.}, \bibinfo{author}{{Remesal Rodr{\'i}guez}, J.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{{Olive {Oil} at the {Border} of the {Roman} {Empire}.
+  {Stamps} on {Baetican} {Dressel} 20 {Found} on the {Tyne}-{Solway}
+  {Isthmus}}}.
+\newblock \bibinfo{journal}{M{\"u}nstersche Beitr{\"a}ge zur Antiken
+  Handelsgeschichte} \bibinfo{volume}{36}, \bibinfo{pages}{167--217}.
 %Type = Article
 \bibitem[{Berni(1996)}]{berni_millet_amphora_1996}
 \bibinfo{author}{Berni, P.}, \bibinfo{year}{1996}.
@@ -77,11 +88,6 @@
   tableware distributions through computational modelling}}.
 \newblock \bibinfo{journal}{Antiquity} \bibinfo{volume}{90},
   \bibinfo{pages}{393--408}.
-%Type = Book
-\bibitem[{Callender(1965)}]{callenderindex}
-\bibinfo{author}{Callender, M.}, \bibinfo{year}{1965}.
-\newblock \bibinfo{title}{{Roman Amphorae, with Index of Stamps}}.
-\newblock \bibinfo{publisher}{Oxford University Press}.
 %Type = Article
 \bibitem[{Carreras and Morais(2012)}]{carreras_atlantic_2012}
 \bibinfo{author}{Carreras, C.}, \bibinfo{author}{Morais, R.},
@@ -166,14 +172,6 @@
   International Series}, \bibinfo{address}{Oxford, England}. volume
   \bibinfo{volume}{2162}, pp. \bibinfo{pages}{55--66}.
 %Type = Article
-\bibitem[{{Gonz{\'a}lez Cesteros}(2010)}]{horacio2010llegada}
-\bibinfo{author}{{Gonz{\'a}lez Cesteros}, H.}, \bibinfo{year}{2010}.
-\newblock \bibinfo{title}{{La llegada de {\'A}nforas Hispanas a Germania
-  durante los {\'u}ltimos siglos de la dominaci{\'o}n romana. Una cuesti{\'o}n
-  para el futuro.}}
-\newblock \bibinfo{journal}{CuPAUAM} \bibinfo{volume}{36},
-  \bibinfo{pages}{107--129}.
-%Type = Article
 \bibitem[{Horn(1966)}]{horn_measurement_1966}
 \bibinfo{author}{Horn, H.S.}, \bibinfo{year}{1966}.
 \newblock \bibinfo{title}{{Measurement of "overlap" in comparative ecological
@@ -216,6 +214,18 @@
   {Spanish} and {Tunisian} olive oil production in the {Roman} {Empire}}}.
 \newblock \bibinfo{journal}{Journal of Roman Archaeology} \bibinfo{volume}{1},
   \bibinfo{pages}{33--56}.
+%Type = Article
+\bibitem[{Morillo et~al.(2016)Morillo, {Fern{\'a}ndez Ochoa} and {Salido
+  Dom{\'i}nguez}}]{morillo_hispania_2016}
+\bibinfo{author}{Morillo, {\'A}.}, \bibinfo{author}{{Fern{\'a}ndez Ochoa}, C.},
+  \bibinfo{author}{{Salido Dom{\'i}nguez}, J.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{\textit{{Hispania}} and the {Atlantic} {Route} in
+  {Roman} {Times}: new {Approaches} to {Ports} and {Trade}: \textit{{Hispania}}
+  and the atlantic route in roman times}}.
+\newblock \bibinfo{journal}{Oxford Journal of Archaeology}
+  \bibinfo{volume}{35}, \bibinfo{pages}{267--284}.
+\newblock \URLprefix \url{http://doi.wiley.com/10.1111/ojoa.12089},
+  \DOIprefix\doi{10.1111/ojoa.12089}.
 %Type = Article
 \bibitem[{Morisita(1959)}]{morisita_measuring_1959}
 \bibinfo{author}{Morisita, M.}, \bibinfo{year}{1959}.
@@ -288,6 +298,16 @@
   anf{\'o}rica. Proyecto Amphorae, Instrumenta} \bibinfo{volume}{17},
   \bibinfo{pages}{127--148}.
 %Type = Incollection
+\bibitem[{Remesal(2008)}]{remesal_provincial_2008}
+\bibinfo{author}{Remesal, J.}, \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{{Provincial interdependence in the {Roman} {Empire}:
+  an explanatory model of {Roman} economy.}}, in: \bibinfo{booktitle}{{New
+  {Perspectives} on the {Ancient} {World}. {Modern} perceptions, ancient
+  representations}}. \bibinfo{publisher}{Archaeopress},
+  \bibinfo{address}{Oxford, England}. {{BAR} {International} {Series} 1782},
+  pp. \bibinfo{pages}{155--159}.
+\newblock \URLprefix \url{http://ceipac.gh.ub.es/biblio/Data/A/0524.pdf}.
+%Type = Incollection
 \bibitem[{Remesal(2010)}]{remesal_germn_2010}
 \bibinfo{author}{Remesal, J.}, \bibinfo{year}{2010}.
 \newblock \bibinfo{title}{{De {Baetica} a {Germania}, consideraciones sobre la
@@ -339,6 +359,19 @@
   {Graecae} et {Latinae}}}, \bibinfo{publisher}{Monografies de la Secci{\'o}
   Hist{\`o}rico-Arqueol{\`o}gica}, \bibinfo{address}{Barcelona}. pp.
   \bibinfo{pages}{1255--1262}.
+%Type = Incollection
+\bibitem[{Rubio-Campillo et~al.(2018a)Rubio-Campillo, Berm{\'u}dez, Montanier,
+  {Moros Diaz}, P{\'e}rez-Gonz{\'a}lez and
+  Remesal}]{rubio-campillo_provincias_2018}
+\bibinfo{author}{Rubio-Campillo, X.}, \bibinfo{author}{Berm{\'u}dez, J.},
+  \bibinfo{author}{Montanier, J.}, \bibinfo{author}{{Moros Diaz}, J.},
+  \bibinfo{author}{P{\'e}rez-Gonz{\'a}lez, J.}, \bibinfo{author}{Remesal, J.},
+  \bibinfo{year}{2018}a.
+\newblock \bibinfo{title}{{Provincias, sellos e hip{\'o}tesis nulas: la
+  identificaci{\'o}n de rutas de comercio a trav{\'e}s de medidas de distancia
+  cultural}}, in: \bibinfo{booktitle}{{Cuantificar las econom{\'i}as antiguas.
+  Problemas metodol{\'o}gicos}}. \bibinfo{publisher}{Instrumenta. Universitat
+  de Barcelona}, \bibinfo{address}{Barcelona}, pp. \bibinfo{pages}{237--249}.
 %Type = Article
 \bibitem[{Rubio-Campillo et~al.(2017)Rubio-Campillo, Coto-Sarmiento, Remesal
   and {P{\'e}rez Gonz{\'a}lez}}]{bayesian_2018}
@@ -350,14 +383,14 @@
 \newblock \bibinfo{journal}{Antiquity} \bibinfo{volume}{91},
   \bibinfo{pages}{1241--1252}.
 %Type = Article
-\bibitem[{Rubio-Campillo et~al.(2018)Rubio-Campillo, Montanier, Rull,
+\bibitem[{Rubio-Campillo et~al.(2018b)Rubio-Campillo, Montanier, Rull,
   {Berm{\'u}dez Lorenzo}, {Moros D{\'i}az}, {P{\'e}rez Gonz{\'a}lez} and
   {Remesal Rodr{\'i}guez}}]{rubio-campillo_ecology_2018}
 \bibinfo{author}{Rubio-Campillo, X.}, \bibinfo{author}{Montanier, J.M.},
   \bibinfo{author}{Rull, G.}, \bibinfo{author}{{Berm{\'u}dez Lorenzo}, J.M.},
   \bibinfo{author}{{Moros D{\'i}az}, J.}, \bibinfo{author}{{P{\'e}rez
   Gonz{\'a}lez}, J.}, \bibinfo{author}{{Remesal Rodr{\'i}guez}, J.},
-  \bibinfo{year}{2018}.
+  \bibinfo{year}{2018}b.
 \newblock \bibinfo{title}{{The ecology of {Roman} trade. {Reconstructing}
   provincial connectivity with similarity measures}}.
 \newblock \bibinfo{journal}{Journal of Archaeological Science}

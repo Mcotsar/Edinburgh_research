@@ -3,47 +3,45 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: jaccardbaetica.aux
 The style file: model2-names.bst.bst
 Database file #1: bibtesis.bib
-Warning--I didn't find a database entry for "callender"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 46 entries,
+You've used 48 entries,
             2990 wiz_defined-function locations,
-            1008 strings with 15031 characters,
-and the built_in function-call counts, 28354 in all, are:
-= -- 2236
-> -- 772
-< -- 54
-+ -- 301
-- -- 255
-* -- 2775
-:= -- 4034
-add.period$ -- 133
-call.type$ -- 46
-change.case$ -- 307
-chr.to.int$ -- 46
-cite$ -- 46
-duplicate$ -- 2282
-empty$ -- 2376
-format.name$ -- 341
-if$ -- 5481
-int.to.chr$ -- 1
+            1021 strings with 16068 characters,
+and the built_in function-call counts, 30551 in all, are:
+= -- 2420
+> -- 864
+< -- 55
++ -- 337
+- -- 288
+* -- 3042
+:= -- 4318
+add.period$ -- 139
+call.type$ -- 48
+change.case$ -- 329
+chr.to.int$ -- 47
+cite$ -- 48
+duplicate$ -- 2440
+empty$ -- 2529
+format.name$ -- 382
+if$ -- 5916
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 417
-newline$ -- 240
-num.names$ -- 184
-pop$ -- 821
+missing$ -- 445
+newline$ -- 250
+num.names$ -- 192
+pop$ -- 865
 preamble$ -- 1
-purify$ -- 269
+purify$ -- 288
 quote$ -- 0
-skip$ -- 765
+skip$ -- 816
 stack$ -- 0
-substring$ -- 1385
-swap$ -- 1501
-text.length$ -- 16
+substring$ -- 1496
+swap$ -- 1637
+text.length$ -- 18
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 387
+type$ -- 408
 warning$ -- 0
-while$ -- 216
+while$ -- 230
 width$ -- 0
-write$ -- 665
-(There was 1 warning)
+write$ -- 700
