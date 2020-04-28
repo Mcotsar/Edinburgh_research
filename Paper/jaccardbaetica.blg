@@ -4,44 +4,44 @@ The top-level auxiliary file: jaccardbaetica.aux
 The style file: model2-names.bst.bst
 Database file #1: bibtesis.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 51 entries,
+You've used 56 entries,
             2990 wiz_defined-function locations,
-            1036 strings with 16483 characters,
-and the built_in function-call counts, 32137 in all, are:
-= -- 2540
-> -- 895
-< -- 59
-+ -- 349
-- -- 297
-* -- 3189
-:= -- 4547
-add.period$ -- 148
-call.type$ -- 51
-change.case$ -- 348
-chr.to.int$ -- 50
-cite$ -- 51
-duplicate$ -- 2573
-empty$ -- 2677
-format.name$ -- 394
-if$ -- 6220
+            1062 strings with 17092 characters,
+and the built_in function-call counts, 34728 in all, are:
+= -- 2737
+> -- 953
+< -- 65
++ -- 372
+- -- 315
+* -- 3424
+:= -- 4928
+add.period$ -- 164
+call.type$ -- 56
+change.case$ -- 376
+chr.to.int$ -- 55
+cite$ -- 56
+duplicate$ -- 2790
+empty$ -- 2913
+format.name$ -- 421
+if$ -- 6721
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 468
-newline$ -- 265
-num.names$ -- 205
-pop$ -- 914
+missing$ -- 509
+newline$ -- 291
+num.names$ -- 225
+pop$ -- 1000
 preamble$ -- 1
-purify$ -- 303
+purify$ -- 329
 quote$ -- 0
-skip$ -- 859
+skip$ -- 934
 stack$ -- 0
-substring$ -- 1579
-swap$ -- 1717
-text.length$ -- 19
+substring$ -- 1684
+swap$ -- 1844
+text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 432
+type$ -- 468
 warning$ -- 0
-while$ -- 243
+while$ -- 262
 width$ -- 0
-write$ -- 741
+write$ -- 812
