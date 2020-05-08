@@ -6,42 +6,42 @@ Database file #1: bibtesis.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 56 entries,
             2990 wiz_defined-function locations,
-            1062 strings with 17092 characters,
-and the built_in function-call counts, 34728 in all, are:
-= -- 2737
-> -- 953
-< -- 65
+            1060 strings with 16843 characters,
+and the built_in function-call counts, 34339 in all, are:
+= -- 2691
+> -- 954
+< -- 64
 + -- 372
 - -- 315
-* -- 3424
-:= -- 4928
-add.period$ -- 164
+* -- 3377
+:= -- 4896
+add.period$ -- 165
 call.type$ -- 56
-change.case$ -- 376
+change.case$ -- 377
 chr.to.int$ -- 55
 cite$ -- 56
-duplicate$ -- 2790
-empty$ -- 2913
+duplicate$ -- 2763
+empty$ -- 2881
 format.name$ -- 421
-if$ -- 6721
+if$ -- 6632
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 509
-newline$ -- 291
-num.names$ -- 225
-pop$ -- 1000
+missing$ -- 505
+newline$ -- 292
+num.names$ -- 226
+pop$ -- 999
 preamble$ -- 1
 purify$ -- 329
 quote$ -- 0
-skip$ -- 934
+skip$ -- 921
 stack$ -- 0
-substring$ -- 1684
-swap$ -- 1844
-text.length$ -- 20
+substring$ -- 1621
+swap$ -- 1814
+text.length$ -- 19
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 468
+type$ -- 465
 warning$ -- 0
-while$ -- 262
+while$ -- 258
 width$ -- 0
-write$ -- 812
+write$ -- 811

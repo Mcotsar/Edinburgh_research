@@ -52,17 +52,6 @@
   {Nuevas} formas de an{\'a}lisis}}. volume~\bibinfo{volume}{29}.
 \newblock \bibinfo{publisher}{Col .lecci{\'o} Instrumenta. Universitat de
   Barcelona}.
-%Type = Incollection
-\bibitem[{Berni and Wei{\ss}-K{\"o}nig(2017)}]{berni_piero_chapter_2017}
-\bibinfo{author}{Berni, P.}, \bibinfo{author}{Wei{\ss}-K{\"o}nig, S.},
-  \bibinfo{year}{2017}.
-\newblock \bibinfo{title}{{{Amphorae}-{Epigraphy}: {Stamps}, {Graffiti} and
-  {Tituli} {Picti} from {Roman} {Nijmegen}}}, in: \bibinfo{booktitle}{{Amphorae
-  from the {Kops} {Plateau} ({Nijmegen}): trade and supply to the
-  {Lower}-{Rhineland} from the {Augustan} period to {AD} 69/70}}.
-  \bibinfo{publisher}{Archaeopress Archaeology}, \bibinfo{address}{Oxford}.
-  volume~\bibinfo{volume}{20} of \textit{\bibinfo{series}{{Archaeopress {Roman}
-  {Archaeology}}}}, pp. \bibinfo{pages}{185--282, 289--343}.
 %Type = Article
 \bibitem[{Bevan(2014)}]{bevan_mediterranean_2014}
 \bibinfo{author}{Bevan, A.}, \bibinfo{year}{2014}.
@@ -80,6 +69,15 @@
   antig{\"u}edad. {Primer} {Congreso} {Internacional}}}.
   \bibinfo{publisher}{Universidad Complutense de Madrid}, pp.
   \bibinfo{pages}{19--46}.
+%Type = Book
+\bibitem[{{Bl{\'a}zquez Mart{\'i}nez} and {Remesal
+  Rodr{\'i}guez}(1999)}]{Testaccio1}
+\bibinfo{editor}{{Bl{\'a}zquez Mart{\'i}nez}, J.}, \bibinfo{editor}{{Remesal
+  Rodr{\'i}guez}, J.} (Eds.), \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{{Estudios del Monte Testaccio (Roma) I}}.
+  volume~\bibinfo{volume}{6}.
+\newblock \bibinfo{publisher}{Col .lecci{\'o} Instrumenta. Universitat de
+  Barcelona}.
 %Type = Book
 \bibitem[{Bowman and Wilson(2009)}]{quantifyingwilson2009}
 \bibinfo{author}{Bowman, A.}, \bibinfo{author}{Wilson, A.},
