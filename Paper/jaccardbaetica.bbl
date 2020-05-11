@@ -1,4 +1,4 @@
-\begin{thebibliography}{56}
+\begin{thebibliography}{57}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -299,6 +299,13 @@
 \newblock \bibinfo{title}{{La annona militaris y la exportaci{\'o}n de aceite
   b{\'e}tico a {Germania}}}.
 \newblock \bibinfo{publisher}{Editorial Complutense}.
+%Type = Article
+\bibitem[{Remesal(1990)}]{remesal_annona_1990}
+\bibinfo{author}{Remesal, J.}, \bibinfo{year}{1990}.
+\newblock \bibinfo{title}{{El sistema annonario como base de la evoluci{\'o}n
+  econ{\'o}mica del {Imperio} romano}}.
+\newblock \bibinfo{journal}{PACT} \bibinfo{volume}{27},
+  \bibinfo{pages}{355--367}.
 %Type = Article
 \bibitem[{Remesal(1991)}]{rodriguez1991aceite}
 \bibinfo{author}{Remesal, J.}, \bibinfo{year}{1991}.
