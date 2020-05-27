@@ -1,4 +1,4 @@
-\begin{thebibliography}{57}
+\begin{thebibliography}{58}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -286,6 +286,15 @@
 \newblock \URLprefix
   \url{http://linkinghub.elsevier.com/retrieve/pii/S0305440315003192},
   \DOIprefix\doi{10.1016/j.jas.2015.12.003}.
+%Type = Book
+\bibitem[{{Ozc{\'a}riz Gil}(2013)}]{ozcariz_gil_administracion_2013}
+\bibinfo{author}{{Ozc{\'a}riz Gil}, P.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{La administraci{\'o}n de la provincia {Hispania}
+  {Citerior} durante el {Alto} {Imperio} {Romano}. {Organizaci{\'o}n}
+  territorial, cargos administrativos y fiscalidad}}.
+  volume~\bibinfo{volume}{44}.
+\newblock \bibinfo{publisher}{Col .lecci{\'o} Instrumenta. Universitat de
+  Barcelona}, \bibinfo{address}{Barcelona}.
 %Type = Article
 \bibitem[{Remesal(1977-1978)}]{rodriguez_economioleicola_1977}
 \bibinfo{author}{Remesal, J.}, \bibinfo{year}{1977-1978}.
