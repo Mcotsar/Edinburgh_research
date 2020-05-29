@@ -207,17 +207,23 @@ Therefore, this study proposes a robust baseline to explore the distribution of 
 
 \subsection{Production centres: Baetica province}
 
-We studied a dataset of 3798 stamps collected from different Dressel 20 amphora workshops in \textit{Baetica} province. The database was compiled by CEIPAC group\citep{remesal_centro_2015} (see CEIPAC database here \url{http://romanopendata.eu}). However, approximately 70 \% of stamps cannot be tested due to the fragmentation of the dataset. Consequently, any stamps with incomplete information were discarded and not integrated into our dataset. We finally filtered a total sample of 987 stamps composed of 130 different stamps from 81 workshops. 
+We studied a dataset of 3798 stamps collected from different Dressel 20 amphora workshops in \textit{Baetica} province. For the analysis, we used a database compiled by CEIPAC group 
+\citep{remesal_centro_2015} (see CEIPAC database here \url{http://romanopendata.eu}). CEIPAC database contains over 50.000 epigraphy records found on different types of amphorae. From the database, we collected the site where stamps were found, the stamp code and the geographical coordinates. 
 
+The stamps with incomplete information were discarded and not integrated into our dataset. We finally filtered a total sample of 987 stamps composed of 130 different stamps from 81 workshops. 
+
+%Approximately 70 \% of stamps cannot be tested due to the fragmentation of the dataset. Consequently, any stamps with incomplete information were discarded and not integrated into our dataset. 
+
+We also created a new column with the area of the stamps. These areas, known as \textit{conventus}, were administrative centres for territorial organisation in the Roman Empire \citep[58]{ozcariz_gil_administracion_2013}.
+Dressel 20 stamps were found in three different \textit{conventus}: \textit{Hispalensis} (currently Seville, hereafter Hispalis), \textit{Cordubensis} (currently C\'ordoba, hereafter Corduba) and \textit{Astigi} (currently Écija, Sevilla, hereafter Astigi) \citep{rodriguez_economioleicola_1977,
+chicdatos2001,berni_millet_epigrafianforica_2008} . 
 
 %3798 = base de datos sin limpiar
 %3791 = base de datos limpiada con cleanstamp.py
 %3787 = no sé a qué corresponde pero es archivo baetica.csv
 
-From the database, we collected the site where stamps were found and the stamp code. We also created a new column with the area of the stamps. These areas, known as \textit{conventus}, were administrative centres for territorial organisation in the Roman Empire \citep[58]{ozcariz_gil_administracion_2013}.
-Dressel 20 stamps were found in three different \textit{conventus}: \textit{Hispalensis} (currently Seville, hereafter Hispalis), \textit{Cordubensis} (currently C\'ordoba, hereafter Corduba) and \textit{Astigi} (currently Écija, Sevilla, hereafter Astigi) \citep{rodriguez_economioleicola_1977,
-chicdatos2001,berni_millet_epigrafianforica_2008} . It is important to mention that some workshops exhibited the same coordinates but they were differently catalogued as a different workshop. 
-\maria{seguir con esta mierda}
+It is important to mention that some workshops exhibited the same coordinates but they were catalogued as different workshops in Roman Studies (i.e. Tesorillo de Doña Mencia and Doña Mencia). The analysis took into account this particularity but some biases can occur due to the archaeological dataset. 
+
 We calculated the frequency of distribution in amphora stamps with the purpose of implementing an exploratory analysis (EDA) to detect the distribution and the number of stamps per each centre.  
 
 The frequency of stamps per workshop can be seen in Fig. \ref{stamps}. Most 
@@ -253,9 +259,14 @@ The distribution of amphora stamps in different \textit{conventus} can be seen i
 
 %\xavi{Esta estructura no me convence...tenemos que pensar algo mejor, porque ahora es: 1. hablo de britania/germania, 2. hablo de sellos en general, 3. hablo de sellos en britania/germania. Quizás juntar esto con lo de los casos de estudio, o quizás hablar de los 2 casos de estudio en la intro, y dividir la sección anterior en 2 (lo más general a la intro, lo más concreto aquí)}
 
-We analysed a dataset of 2219 stamps from different centres in \textit{Britannia}. 
+We analysed a dataset of 4271 stamps  from different centres in \textit{Britannia} (2219 stamps) and \textit{Germania} (2052 stamps).
+Both \textit{Germania} and \textit{Britannia} were analysed as regions and not as Roman provinces. This means that we selected centres beyond the borders of the provinces. We analyse the two provinces (Ulterior and Citerior) close to \textit{limes} in \textit{Germania} while the analysis for Britannia was extended to \textit{Caledonia}.
+ 
+We used the same CEIPAC database as previous before to select amphora stamps, centres and coordinates. The database contained anomalies that were eliminated using the same criteria cited above. We selected the centres with more or equal than five stamps.
+
+%We analysed a dataset of 2219 stamps from different centres in \textit{Britannia}. 
 %CITAR (Callender, 1965; Carreras Monfort y Funari,1998; Ayllón-Martı́ et al., 2018). 
-The stamp database was also compiled by CEIPAC database. The database contained anomalies that were eliminated using the same criteria cited above. We finally selected the centres with more or equal than five stamps. As a result, we studied a total of 1765 stamps composed of 968 different stamps from 46 centres. The centres located in \textit{Britannia} can be seen in Fig.\ref{britannia}.
+In \textit{Britannia}, we studied a total sample of 1765 stamps composed of 968 different stamps from 46 centres. The centres located in \textit{Britannia} can be seen in Fig.\ref{britannia}.
  
 \begin{figure}[htp]
 	\centering
@@ -265,9 +276,11 @@ The stamp database was also compiled by CEIPAC database. The database contained 
 \end{figure} 
 
 
-We analysed a dataset of 2052 stamps placed in \textit{Germania}. All the data was also compiled by CEIPAC database. We finally collected a total of 1621 stamps consisted of 850 different stamps from 46 sites (see Fig. \ref{germania}). As previously before, the centres were selected with more or equal than five stamps. 
+%We analysed a dataset of 2052 stamps placed in \textit{Germania}. All the data was also compiled by CEIPAC database. As previously before, the centres were selected with more or equal than five stamps.
 
+In \textit{Germania}, we finally collected a total of 1621 stamps consisted of 850 different stamps from 46 sites (see Fig. \ref{germania}). 
 
+ 
 \begin{figure}[htp]
 	\centering
 \includegraphics[width=\linewidth]{figs/germania5_2.pdf}
