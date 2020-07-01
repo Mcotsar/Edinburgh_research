@@ -312,119 +312,105 @@ Considering our dataset as a non-uniform sample, this method provides a useful t
 
 The Morisita-Horn index was used to generate a dissimilarity matrix containing the distance value between each pairwise site based on their code stamps. Hierarchical clustering was applied to this matrix in order to group sites with similar stamps codes distributions. The algorithm was selected to cluster similar groups in order to analyse the relationship between groups of sites and the distribution of similar stamp codes. The results were visualised using a dendrogram to detect groups of sites sharing similar stamp codes.  
 
-\xavi{hasta aquí}
-
 \section{Results}
 
 \subsection{Production centres: Baetica Province}
 
 %The correlation coefficients range from a minimum to a maximum.
 
-The analysis shows that the similarity of amphoric stamps could be correlated with spatial distance. The dendrogram in Fig. \ref{dendro} was obtained with Morisita-Horn index. The dendrogram suggests that amphora workshops used different stamps for their production system. Nearby workshops show similarity on the stamps while most workshops seem to display different stamps. Groups of workshops sharing similar stamps were not found in the dendrogram: the majority of stamp grouping was composed of no more than three workshops. Additionally, workshops that shared more similar amphoric stamps belonged to the same \textit{conventus} area, such as Picachos, Cerro de los Pesebres and El Castillejo. 
+The hierarchical clustering of the Morisita-Horn pairwise distance matrix can be seen as a dendrogram in Figure~\ref{dendro}. This visualization suggests that each amphora workshop often used unique stamps in their production system that have not been found on any other site. In fact, the similarity values are always low and a majority of stamp codes found on multiple sites are only present in two or three workshops.
+
+Nearby workshops display a higher similarity than distant workshops and the varying degrees of similarity between sites which could be correlated to their spatial distance; additionally, the workshops with higher similarity values belong to the same \textit{conventus} area, such as Picachos, Cerro de los Pesebres and El Castillejo.
 
 \begin{sidewaysfigure}[htp]
 	\centering
 \includegraphics[angle=180, width=\linewidth]{figs/dendro}
-\caption{Dendrogram obtained by Morisita-Horn algorithm of different amphora workshops in \textit{Baetica} area. Colours are represented by areas divided into \textit{Hispalis} (red), \textit{Astigi} (green) and \textit{Corduba} (blue)}
+\caption{Dendrogram displaying the results of hierarchical clustering based on Morisita-Horn metrics for Dressel 20 workshops located in the \textit{Baetica} area. Site names are color-coded by conventus: \textit{Hispalis} (red), \textit{Astigi} (green) and \textit{Corduba} (blue)}
 \label{dendro}
 \end{sidewaysfigure} 
 
 
 \subsection{Consumption centres: Britannia and Germania}
 
-
-The results show a similarity with the results obtained in \textit{Baetica} province. However, the similarity is less pronounced as we observed in the dendrogram in Fig. \ref{britmap}
+Results for the consumption regions display similar patterns than the ones found for the production area of \textit{Baetica}. The most important difference is that the similarity values are lower as can be seen in Figure~\ref{britmap}
 
 %\xavi{no tengo claro que le puedas decir correlación, porque eso es un valor específico entre 2 distribuciones numéricas. Te refieres a similaridad?}
 
 \begin{sidewaysfigure}[htp]
 	\centering
 \includegraphics[angle=180,width=\linewidth]{figs/dendrobrit5.pdf}
-\caption{Dendrogram obtained by Morisita-Horn algorithm of different sites in \textit{Britannia}. Colours are represented by type of sites divided into military sites (red), civil sites (green) and no specific (grey)}
+\caption{Dendrogram displaying the results of hierarchical clustering based on Morisita-Horn metrics for sites in \textit{Britannia}. Site names are color-coded by typology: military sites (red), civilian sites (green) and unspecified (grey)}
 \label{britmap}
 \end{sidewaysfigure}
 
+The lower similarity of stamp codes in \textit{Britannia} compared to \textit{Baetica} could be explained by the spatial correlation as the area under study is much bigger and the sites are more distant between them. This can be observed more clearly on military sites as the ones with higher similarity are geographically closer. Two patterns can be observed on the dendrogram: 1) nearby sites tend to share more similar stamps and 2) a majority of stamp code are only found on one site.
 
-A minor correlation can be explained by the fact that \textit{Britannia} spatial area is much wider than \textit{Baetica} where the centres were more concentrated.
+By contrast, most sites did not show a strong similarity in stamp correlation\xavi{qué quieres decir? porque lo de que hay una similaridad baja ya lo has repetido arriba}. We also did not find any groups of similar stamps in a specific place\xavi{tampoc entiendo esto. que no hay sellos similares en un solo sitio...?}.
+    
+These results suggest that there is no clear organizational pattern linking production centres and/or consumption centres beyond spatial distance. As a consequence, our analysis does not indicate the presence of a specific production centre from \textit{Baetica} to \textit{Britannia} province. Rather, it would imply that olive oil production was distributed by non-specific production centres\xavi{esto no iría en la discusión? Por otra parte, no entiendo qué quieres decir exactamente, igual hay que desarrollarlo}. 
 
-Most military sites that showed a high similarity in the results were geographically close. We identified two factors: 1) nearby sites tend to share similar stamps and 2) most sites have different stamps. 
-By contrast, most sites did not show a strong similarity in stamp correlation. Neither we found a grouping of similar stamps in a specific place. In general, the dendrogram did not observe any production pattern that indicates a clear organisation between production centres and consumption centres. In other words, our results did not indicate the presence of a specific production centre from \textit{Baetica} in \textit{Britannia} province. Rather, it would imply that olive oil production was distributed by non-specific production centres. 
-
-
-In \textit{Germania}, the similarity of stamps shows results less significant than \textit{Britannia} province as it can be seen in the dendrogram (Fig. \ref{germap}). 
+The similarity of sites based on Dressel 20 stamp codes is also low in \textit{Germania} as can be seen in Figure~\ref{germap}.
 
 \begin{sidewaysfigure}[htp]
 	\centering
 \includegraphics[angle=180, width=\linewidth]{figs/dendroger5.pdf}
-\caption{Dendrogram obtained by Morisita-Horn algorithm of different sites in \textit{Germania}. Colours are represented by types of sites divided into military sites (red), civil sites (green) and no specific (grey)}
+\caption{Dendrogram displaying the results of hierarchical clustering based on Morisita-Horn metrics for sites in \textit{Germania}. Site names are color-coded by typology: military sites (red), civilian sites (green) and unspecified (grey)}
 \label{germap}
 \end{sidewaysfigure}
 
-A higher concentration of sites sharing similar stamps were found in areas eminently militarised and close to German \textit{limes}, even if most sites mostly showed different stamps.
-The interpretation of the results suggests that there is still no possibility to determine the existence of a defined pattern that reflects in more detail the route of this production in the area of the German limes.
+A higher concentration of sites sharing similar stamps were found in areas eminently militarised and close to German \textit{limes}, even if most sites mostly showed different stamps~\xavi{quieres decir que los sitios más cercanos al limes son más similares? no queda claro y hay que detallarlo un poco más}.
+
+\xavi{esta frase me la petaría; no aporta demasiado: The interpretation of the results suggests that there is still no possibility to determine the existence of a defined pattern that reflects in more detail the route of this production in the area of the German limes.}
 
 
 \section{Discussion}
 
 
-In this work, we aimed to analyse the distribution of the amphoric stamps in the organisation of the olive oil market both in the production and consumption areas. For this reason, an index of dissimilarity was used to detect differences between the distribution of the amphoric stamps and the spatial distance of producers and consumption centres. The general purpose was to explore if such differences found in the stamp codes could play an important role in the Roman market.  
+This work hasd explored to what extent the distribution of amphoric stamps can provide insights on the organisation of olive oil Roman markets both at the production and consumption areas. For this reason, an index of dissimilarity was used to detect differences between the distribution of the amphoric stamps and the spatial distance of producers and consumption centres. The general purpose was to explore if such differences found in the stamp codes could play an important role in the Roman market\xavi{este párrafo es un poco reiterativo no?}.  
 
 \subsection{Production centres}
 
-The analysis of the amphora workshops in \textit{Baetica} province resulted in a significant correlation between spatial distance and the similarity of the amphoric stamps. 
+The analysis of the amphora workshops in \textit{Baetica} province suggests that a majority of stamp codes were only used on a single workshop. Beyond this clear pattern it seems that the similarity of stamp codes is correlated with spatial distance and the amphoric production of spatially close sites shared some stamp codes. Particularly relevant here is the fact that our results show how similar stamp codes were found on sites belonging to the same \textit{conventus} area. This result could indicate that the workshops of the different \textit{conventus} used different stamp codes that were not shared between them. Despite these stamps tend to share the same area of production, we do not identify groups of any more than three workshops sharing the same amphoric stamps as the dendrogram showed. In general, the majority of stamps were located in different amphora workshops\xavi{estas 2 frases repiten cosas dichas antes}. 
 
-The analysis suggests a connection between the same stamp code and nearby amphora workshops, excluding certain exceptions. Consequently, the majority of stamps are located in different amphora workshops and only similar stamps between closer amphora workshops were found. Indeed, our results show that most similar stamps were detected in the same \textit{conventus} area. This results may indicate a grouping of stamps with similar codes in the same \textit{conventus}. Despite these stamps tend to share the same area of production, we do not identify groups of any more than three workshops sharing the same amphoric stamps as the dendrogram showed. In general, the majority of stamps were located in different amphora workshops. 
+Our results do not support previous working hypotheses suggesting that groups of workshopes used specific groups of stamp codes; while there is higher stamp similarity for nearby workshops this result does not suggest any kind of organisation beyond the simple fact that nearby workshops had a higher degree of interaction. In fact; the opposite seems true: each workshop used different stamp codes and only shared some of them with the closest ones. These stamp codes detected in closer workshops do not move from other distant workshops. In other words, the stamps tend to remain in the same area and different stamps were located in a same amphora workshop\xavi{de nuevo estas 2 frases repiten cosas de antes}. 
 
-Our results indicate that the hypothesis about groups of amphora workshops sharing the same stamps seems do not match with the results of the analysis, even though there are similar stamps in closer workshops. Rather, it seems that each workshop was organised independently with different stamps. Those stamps detected in closer workshops do not move from other distant workshops. In other words, the stamps tend to remain in the same area and different stamps were located in a same amphora workshop. 
+This unique link between workshop and stamp code can be interpreted in different ways. First, it is possible that each workshop operated independently and did not normally collaborate with other workshops.  Second, stamp similarity in closer workshops could be linked to a spatial pattern. It is more probable than closer workshops tend to share more traits than distant workshops. While the role of the river was significant for the distribution of amphorae, river connectivity amongst workshops does not seem to show relevancy for the distribution of stamps\xavi{qué quieres decir con esto? que los diferentes ríos no muestran ningún patrón?}.
 
-This could be defined by several factors. First, each workshop had a different organisation involved in the use of stamps and they were not used in other workshops. Second, stamp similarity in closer workshops could be linked to a spatial pattern. It is more probably than closer workshops tend to share more traits than distant workshops. While the role of the river was significant for the distribution of amphorae, river connection amongst workshops does not seem to show relevancy for the distribution of stamps. Finally, the distribution of stamps could have shown some research bias. In some cases, workshops have been catalogued with different names in spite of belonging to the same workshops or being closer between each other. Additionally, most of the workshops were not widely excavated. 
-
+It is worth mentioning that the performed analysis could be limited by a diversity of biases. Some workshops have been identified with different names despite the fact that they probably are sections of the same workshop; on the other hand, the amount of stamps collected on different sites is affected by different intensities for field surveys a lack of excavation. As a consequence, further fieldwork could provide a clearer picture of the links between workshops if the sample size of stamp codes is increased.
 
 \subsection{Consumption centres}
 
-Both consumption centres showed a correlation between spatial distance and similarity in the amphoric stamps. In the case of\textit{Britannia}, the correlation was higher than \textit{Germania}.
+Both consumption areas showed a correlation between spatial distance of sites and their similarity of amphoric stamps. In the case of\textit{Britannia}, the correlation was higher than \textit{Germania}. In \textit{Britannia} the majority of similarity stamps were mainly found in military centres. This could be also interpreted by an intensity bias where military centres have been mostly excavated than civil centres\xavi{pero no decías que el aceite llegaba por las legione? Entonces por qué es un bias? En todo caso ponlo al final de la sección y no al inicio}. 
 
-In \textit{Britannia}, the majority of similarity stamps were mainly found in military centres. This could be also interpreted by a intense bias where military centres have been mostly excavated than civil centres. 
+A combined exploration of the map and the dendrogram also suggests an interesting pattern: centres with higher similarity values are closer to the coast (North Sea and Celtic Sea). This may indicate that the Atlantic route could have played an essential role in transporting olive oil to the area of \textit{Britannia}, since in the places where there is greater similarity they are found in different strategic points near the sea\xavi{por qué más conectividad implica más similaridad? no será porque encuentras más ánforas?}.
 
-It should be noted that centres with a similarity correlation were located close to the Atlantic coast around the North Sea and the Celtic Sea. This may indicate that the Atlantic route could have played an essential role in transporting olive oil to the area of \textit{Britannia}, since in the places where there is greater similarity they are found in different strategic points near the sea.
+This trend is aligned with recent works that have suggested that the Atlantic trade routes were mostly used for military supply~\citep{remesal_annona_1986,remesal_provincial_2008,carreras_atlantic_2012,morillo_hispania_2016,rubio-campillo_provincias_2018}. Therefore, a majority of centres with higher similarity are related to military activities and near the coasts, thus suggesting thast Dressel 20 containing olive oil were shipped to military areas and then redistributed to the civilian population using land-based transportation systems~\citep{carreras_britannia_1998,ayllon_olive_2018}.
 
-This fact seems to concur with the latest research that suggests the idea of a more important Atlantic route that would connect the militarised provinces \citep{remesal_annona_1986,
-remesal_provincial_2008,
-carreras_atlantic_2012,
-morillo_hispania_2016,rubio-campillo_provincias_2018}.
+The results for \textit{Germania} follow a similar pattern than \textit{Britannia} but with a minor correlation as we can observe in the dendrogram\xavi{esta frase está repetida de los resultados. quizá quitarla de ahí y dejarla aquí?}. The areas mostly militarised share similar stamps than civil areas. However, we do not detect a concrete pattern regarding the distribution of the stamps in the German limes \citep{xanten2018}. 
 
-Therefore, most part of the centres where similar stamps are shared can correspond to eminently military areas, which may mean that the transport could reach the military areas from the beginning and then be distributed by land routes along with other civil areas \citep{carreras_britannia_1998,
-ayllon_olive_2018}.
-
-In \textit{Germania}, the results followed the same pattern as \textit{Britannia} but with a minor correlation as we can observe in the dendrogram. The areas mostly militarised share similar stamps than civil areas. However, we do not detect a concrete pattern regarding the distribution of the stamps in the German limes \citep{xanten2018}. 
-
-It is worth to mention that it was not detected a robust model of organisation in both cases with regard to the distribution of stamps in consumption centres. This evidence means that it is unknown whether some production centres went to one province or another or, at least, that they can be clearly reflected in the data with a greater similarity in the amphoric stamps. Thus, production centres could have distributed randomly olive oil both \textit{Britannia} and \textit{Germania}. Neither we do not detect production centres dedicated to the distribution of olive oil in a certain province. 
+It is worth mentioning that it was not detected a robust model of organisation in both cases with regard to the distribution of stamps in consumption centres\xavi{de nuevo esto es redundante no?}. This evidence means that it is unknown whether some production centres went to one province or another or, at least, that they can be clearly reflected in the data with a greater similarity in the amphoric stamps. Thus, production centres could have distributed randomly olive oil both \textit{Britannia} and \textit{Germania}. Neither we do not detect production centres dedicated to the distribution of olive oil in a certain province. 
 
 %In general, we observed a concentration of the stamps in military centres. 
 
-Judging by the results obtained, there does not seem to be a specific pattern in terms of geographical distribution. Nor it was detected consumption areas where stamps are specified from an amphora workshop. 
+\xavi{me petaría esta frase, porque entre otras cosas arriba dices que hay correlación espacial, así que cómo es que aquí dices que no hay distribución geográfica aparente?}Judging by the results obtained, there does not seem to be a specific pattern in terms of geographical distribution. Nor it was detected consumption areas where stamps are specified from an amphora workshop. 
 
 
 \section{Concluding remarks}
 
+This work has used quantitative analysis to explore long-range trade of olive oil using the stamps found in Dressel 20 vessels. The most interesting result is linked to the meaning of these inscriptions. The use of specific codes seems to be almost exclusively decided by each workshop, so it could be used to identify amphorae found in consumption centers (i.e. an amphorae with a given stamp was probably made on a specific workshop). This idea could explain why the similarity of stamps between workshops is generally very low. On the other hand, some code stamps have been identified in nearby workshops so this pattern suggests that the clustered workshops were somehow connected (e.g. they belonged to the same owner).
 
-The results of this work can be interpreted for several reasons. On the one hand, the use of amphoric stamps could have been exclusively running by the owner or owners of the workshop to distinguish the amphora workshop. This hypothesis would explain the fact that we do not find similar stamps in different workshops; however, different code stamps have been detected in the same workshops that they would be barely difficult to assign to different owners.
+Alternatively, the presence of different stamps in the same workshop could imply some kind of organisation from within the workshop only affecting nearby centres \citep{juanmorostesis}. The stamped amphorae could have allowed potters to organise the differnt production batches for posterior commercialisation\xavi{estos 2 párrafos igual deberían ir a la discusión no? La conclusión debería ser algo más general y aquí estás aún interpretando resultados}.  
 
-On the other hand, the presence of different stamps in the same workshop could imply some kind of organisation from within the workshop affecting the closest centres \citep{juanmorostesis}. The marked amphorae could have allowed to potters organise the production with a batch stamping for the posterior commercialisation.  
+This could be explained such as batch systematic organisation between potters \citep{juanmorostesis}. This method allowed to potters organises the production with the batch stamping for the posterior commercialisation\xavi{y esto para qué serviría? debería explicarse un poco más}.
 
-This could be explained such as batch systematic organisation between potters \citep{juanmorostesis}. 
-This method allowed to potters organises the production with the batch stamping for the posterior commercialisation.
+A large number of Dressel 20 were not marked with any stamps, so some researchers suggest that potters marked the amphorae to prepare and distribute the product in order to be shipped \citep{berni_millet_epigrafianforica_2008}. This method would be used as an identifier to count the number of amphorae of a branch \citep{juanmorostesis}\xavi{a branch? que es una branch?}. This organisation\xavi{this organisation o unique stamp codes?} could have also served to identify different groups of potters working in the same amphora workshop. Potters could have marked the amphorae to distinguish different groups working at the same time in different orders~\citep{li_crossbows_2014}. This hypothesis could explain why we detect different stamps in the same workshop. In any case, at present we do not have enough archaeological evidence to validate which of these interpretations is more plausible in our case study.
 
-Considering that Dressel 20 was not marked in most cases, some researchers point out that potters marked the amphorae to prepare and distribute the product in order to be shipped \citep{berni_millet_epigrafianforica_2008}. This method would be used as an identifier to count the number of amphorae of a branch \citep{juanmorostesis}. This organisation could also have served to identify different groups of potters working in the same amphora workshop. Potters could have marked the amphorae to distinguish different groups working in parallel \citep{li_crossbows_2014}. This fact would explain wherefore why we detect different stamps in the same workshop. In any case, we do not have enough archaeological evidence that can validate the interpretations presented here and our results are only certainly valid with the context of our case study. 
-
-As a summary, this method presented here provides a potential tool to understand the mechanisms of production based on the similarity of artefacts. This work has identified differences in the case of the amphoric production within the Roman Empire. The combination of archaeological data and quantitative methods have finally highlighted for the interpretation of the complex economic processes connected with the archaeological evidence. 
-
+To conclude, the method presented here provides a useful framework to improve our understanding of the organisation and processes that allowed the Roman Empire to manage a massive and highly specialized production of essential goods.  This work has identified differences in the case of the amphoric production within the Roman Empire\xavi{qué diferencias?}. The growing amount of archaeological data requires of large-scale quantitative methods such as the one presented here to identify and explore complex patterns, thus allowing us to infer dynamics and improve our interpretation of complex economic processes of past societies. 
 
 \section{Acknowledgements}
 
-The research was funded by European Research Council Advanced Grant EPNet (340828). We are grateful to Simon Carrignon, Juan Moros and Ignacio Morer for their useful suggestions.  
+This research was partly funded by the European Research Council Advanced Grant EPNet (340828). We are grateful to Simon Carrignon, Juan Moros and Ignacio Morer for their useful suggestions.  
 All data has been analysed and conducted in R program version 3.2.4, using the packages \textit{vegan} \citep{oksanen_vegan_2007}, \textit{ggplot2} \citep{ggplot2:_2016}. Source and code are available at \maria{incluir github}. 
-
 
 \section{References}
 
