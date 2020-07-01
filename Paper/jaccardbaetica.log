@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.12.14)  30 JUN 2020 12:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.12.14)  1 JUL 2020 12:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -683,73 +683,84 @@ File: figs/dressel20.pdf Graphic file (type pdf)
 <use figs/dressel20.pdf>
 Package pdftex.def Info: figs/dressel20.pdf  used on input line 139.
 (pdftex.def)             Requested size: 253.42616pt x 300.10045pt.
- [8 <./figs/dressel20.pdf>] [9] [10] [11] [12]
-[13]
-<figs/frequencystamp.pdf, id=371, 505.89pt x 505.89pt>
+ [8 <./figs/dressel20.pdf>] [9]
+Overfull \hbox (10.22281pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 sources through Mediter-ranean and At-lantic routes[]XRC: no en
+-tiendo esto...allowed
+ []
+
+[10] [11]
+Overfull \hbox (0.9729pt too wide) in paragraph at lines 187--188
+\OT1/cmr/m/n/10 widely stud-ied in Ro-man ar-chae-ol-ogy ([]Car-reras Mon-fort 
+and Fu-nari[], []1998[]).[]XRC:
+ []
+
+[12] [13] [14] [15]
+<figs/frequencystamp.pdf, id=378, 505.89pt x 505.89pt>
 File: figs/frequencystamp.pdf Graphic file (type pdf)
 <use figs/frequencystamp.pdf>
-Package pdftex.def Info: figs/frequencystamp.pdf  used on input line 244.
+Package pdftex.def Info: figs/frequencystamp.pdf  used on input line 235.
 (pdftex.def)             Requested size: 345.0pt x 345.00414pt.
-<figs/frequency.pdf, id=375, 1011.78pt x 578.16pt>
+<figs/frequency.pdf, id=382, 1011.78pt x 578.16pt>
 File: figs/frequency.pdf Graphic file (type pdf)
 <use figs/frequency.pdf>
-Package pdftex.def Info: figs/frequency.pdf  used on input line 256.
+Package pdftex.def Info: figs/frequency.pdf  used on input line 247.
 (pdftex.def)             Requested size: 345.0pt x 197.14522pt.
- [14] [15 <./figs/frequencystamp.pdf>]
-<figs/britannia.png, id=393, 683.1924pt x 589.2414pt>
+ [16] [17 <./figs/frequencystamp.pdf>]
+<figs/britannia.png, id=401, 683.1924pt x 589.2414pt>
 File: figs/britannia.png Graphic file (type png)
 <use figs/britannia.png>
-Package pdftex.def Info: figs/britannia.png  used on input line 279.
+Package pdftex.def Info: figs/britannia.png  used on input line 270.
 (pdftex.def)             Requested size: 345.0pt x 297.55106pt.
-<figs/germania.png, id=395, 844.8363pt x 491.436pt>
+<figs/germania.png, id=403, 844.8363pt x 491.436pt>
 File: figs/germania.png Graphic file (type png)
 <use figs/germania.png>
-Package pdftex.def Info: figs/germania.png  used on input line 292.
+Package pdftex.def Info: figs/germania.png  used on input line 283.
 (pdftex.def)             Requested size: 345.0pt x 200.6877pt.
- [16 <./figs/frequency.pdf>] [17 <./figs/britannia.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
+ [18 <./figs/frequency.pdf>] [19 <./figs/britannia.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--317
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
-[18 <./figs/germania.png>]
-<figs/dendro.pdf, id=445, 1084.05pt x 361.35pt>
+[20 <./figs/germania.png>]
+<figs/dendro.pdf, id=454, 1084.05pt x 361.35pt>
 File: figs/dendro.pdf Graphic file (type pdf)
 <use figs/dendro.pdf>
-Package pdftex.def Info: figs/dendro.pdf  used on input line 337.
+Package pdftex.def Info: figs/dendro.pdf  used on input line 328.
 (pdftex.def)             Requested size: 1084.04736pt x 361.34912pt.
- [19] [20 <./figs/dendro.pdf>]
-<figs/dendrobrit5.pdf, id=462, 1084.05pt x 361.35pt>
+ [21] [22 <./figs/dendro.pdf>]
+<figs/dendrobrit5.pdf, id=470, 1084.05pt x 361.35pt>
 File: figs/dendrobrit5.pdf Graphic file (type pdf)
 <use figs/dendrobrit5.pdf>
-Package pdftex.def Info: figs/dendrobrit5.pdf  used on input line 352.
+Package pdftex.def Info: figs/dendrobrit5.pdf  used on input line 343.
 (pdftex.def)             Requested size: 1084.04736pt x 361.34912pt.
-<figs/dendroger5.pdf, id=464, 1084.05pt x 361.35pt>
+<figs/dendroger5.pdf, id=472, 1084.05pt x 361.35pt>
 File: figs/dendroger5.pdf Graphic file (type pdf)
 <use figs/dendroger5.pdf>
-Package pdftex.def Info: figs/dendroger5.pdf  used on input line 368.
+Package pdftex.def Info: figs/dendroger5.pdf  used on input line 359.
 (pdftex.def)             Requested size: 1084.04736pt x 361.34912pt.
- [21] [22 <./figs/dendrobrit5.pdf>] [23 <./figs/dendroger5.pdf>] [24] [25] [26]
+ [23] [24 <./figs/dendrobrit5.pdf>] [25 <./figs/dendroger5.pdf>] [26] [27] [28]
  (./jaccardbaetica.bbl
-[27] [28] [29] [30] [31] [32])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 446.
- [33]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 446.
+[29] [30] [31] [32] [33] [34])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 437.
+ [35]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 437.
  (./jaccardbaetica.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 446.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 446.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 437.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 437.
 Package rerunfilecheck Info: File `jaccardbaetica.out' has not changed.
 (rerunfilecheck)             Checksum: 124115F72D2C608661A55B9193A061EC;1329.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 446.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 437.
  ) 
 Here is how much of TeX's memory you used:
- 7138 strings out of 494788
- 102992 string characters out of 6177221
- 188917 words of memory out of 5000000
+ 7140 strings out of 494788
+ 103006 string characters out of 6177221
+ 189917 words of memory out of 5000000
  10256 multiletter control sequences out of 15000+600000
  8142 words of font info for 29 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
@@ -769,10 +780,10 @@ cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on jaccardbaetica.pdf (33 pages, 3735225 bytes).
+Output written on jaccardbaetica.pdf (35 pages, 3738619 bytes).
 PDF statistics:
- 666 PDF objects out of 1000 (max. 8388607)
- 584 compressed objects within 6 object streams
- 127 named destinations out of 1000 (max. 500000)
+ 674 PDF objects out of 1000 (max. 8388607)
+ 590 compressed objects within 6 object streams
+ 129 named destinations out of 1000 (max. 500000)
  211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
