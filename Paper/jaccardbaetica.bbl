@@ -1,4 +1,4 @@
-\begin{thebibliography}{58}
+\begin{thebibliography}{63}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -20,6 +20,12 @@
   {Graecae} et {Latinae}}}, \bibinfo{publisher}{Monografies de la Secci{\'o}
   Hist{\`o}rico-Arqueol{\`o}gica}, \bibinfo{address}{Barcelona}. pp.
   \bibinfo{pages}{15--22}.
+%Type = Book
+\bibitem[{Albertini(1923)}]{albertini_les_1923}
+\bibinfo{author}{Albertini, E.}, \bibinfo{year}{1923}.
+\newblock \bibinfo{title}{{Les divisions administratives de l'{Espagne}
+  romaine}}.
+\newblock \bibinfo{publisher}{Boccard}, \bibinfo{address}{Paris}.
 %Type = Article
 \bibitem[{Ayll{\'o}n-Mart{\'i}n et~al.(2018)Ayll{\'o}n-Mart{\'i}n, {P{\'e}rez
   Gonz{\'a}lez} and {Remesal Rodr{\'i}guez}}]{ayllon_olive_2018}
@@ -52,6 +58,13 @@
   {Nuevas} formas de an{\'a}lisis}}. volume~\bibinfo{volume}{29}.
 \newblock \bibinfo{publisher}{Col .lecci{\'o} Instrumenta. Universitat de
   Barcelona}.
+%Type = Misc
+\bibitem[{Berni and {Garc{\'i}a Vargas}(2016)}]{berni_dressel_2016}
+\bibinfo{author}{Berni, P.}, \bibinfo{author}{{Garc{\'i}a Vargas}, E.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{Dressel 20 ({Guadalquivir} {Valley})}}.
+\newblock \URLprefix
+  \url{http://amphorae.icac.cat/amphora/dressel-20-guadalquivir-valley}.
 %Type = Article
 \bibitem[{Bevan(2014)}]{bevan_mediterranean_2014}
 \bibinfo{author}{Bevan, A.}, \bibinfo{year}{2014}.
@@ -125,6 +138,13 @@
 \newblock \bibinfo{title}{{El abastecimiento militar romano en {Britannia}: una
   perspectiva arqueol{\'o}gica}}.
 \newblock \bibinfo{journal}{ArqueoWeb} \bibinfo{volume}{5}.
+%Type = Book
+\bibitem[{Chic(1985)}]{chicepi1985}
+\bibinfo{author}{Chic, G.}, \bibinfo{year}{1985}.
+\newblock \bibinfo{title}{{Epigrafia anf{\'o}rica de la B{\'e}tica I: Las
+  marcas impresas en el barro sobre {\'a}nforas olearias (Dressel 19, 20 y
+  23)}}. volume~\bibinfo{volume}{1}.
+\newblock \bibinfo{publisher}{Universidad de Sevilla}.
 %Type = Book
 \bibitem[{Chic(1997)}]{Chic_hispania_1997}
 \bibinfo{author}{Chic, G.}, \bibinfo{year}{1997}.
@@ -328,14 +348,22 @@
 \newblock \bibinfo{journal}{Journal of Roman Archaeology - Suppl. series}
   \bibinfo{volume}{29}, \bibinfo{pages}{183--200}.
 %Type = Incollection
-\bibitem[{Remesal(2002)}]{remesal_baetica_2002}
-\bibinfo{author}{Remesal, J.}, \bibinfo{year}{2002}.
+\bibitem[{Remesal(2002a)}]{remesal_baetica_2002}
+\bibinfo{author}{Remesal, J.}, \bibinfo{year}{2002}a.
 \newblock \bibinfo{title}{{Baetica and {Germania}. {Notes} on the concept of
   provincial intedependence in the {Roman} {Empire}}}, in:
   \bibinfo{booktitle}{{The {Roman} {Army} and the {Economy}}}.
   \bibinfo{address}{Amsterdam}, pp. \bibinfo{pages}{293--308}.
 \newblock \URLprefix \url{http://ceipac.ub.edu/biblio/Data/A/0325.pdf}.
   \bibinfo{note}{in: Paul Erdkamp (ed.)}.
+%Type = Incollection
+\bibitem[{Remesal(2002b)}]{remesal_germaniaengl_2002}
+\bibinfo{author}{Remesal, J.}, \bibinfo{year}{2002}b.
+\newblock \bibinfo{title}{{Baetica and {Germania}. {Notes} on the concept of
+  ``provincial interdependence'' in the {Roman} {Empire}}}, in:
+  \bibinfo{booktitle}{{The {Roman} {Army} and the {Economy}}}.
+  \bibinfo{publisher}{J. J.C. C. Gieben}, \bibinfo{address}{Amsterdam}, pp.
+  \bibinfo{pages}{293--308}.
 %Type = Article
 \bibitem[{Remesal(2004)}]{remesal_anforas_2004}
 \bibinfo{author}{Remesal, J.}, \bibinfo{year}{2004}.
@@ -469,6 +497,14 @@
 \newblock \bibinfo{title}{{ggplot2: create elegant data visualisations using
   the grammar of graphics}}.
 \newblock \bibinfo{journal}{R package version} \bibinfo{volume}{2}.
+%Type = Article
+\bibitem[{Williams and Peacock(1983)}]{williams_importation_1983}
+\bibinfo{author}{Williams, D.}, \bibinfo{author}{Peacock, D.},
+  \bibinfo{year}{1983}.
+\newblock \bibinfo{title}{{The importation of olive oil into {Iron} {Age} and
+  {Roman} {Britain}}}.
+\newblock \bibinfo{journal}{Producci{\'o}n y comercio del aceite en la
+  antig{\"u}edad} , \bibinfo{pages}{263--280}.
 %Type = Article
 \bibitem[{Wolda(1981)}]{wolda_similarity_1981}
 \bibinfo{author}{Wolda, H.}, \bibinfo{year}{1981}.
